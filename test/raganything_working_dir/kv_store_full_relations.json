@@ -1,0 +1,6290 @@
+{
+  "doc-431280a61650f8bf1d18c0e8234f5caa": {
+    "relation_pairs": [
+      [
+        "Header Content Analysis",
+        "contains"
+      ],
+      [
+        "Header Content",
+        "ICLR 2015 Conference Publication (header)"
+      ],
+      [
+        "ConvNet architectures",
+        "Image Recognition Datasets"
+      ],
+      [
+        "ILSVRC",
+        "Net-D"
+      ],
+      [
+        "Chatfield et al.",
+        "Image Classification Methods"
+      ],
+      [
+        "Our result",
+        "model"
+      ],
+      [
+        "Content",
+        "Localization in Convolutional Networks (text)"
+      ],
+      [
+        "ConvNets",
+        "Krizhevsky et al. (2012)"
+      ],
+      [
+        "Advancements in Convolutional Networks for Image Recognition (text)",
+        "ILSVRC"
+      ],
+      [
+        "Convolutional Layers",
+        "Stride"
+      ],
+      [
+        "Key Contributions in Visual Recognition (list)",
+        "Proc. ICLR"
+      ],
+      [
+        "A.1 LOCALISATION CONVNET",
+        "ConvNet"
+      ],
+      [
+        "Deep Learning in Smaller Datasets (text)",
+        "Razavian"
+      ],
+      [
+        "Performance Comparison in ILSVRC-2014 Classification Task (text)",
+        "VGG"
+      ],
+      [
+        "Header Content",
+        "Published as a conference paper"
+      ],
+      [
+        "Configuration",
+        "Layer Details"
+      ],
+      [
+        "ICLR",
+        "ICLR 2015 Conference Paper Publication (header)"
+      ],
+      [
+        "Deng, J.",
+        "Key Contributions in Visual Recognition (list)"
+      ],
+      [
+        "Department of Engineering Science",
+        "Visual Geometry Group Affiliation (text)"
+      ],
+      [
+        "Weight Initialization",
+        "Weight Initialization in Neural Networks (text)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "List Content Analysis"
+      ],
+      [
+        "Content",
+        "State of the Art"
+      ],
+      [
+        "ILSVRC Model Training Results (text)",
+        "Multi-Crop Evaluation"
+      ],
+      [
+        "ILSVRC Classification Comparison (table)",
+        "Zeiler & Fergus (Zeiler & Fergus, 2013) (6 nets)"
+      ],
+      [
+        "ILSVRC Classification Comparison (table)",
+        "Sermanet et al., 2014"
+      ],
+      [
+        "A-LRN",
+        "Networks"
+      ],
+      [
+        "Bottou, L.",
+        "List Content Analysis"
+      ],
+      [
+        "Multi-Scale Training Methodology (text)",
+        "Set of Object Sizes"
+      ],
+      [
+        "Localisation Error Analysis Table (table)",
+        "Validation Error"
+      ],
+      [
+        "LOCALISATION EXPERIMENTS",
+        "Localization Experiments Section (text)"
+      ],
+      [
+        "ConvNet Model Performance Improvement (text)",
+        "Model Performance"
+      ],
+      [
+        "Classifier",
+        "Multi-Scale Descriptor Stacking Analysis (text)"
+      ],
+      [
+        "Content",
+        "Report"
+      ],
+      [
+        "ConvNet",
+        "ImageNet Challenge"
+      ],
+      [
+        "Content",
+        "Section 4"
+      ],
+      [
+        "Model Comparison for Action Classification on VOC-2012 (table)",
+        "Oquab et al., 2014"
+      ],
+      [
+        "Descriptor Stacking",
+        "Multi-Scale Descriptor Stacking Analysis (text)"
+      ],
+      [
+        "List Content Analysis",
+        "Razavian, A."
+      ],
+      [
+        "Comparison of Localisation Results in Deep Learning (text)",
+        "ConvNets"
+      ],
+      [
+        "Content",
+        "Multi-Crop Evaluation"
+      ],
+      [
+        "Convolutional Networks",
+        "ImageNet Challenge"
+      ],
+      [
+        "Griffin et al. 2007",
+        "Image Classification Evaluation on Caltech Datasets (text)"
+      ],
+      [
+        "Image Descriptors",
+        "Performance Analysis of Image Descriptor Aggregation (text)"
+      ],
+      [
+        "Krizhevsky, A.",
+        "Sutskever, I."
+      ],
+      [
+        "ConvNet",
+        "Table 3"
+      ],
+      [
+        "Model",
+        "VOC Action Classification Results (text)"
+      ],
+      [
+        "ILSVRC Model Training Results (text)",
+        "Multi-Scale Model E"
+      ],
+      [
+        "Gkioxari, G.",
+        "Kiros, R."
+      ],
+      [
+        "Multi-Scale Training",
+        "Multi-Scale Training Methodology (text)"
+      ],
+      [
+        "ConvNet Training Procedure Analysis (text)",
+        "Iterations"
+      ],
+      [
+        "Advancements in Convolutional Networks for Image Recognition (text)",
+        "Distributed Clusters"
+      ],
+      [
+        "Bounding Boxes",
+        "Model"
+      ],
+      [
+        "Deep Learning in Smaller Datasets (text)",
+        "Zeiler"
+      ],
+      [
+        "Header Content Analysis",
+        "ICLR"
+      ],
+      [
+        "Aggregation",
+        "Validation Sets"
+      ],
+      [
+        "Augmentation",
+        "Training Images"
+      ],
+      [
+        "Hoffman, J.",
+        "List Content Analysis"
+      ],
+      [
+        "Comparison of ILSVRC Localization Methods (table)",
+        "Sermanet et al."
+      ],
+      [
+        "Initialisation",
+        "Training"
+      ],
+      [
+        "Image Caption Generation",
+        "Kiros et al., 2014"
+      ],
+      [
+        "ILSVRC",
+        "Russakovsky et al., 2014"
+      ],
+      [
+        "Image Feature Aggregation Methodology (text)",
+        "Pooling"
+      ],
+      [
+        "Content",
+        "Network Configuration and ConvNet Training Overview (text)"
+      ],
+      [
+        "Model",
+        "Training Scale"
+      ],
+      [
+        "Bounding Box",
+        "Object Localization using ConvNet (text)"
+      ],
+      [
+        "Deep Learning",
+        "Evaluation of Deep Convolutional Networks for Image Classification (text)"
+      ],
+      [
+        "Training",
+        "Training of Localisation ConvNets (text)"
+      ],
+      [
+        "CONFIGURATIONS",
+        "Text Content Analysis"
+      ],
+      [
+        "Ensemble of 2 Models",
+        "Error Rate 6.8%"
+      ],
+      [
+        "Deng et al., 2009",
+        "ImageNet"
+      ],
+      [
+        "Representation Depth",
+        "classification accuracy"
+      ],
+      [
+        "Page_Index 10",
+        "Page_Number Content Analysis"
+      ],
+      [
+        "Advancements in Deep Convolutional Networks (text)",
+        "Szegedy"
+      ],
+      [
+        "Bell, S.",
+        "List Content Analysis"
+      ],
+      [
+        "ConvNet",
+        "Scale Jittering"
+      ],
+      [
+        "ConvNet",
+        "Shallow Net"
+      ],
+      [
+        "Evaluation of ConvNets on ILSVRC (text)",
+        "Training"
+      ],
+      [
+        "Content",
+        "Page Number"
+      ],
+      [
+        "1st and 2nd FC Layers",
+        "SCR"
+      ],
+      [
+        "Bounding Box",
+        "Single-Class Regression"
+      ],
+      [
+        "4.2 MULTI-SCALE EVALUATION",
+        "Multi-Scale Evaluation Section (text)"
+      ],
+      [
+        "ICCVRC Dataset",
+        "Performance Benchmark"
+      ],
+      [
+        "Back-Propagation",
+        "LeCun et al. (1989)"
+      ],
+      [
+        "Advancements in Deep Convolutional Networks (text)",
+        "Ciresan"
+      ],
+      [
+        "OverFeat",
+        "VGG"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Gambardella, L. M."
+      ],
+      [
+        "Test Set",
+        "Validation Set"
+      ],
+      [
+        "Advancements in Convolutional Networks for Image Recognition (text)",
+        "ImageNet"
+      ],
+      [
+        "ConvNet",
+        "Crop"
+      ],
+      [
+        "Advanced Localization Testing Procedure (text)",
+        "Classification ConvNet"
+      ],
+      [
+        "1st and 2nd FC",
+        "regression type"
+      ],
+      [
+        "Deep Learning in Smaller Datasets (text)",
+        "training large models"
+      ],
+      [
+        "Advancements in ConvNet Architectures (text)",
+        "ConvNet architectures"
+      ],
+      [
+        "Back-Propagation",
+        "ConvNet Training Procedure Analysis (text)"
+      ],
+      [
+        "ConvNet",
+        "ConvNet Image Classification Process (text)"
+      ],
+      [
+        "Localisation Error Analysis Table (table)",
+        "Table 9"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Sivic, J."
+      ],
+      [
+        "ConvNet Performance Metrics (table)",
+        "Image Path"
+      ],
+      [
+        "Evaluation",
+        "Performance Metrics"
+      ],
+      [
+        "Applications of Computer Vision (text)",
+        "Long et al., 2014"
+      ],
+      [
+        "Content",
+        "Section 5"
+      ],
+      [
+        "Azizpour, H.",
+        "List Content Analysis"
+      ],
+      [
+        "Performance Analysis of Scale Jittering in Model Evaluation (text)",
+        "Test Set"
+      ],
+      [
+        "List Content Analysis",
+        "Simonyan, K."
+      ],
+      [
+        "ConvNet",
+        "Table 6"
+      ],
+      [
+        "Content",
+        "section"
+      ],
+      [
+        "Fine-tuned Layers",
+        "Localisation Error Analysis for Neural Network Modifications (table)"
+      ],
+      [
+        "ImageNet",
+        "Russakovsky et al., 2014"
+      ],
+      [
+        "ConvNet Configurations Overview (table)",
+        "Footnotes"
+      ],
+      [
+        "Conference Paper Publication Header (header)",
+        "Header Content Analysis"
+      ],
+      [
+        "Comparison of Localisation Results in Deep Learning (text)",
+        "VGG"
+      ],
+      [
+        "Deep ConvNets",
+        "Performance"
+      ],
+      [
+        "Class Recall",
+        "Image Classification Evaluation on Caltech Datasets (text)"
+      ],
+      [
+        "Image Size S=384",
+        "Settings Comparison of Regression Methods (text)"
+      ],
+      [
+        "Content",
+        "Text Content Analysis"
+      ],
+      [
+        "Russakovsky et al.",
+        "researchers"
+      ],
+      [
+        "Performance Analysis of Scale Jittering in Model Evaluation (text)",
+        "Top-1 Error"
+      ],
+      [
+        "Key Contributions in Visual Recognition (list)",
+        "Su, H."
+      ],
+      [
+        "Application",
+        "ConvNet architectures"
+      ],
+      [
+        "Image Classification Analysis on PASCAL VOC Benchmarks (text)",
+        "Test Data"
+      ],
+      [
+        "Layers",
+        "Network Architecture"
+      ],
+      [
+        "Configuration B",
+        "Shallow Net"
+      ],
+      [
+        "Descriptor",
+        "Stacking"
+      ],
+      [
+        "Chen, K.",
+        "Curated List of Computer Vision and Deep Learning References (list)"
+      ],
+      [
+        "Comparison of Localisation Results in Deep Learning (text)",
+        "Russakovsky et al., 2014"
+      ],
+      [
+        "GoogLeNet",
+        "Szegedy et al."
+      ],
+      [
+        "Page Footnote",
+        "University of Oxford"
+      ],
+      [
+        "ConvNets",
+        "Convolutional Neural Network Training Process (text)"
+      ],
+      [
+        "ConvNet Training Efficiency Analysis (text)",
+        "Training System"
+      ],
+      [
+        "Single-Scale Training",
+        "Training Approaches for Neural Networks (text)"
+      ],
+      [
+        "Convolution Boundary Conditions",
+        "Multi-Crop Evaluation"
+      ],
+      [
+        "Page Number 7 (page_number)",
+        "Page_Number"
+      ],
+      [
+        "Advancements in Image Recognition Models (text)",
+        "Girshick"
+      ],
+      [
+        "Caltech-256",
+        "Class Recall"
+      ],
+      [
+        "Document",
+        "Section 2.3 Discussion (text)"
+      ],
+      [
+        "ILSVRC Classification Comparison (table)",
+        "VGG (2 nets, multi-crop & dense eval.)"
+      ],
+      [
+        "Content",
+        "Method"
+      ],
+      [
+        "Comparison of Image Classification Methods (table)",
+        "VOC-2012"
+      ],
+      [
+        "Comparison Section Header (text)",
+        "Document"
+      ],
+      [
+        "Razavian, A.",
+        "Sullivan, J."
+      ],
+      [
+        "Comparison of ILSVRC Localization Methods (table)",
+        "GoogLeNet"
+      ],
+      [
+        "ConvNet Training Procedure Analysis (text)",
+        "Mini-batch"
+      ],
+      [
+        "Training",
+        "Training Section Header (text)"
+      ],
+      [
+        "Image Classification Analysis on PASCAL VOC Benchmarks (text)",
+        "PASCAL VOC-2012"
+      ],
+      [
+        "Advancements in ConvNet Architectures (text)",
+        "Researcher"
+      ],
+      [
+        "Caltech",
+        "Multi-Scale Descriptor Stacking Analysis (text)"
+      ],
+      [
+        "Convolutional Neural Network Training Process (text)",
+        "Spatial Padding"
+      ],
+      [
+        "Comparison of ConvNet Evaluation Techniques (table)",
+        "Top-5 Validation Error"
+      ],
+      [
+        "Boser, B.",
+        "Curated List of Computer Vision and Deep Learning References (list)"
+      ],
+      [
+        "1409.1556v6",
+        "arXiv"
+      ],
+      [
+        "Ciresan",
+        "Neural Networks"
+      ],
+      [
+        "List Content Analysis",
+        "Mensink, T."
+      ],
+      [
+        "Bounded Box",
+        "Training of Localisation ConvNets (text)"
+      ],
+      [
+        "Convolutional Network Depth and Image Recognition Accuracy Study (text)",
+        "Thorough Evaluation"
+      ],
+      [
+        "Deep Learning in Smaller Datasets (text)",
+        "overfitting"
+      ],
+      [
+        "ConvNet Training Efficiency Analysis (text)",
+        "Krizhevsky"
+      ],
+      [
+        "228180",
+        "Research Funding Acknowledgment (text)"
+      ],
+      [
+        "ConvNet Training Efficiency Analysis (text)",
+        "Single GPU"
+      ],
+      [
+        "Tuple",
+        "Weights"
+      ],
+      [
+        "Image Classification Methods",
+        "Zeiler & Fergus"
+      ],
+      [
+        "A-LRN",
+        "Network Parameters Overview (table)"
+      ],
+      [
+        "Networks",
+        "Total Parameters"
+      ],
+      [
+        "ConvNet",
+        "Training Approaches for Neural Networks (text)"
+      ],
+      [
+        "Howard",
+        "Sermanet et al."
+      ],
+      [
+        "Advancements in Convolutional Networks for Image Recognition (text)",
+        "Sermanet et al., 2014"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Vinyals, O."
+      ],
+      [
+        "Receptive Window Size",
+        "Sermanet et al."
+      ],
+      [
+        "Footnotes",
+        "Network Parameters Overview (table)"
+      ],
+      [
+        "Content",
+        "Header Content Analysis"
+      ],
+      [
+        "Image Representation Performance Analysis (text)",
+        "Object detection-assisted classification pipeline"
+      ],
+      [
+        "Initialization",
+        "Layers"
+      ],
+      [
+        "ConvNet Training Procedure Analysis (text)",
+        "Krizhevsky et al. (2012)"
+      ],
+      [
+        "Neural Network",
+        "Training Techniques"
+      ],
+      [
+        "Berg, A. C.",
+        "Key Contributions in Visual Recognition (list)"
+      ],
+      [
+        "Carlsson, S.",
+        "Curated List of Computer Vision and Deep Learning References (list)"
+      ],
+      [
+        "Multi-Scale Model",
+        "Multi-Scale Object Recognition Model Training (text)"
+      ],
+      [
+        "ConvNet Training Procedure Analysis (text)",
+        "Weight Decay"
+      ],
+      [
+        "Section 2.3 Discussion (text)",
+        "Text Content Analysis"
+      ],
+      [
+        "Image Classification Analysis on PASCAL VOC Benchmarks (text)",
+        "object categories"
+      ],
+      [
+        "Training",
+        "Weight Initialization"
+      ],
+      [
+        "ILSVRC Classification Comparison (table)",
+        "Krizhevsky et al. (Krizhevsky et al., 2012) (5 nets)"
+      ],
+      [
+        "Classification ConvNets",
+        "Training of Localisation ConvNets (text)"
+      ],
+      [
+        "Key Contributions in Visual Recognition (list)",
+        "Mathieu, M."
+      ],
+      [
+        "16-Layer Model",
+        "Advancements in Image Recognition Models (text)"
+      ],
+      [
+        "6 nets",
+        "Zeiler & Fergus"
+      ],
+      [
+        "Content",
+        "Research Paper Outline (text)"
+      ],
+      [
+        "Comparison of ConvNet Evaluation Techniques (table)",
+        "Results"
+      ],
+      [
+        "Training Image Size in ConvNet (text)",
+        "Training Scale"
+      ],
+      [
+        "Accuracy",
+        "Multi-Crop Evaluation"
+      ],
+      [
+        "Chatfield, K.",
+        "List Content Analysis"
+      ],
+      [
+        "Image Representation Performance Analysis (text)",
+        "Table 11"
+      ],
+      [
+        "Classification Experiments",
+        "Section"
+      ],
+      [
+        "Advancements in Deep Convolutional Networks (text)",
+        "Street Number Recognition"
+      ],
+      [
+        "Page Number 6 (page_number)",
+        "Page_Number"
+      ],
+      [
+        "NVIDIA",
+        "Support"
+      ],
+      [
+        "Aggregation",
+        "Aggregation of Image Descriptors in VOC Dataset (text)"
+      ],
+      [
+        "Advancements in ConvNet Architecture (text)",
+        "Krizhevsky et al. (2012)"
+      ],
+      [
+        "Comparison of Neural Network Models (text)",
+        "Net-D"
+      ],
+      [
+        "Architecture Section Header (text)",
+        "Document"
+      ],
+      [
+        "ConvNet Transfer Learning Methodology (text)",
+        "ConvNets"
+      ],
+      [
+        "ConvNet Configuration Analysis (text)",
+        "Receptive Fields"
+      ],
+      [
+        "Bounding Box Prediction",
+        "Network Evaluation"
+      ],
+      [
+        "ConvNet Training Procedure Analysis (text)",
+        "Epoch"
+      ],
+      [
+        "Table 3",
+        "Test Image Size"
+      ],
+      [
+        "ILSVRC-2014",
+        "Training"
+      ],
+      [
+        "Content",
+        "Page Number (page_number)"
+      ],
+      [
+        "Comparison of Localisation Results in Deep Learning (text)",
+        "Overfeat"
+      ],
+      [
+        "Experiment Basics",
+        "List Content"
+      ],
+      [
+        "Advancements in Deep Convolutional Networks (text)",
+        "Neural Network Models"
+      ],
+      [
+        "Girshick, R. B.",
+        "Hoffman, J."
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Sullivan, J."
+      ],
+      [
+        "List Content Analysis",
+        "Upchurch, P."
+      ],
+      [
+        "Gradient Descent",
+        "Mini-batch"
+      ],
+      [
+        "Comparison of ConvNet Evaluation Techniques (table)",
+        "Error Rates"
+      ],
+      [
+        "Evaluation of ConvNets on ILSVRC (text)",
+        "Feature Extractors"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Eslami, S. M. A."
+      ],
+      [
+        "ConvNet Configurations Overview (table)",
+        "Image Path"
+      ],
+      [
+        "ConvNet Performance Metrics (table)",
+        "Table 3"
+      ],
+      [
+        "Classification Performance",
+        "Evaluation Criterion"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Williams, C."
+      ],
+      [
+        "Feature",
+        "Image Feature Aggregation Methodology (text)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Yan, S."
+      ],
+      [
+        "Overfeat",
+        "Sermanet et al., 2014"
+      ],
+      [
+        "ConvNet",
+        "Deep Learning"
+      ],
+      [
+        "ConvNet Performance Metrics Table (table)",
+        "Top-5 Validation Error"
+      ],
+      [
+        "Bottou, L.",
+        "Curated List of Computer Vision and Deep Learning References (list)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Schmidhuber, J."
+      ],
+      [
+        "Ground-Truth Class",
+        "Localisation Error Analysis for Neural Network Modifications (table)"
+      ],
+      [
+        "Comparison of Image Classification Methods (table)",
+        "Wei et al."
+      ],
+      [
+        "Mean AP",
+        "Model Comparison for Action Classification on VOC-2012 (table)"
+      ],
+      [
+        "ConvNet Model Evaluation (text)",
+        "Table 3"
+      ],
+      [
+        "Corrected Error Rates",
+        "Multiple ConvNet Fusion Results (table)"
+      ],
+      [
+        "ConvNet Transfer Learning Methodology (text)",
+        "ILSVRC"
+      ],
+      [
+        "ConvNet",
+        "post-submission"
+      ],
+      [
+        "Scale Jittering",
+        "Training Time"
+      ],
+      [
+        "ConvNet",
+        "Gradient Descent"
+      ],
+      [
+        "Karpathy, A.",
+        "Key Contributions in Visual Recognition (list)"
+      ],
+      [
+        "Content",
+        "Localisation Performance Evaluation (text)"
+      ],
+      [
+        "Bell et al., 2014",
+        "Texture Recognition"
+      ],
+      [
+        "Network Parameters Overview (table)",
+        "Number of Parameters"
+      ],
+      [
+        "CoRR",
+        "Key Contributions in Visual Recognition (list)"
+      ],
+      [
+        "Comparison of Localisation Results in Deep Learning (text)",
+        "ILSVRC-2013"
+      ],
+      [
+        "Model",
+        "Training Process"
+      ],
+      [
+        "ConvNet",
+        "Network Configurations"
+      ],
+      [
+        "Analysis",
+        "Conclusion Section (text)"
+      ],
+      [
+        "Content Analysis",
+        "Page Number 9"
+      ],
+      [
+        "Efficiency in Fully-Convolutional Networks (text)",
+        "Szegedy"
+      ],
+      [
+        "Advancements in ConvNet Architecture (text)",
+        "ILSVRC-2013"
+      ],
+      [
+        "Back-Propagation",
+        "Gradient Descent"
+      ],
+      [
+        "Applications of Computer Vision (text)",
+        "Semantic Segmentation"
+      ],
+      [
+        "Training Approaches for Neural Networks (text)",
+        "Training Scale"
+      ],
+      [
+        "ConvNets",
+        "Wei et al."
+      ],
+      [
+        "Object",
+        "S"
+      ],
+      [
+        "Appendix B",
+        "Content"
+      ],
+      [
+        "Deep Convolutional Neural Network",
+        "Research Team"
+      ],
+      [
+        "Analysis of ConvNet Depth and Configuration Impact (text)",
+        "Configuration E"
+      ],
+      [
+        "Evaluation",
+        "Model"
+      ],
+      [
+        "Model",
+        "Training"
+      ],
+      [
+        "S",
+        "Training Image Size in ConvNet (text)"
+      ],
+      [
+        "Bounding Box Predictions",
+        "Offsets Technique Overview (text)"
+      ],
+      [
+        "Evaluation of Deep Convolutional Networks for Image Classification (text)",
+        "Representation Depth"
+      ],
+      [
+        "Deep ConvNet",
+        "Shallow Net"
+      ],
+      [
+        "He et al.",
+        "Image Classification Methods"
+      ],
+      [
+        "Bell, S.",
+        "Curated List of Computer Vision and Deep Learning References (list)"
+      ],
+      [
+        "Content",
+        "Page"
+      ],
+      [
+        "Object Localization using ConvNet (text)",
+        "Table 1"
+      ],
+      [
+        "Andrew Zisserman",
+        "Authorship Citation (text)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Darrell, T."
+      ],
+      [
+        "ILSVRC Challenge Analysis (text)",
+        "Sect. A.1"
+      ],
+      [
+        "ILSVRC Classification Comparison (table)",
+        "MSRA (He et al., 2014) (1 net)"
+      ],
+      [
+        "Comparison of Neural Networks",
+        "List Content"
+      ],
+      [
+        "VOC datasets",
+        "Wei et al. (2014)"
+      ],
+      [
+        "2015",
+        "ICLR 2015 Conference Paper Acknowledgment (header)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Salakhutdinov, R."
+      ],
+      [
+        "Offsets Technique Overview (text)",
+        "Sermanet"
+      ],
+      [
+        "Fully-Connected Layers",
+        "Soft-Max Layer"
+      ],
+      [
+        "Jia, Y.",
+        "Key Contributions in Visual Recognition (list)"
+      ],
+      [
+        "Gradient",
+        "Multi-GPU Training Implementation Overview (text)"
+      ],
+      [
+        "Convolutional Neural Network Training Process (text)",
+        "Image"
+      ],
+      [
+        "Caltech",
+        "Descriptor Stacking"
+      ],
+      [
+        "Chen, Q.",
+        "List Content Analysis"
+      ],
+      [
+        "Configuration C",
+        "Configuration D"
+      ],
+      [
+        "Ensemble of Models",
+        "Model Ensemble"
+      ],
+      [
+        "CONVNET FUSION",
+        "Neural Network"
+      ],
+      [
+        "A",
+        "Networks"
+      ],
+      [
+        "Glorot & Bengio (2010)",
+        "Weight Initialization in Neural Networks (text)"
+      ],
+      [
+        "2014",
+        "Offsets Technique Overview (text)"
+      ],
+      [
+        "Azizpour, H.",
+        "Curated List of Computer Vision and Deep Learning References (list)"
+      ],
+      [
+        "Action Classification on VOC-2012 (text)",
+        "Net-E"
+      ],
+      [
+        "ConvNet",
+        "Krizhevsky"
+      ],
+      [
+        "Comparison Section Header (text)",
+        "Content"
+      ],
+      [
+        "Net-E",
+        "Table 11"
+      ],
+      [
+        "Network Parameters Overview (table)",
+        "Table Analysis"
+      ],
+      [
+        "ConvNet Image Classification Process (text)",
+        "Fully-Connected Layers"
+      ],
+      [
+        "Object in Images",
+        "Training"
+      ],
+      [
+        "Camera-Ready Version",
+        "Research Paper Version History (list)"
+      ],
+      [
+        "Deep Learning",
+        "Neural Network"
+      ],
+      [
+        "Evaluation",
+        "Post-Submission"
+      ],
+      [
+        "ConvNet Transfer Learning Methodology (text)",
+        "Image Features"
+      ],
+      [
+        "Conference Paper Publication Information (header)",
+        "ICLR"
+      ],
+      [
+        "16-Layer Model",
+        "Object Detection"
+      ],
+      [
+        "Page 10",
+        "Page Number 10 (page_number)"
+      ],
+      [
+        "Neural Network Architecture Description (text)",
+        "Soft-Max Layer"
+      ],
+      [
+        "Multi-Crop Technique",
+        "Multiple ConvNet Fusion Results (table)"
+      ],
+      [
+        "Crop",
+        "Training Images"
+      ],
+      [
+        "Neural Network",
+        "Spatial Resolution"
+      ],
+      [
+        "Localisation Performance Evaluation (text)",
+        "Russakovsky et al."
+      ],
+      [
+        "ImageNet",
+        "Krizhevsky et al., 2012"
+      ],
+      [
+        "Advanced Localization Testing Procedure (text)",
+        "Bounding Box Predictions"
+      ],
+      [
+        "Sermanet et al., 2014",
+        "Training of Localisation ConvNets (text)"
+      ],
+      [
+        "Architecture D",
+        "Object Localization using ConvNet (text)"
+      ],
+      [
+        "Localization ConvNet",
+        "Performance Metrics"
+      ],
+      [
+        "A",
+        "A-LRN"
+      ],
+      [
+        "Research Funding Acknowledgment (text)",
+        "VisRec"
+      ],
+      [
+        "Deep Convolutional Networks",
+        "Image Recognition"
+      ],
+      [
+        "Scale Jittering",
+        "Test Time"
+      ],
+      [
+        "ConvNet",
+        "Section on ConvNet Fusion (text)"
+      ],
+      [
+        "Document",
+        "LOCALISATION EXPERIMENTS"
+      ],
+      [
+        "Deep Features",
+        "generalization"
+      ],
+      [
+        "Author Affiliations and Research Link (page_footnote)",
+        "Google DeepMind"
+      ],
+      [
+        "ConvNet Transfer Learning Methodology (text)",
+        "Target Dataset"
+      ],
+      [
+        "Multi-GPU Training Implementation Overview (text)",
+        "Training Images"
+      ],
+      [
+        "ConvNet Configs",
+        "ConvNet Performance Metrics Table (table)"
+      ],
+      [
+        "Convolutional Network",
+        "ImageNet Challenge 2014"
+      ],
+      [
+        "Method",
+        "Sermanet et al. (2014)"
+      ],
+      [
+        "Convolution Layers",
+        "Small Receptive Fields"
+      ],
+      [
+        "ConvNet Configuration Analysis (text)",
+        "ILSVRC-2013"
+      ],
+      [
+        "Caption",
+        "ConvNet Configurations Overview (table)"
+      ],
+      [
+        "List Content Analysis",
+        "Sutskever, I."
+      ],
+      [
+        "A-LRN Network",
+        "Models B–E"
+      ],
+      [
+        "Content Analysis",
+        "Page Number"
+      ],
+      [
+        "Classifier",
+        "Features"
+      ],
+      [
+        "Evaluation of ConvNet Models with Scale Jittering (text)",
+        "Training Scale S"
+      ],
+      [
+        "Action Classification on VOC-2012 (text)",
+        "Bounding Box"
+      ],
+      [
+        "ILSVRC-2013",
+        "Zeiler & Fergus"
+      ],
+      [
+        "Page Number 2 (page_number)",
+        "Page_Number Content Analysis"
+      ],
+      [
+        "ILSVRC Classification Comparison (table)",
+        "images/57e0f7ffc14a70d087a6fbc51f9dbb18bfb1d6db9e26190a0690d12aceb1fd09.jpg"
+      ],
+      [
+        "Model",
+        "Pre-trained Weights"
+      ],
+      [
+        "Data Augmentation",
+        "Test Set"
+      ],
+      [
+        "Hinton, G. E.",
+        "List Content Analysis"
+      ],
+      [
+        "Method",
+        "VGG (ILSVRC submission, 7 nets, dense eval.)"
+      ],
+      [
+        "ConvNet",
+        "Table"
+      ],
+      [
+        "Architecture Section",
+        "Document"
+      ],
+      [
+        "Deep Neural Networks",
+        "VGG Net-D & Net-E"
+      ],
+      [
+        "All Layers",
+        "PCR"
+      ],
+      [
+        "ConvNet Model Evaluation (text)",
+        "Sect. 2.2"
+      ],
+      [
+        "Neural Network Architecture Analysis (text)",
+        "Szegedy et al. (2014)"
+      ],
+      [
+        "Filters",
+        "Input Channel Transformation"
+      ],
+      [
+        "Major Paper Revisions Overview (text)",
+        "paper revisions"
+      ],
+      [
+        "Comparison of ConvNet Evaluation Techniques (table)",
+        "ConvNet"
+      ],
+      [
+        "Visual Geometry Group",
+        "Visual Geometry Group Affiliation (text)"
+      ],
+      [
+        "Content",
+        "Section 3.1"
+      ],
+      [
+        "Performance Measurement",
+        "mean Average Precision"
+      ],
+      [
+        "Image Classification Analysis on PASCAL VOC Benchmarks (text)",
+        "Training Data"
+      ],
+      [
+        "ConvNet",
+        "Evaluation"
+      ],
+      [
+        "16-Layer Model",
+        "Krizhevsky"
+      ],
+      [
+        "Chatfield et al. (2014)",
+        "Net-E"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Hinton, G. E."
+      ],
+      [
+        "Chatfield et al. (2014)",
+        "Image Representation Performance Analysis (text)"
+      ],
+      [
+        "Feature Extractors",
+        "Pre-trained Models"
+      ],
+      [
+        "Analysis of ConvNet Depth and Configuration Impact (text)",
+        "Shallow Net"
+      ],
+      [
+        "List Content Analysis",
+        "Perronnin, F."
+      ],
+      [
+        "ConvNet Performance Metrics Table (table)",
+        "Validation Errors"
+      ],
+      [
+        "Multi-Scale Object Recognition Model Training (text)",
+        "Single-Scale Model"
+      ],
+      [
+        "Conference Paper Publication Header (header)",
+        "Published Conference Paper"
+      ],
+      [
+        "Multi-Scale Object Recognition Model Training (text)",
+        "Object Recognition"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Lin, M."
+      ],
+      [
+        "ILSVRC dataset",
+        "Image Representation Performance Analysis (text)"
+      ],
+      [
+        "ILSVRC Model Training Results (text)",
+        "Model E"
+      ],
+      [
+        "Model Performance",
+        "Use of Data"
+      ],
+      [
+        "Action Classification on VOC-2012 (text)",
+        "mAP"
+      ],
+      [
+        "Offsets Technique",
+        "Offsets Technique Overview (text)"
+      ],
+      [
+        "ILSVRC Model Training Results (text)",
+        "Table 6"
+      ],
+      [
+        "KAREN",
+        "Visual Geometry Group Affiliation (text)"
+      ],
+      [
+        "Comparison of ILSVRC Localization Methods (table)",
+        "ILSVRC"
+      ],
+      [
+        "Evaluation of ConvNet Models with Scale Jittering (text)",
+        "Test Image Sizes"
+      ],
+      [
+        "50 Crops per Scale",
+        "Efficiency in Fully-Convolutional Networks (text)"
+      ],
+      [
+        "Regression Loss",
+        "Training of Localisation ConvNets (text)"
+      ],
+      [
+        "Girshick, R. B.",
+        "List Content Analysis"
+      ],
+      [
+        "ConvNet",
+        "ILSVRC submission"
+      ],
+      [
+        "Content",
+        "Introduction"
+      ],
+      [
+        "Caltech-101",
+        "He et al. (2014)"
+      ],
+      [
+        "Depth",
+        "Performance"
+      ],
+      [
+        "Google DeepMind",
+        "Page Footnote"
+      ],
+      [
+        "PCR",
+        "SCR"
+      ],
+      [
+        "Chatfield, K.",
+        "Curated List of Computer Vision and Deep Learning References (list)"
+      ],
+      [
+        "ConvNet",
+        "Pre-initialisation"
+      ],
+      [
+        "Localisation Error Analysis Table (table)",
+        "Smallest Image Side"
+      ],
+      [
+        "Network",
+        "Parameters"
+      ],
+      [
+        "Central Crop",
+        "Testing Protocols in Network Evaluation (text)"
+      ],
+      [
+        "Deep Learning in Smaller Datasets (text)",
+        "Net-E"
+      ],
+      [
+        "Model",
+        "Training Approaches for Neural Networks (text)"
+      ],
+      [
+        "Chatfield",
+        "Razavian"
+      ],
+      [
+        "Caltech",
+        "Research Paper Version History (list)"
+      ],
+      [
+        "ConvNet Model Performance Improvement (text)",
+        "Model"
+      ],
+      [
+        "Caption",
+        "Model Comparison for Action Classification on VOC-2012 (table)"
+      ],
+      [
+        "Corrado, G.",
+        "Curated List of Computer Vision and Deep Learning References (list)"
+      ],
+      [
+        "ConvNet",
+        "Weight Decay"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Proc. BMVC"
+      ],
+      [
+        "Bounding Box",
+        "ConvNet"
+      ],
+      [
+        "Classification System",
+        "Evaluation of Localisation Setting in Classification Systems (text)"
+      ],
+      [
+        "ConvNet Model Evaluation (text)",
+        "Performance Evaluation"
+      ],
+      [
+        "Comparison of ConvNet Evaluation Techniques (table)",
+        "Configuration E"
+      ],
+      [
+        "arXiv",
+        "arXiv Reference Citation (aside_text)"
+      ],
+      [
+        "Comparison of ILSVRC Localization Methods (table)",
+        "VGG"
+      ],
+      [
+        "Filters",
+        "Input Channels"
+      ],
+      [
+        "Conv. Filters",
+        "Regularization"
+      ],
+      [
+        "Configuration A",
+        "Weight Initialization in Neural Networks (text)"
+      ],
+      [
+        "Image Feature Aggregation Methodology (text)",
+        "Stacking"
+      ],
+      [
+        "Caltech-101",
+        "Comparison of Neural Network Models (text)"
+      ],
+      [
+        "ConvNet Performance Metrics Table (table)",
+        "Structure"
+      ],
+      [
+        "Convolutional Layers",
+        "Fully-Connected Layers"
+      ],
+      [
+        "ILSVRC Model Training Results (text)",
+        "Single-Scale Networks"
+      ],
+      [
+        "ILSVRC",
+        "Test Set"
+      ],
+      [
+        "Conference Paper Publication Header (header)",
+        "ICLR"
+      ],
+      [
+        "Fine-Tuning All Layers",
+        "Fine-Tuning Fully-Connected Layers"
+      ],
+      [
+        "Evaluation of ConvNet Models with Scale Jittering (text)",
+        "Scale Jittering"
+      ],
+      [
+        "A",
+        "Network Parameters Overview (table)"
+      ],
+      [
+        "Image Classification Analysis on PASCAL VOC Benchmarks (text)",
+        "Validation Data"
+      ],
+      [
+        "authors",
+        "training method"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Gkioxari, G."
+      ],
+      [
+        "Advancements in Convolutional Networks for Image Recognition (text)",
+        "Perronnin et al., 2010"
+      ],
+      [
+        "Content",
+        "Single Scale Evaluation Section (text)"
+      ],
+      [
+        "Convolutional Network Depth and Image Recognition Accuracy Study (text)",
+        "Small Convolution Filters"
+      ],
+      [
+        "$1 \\times 1$ Convolution Layers in Neural Networks (text)",
+        "Lin et al. (2014)"
+      ],
+      [
+        "Model Configurations",
+        "Performance"
+      ],
+      [
+        "Classification ConvNets",
+        "Localization ConvNets"
+      ],
+      [
+        "Image Preprocessing for ConvNet Training (text)",
+        "Krizhevsky et al., 2012"
+      ],
+      [
+        "Network Parameters Overview (table)",
+        "Structure"
+      ],
+      [
+        "Header Content Analysis",
+        "ICLR 2015"
+      ],
+      [
+        "Error Metrics",
+        "Model Performance"
+      ],
+      [
+        "Very Deep Convolutional Networks",
+        "Very Deep Convolutional Networks for Large-Scale Image Recognition (text)"
+      ],
+      [
+        "Configuration",
+        "Performance"
+      ],
+      [
+        "Convolution Layer",
+        "Linear Projection"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Maji, S."
+      ],
+      [
+        "Content",
+        "Page Number 7 (page_number)"
+      ],
+      [
+        "Conference",
+        "Conference Paper Publication Header (header)"
+      ],
+      [
+        "ICLR 2015",
+        "Published Conference Paper"
+      ],
+      [
+        "Donahue, J.",
+        "Girshick, R. B."
+      ],
+      [
+        "Content",
+        "Network in Network"
+      ],
+      [
+        "Descriptor",
+        "Image Feature Aggregation Methodology (text)"
+      ],
+      [
+        "Net-D",
+        "Net-E"
+      ],
+      [
+        "ConvNet Performance Metrics (table)",
+        "Performance Metrics"
+      ],
+      [
+        "Comparison of ILSVRC Localization Methods (table)",
+        "OverFeat"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Zisserman, A."
+      ],
+      [
+        "Conference Paper Publication Header (header)",
+        "Header Content"
+      ],
+      [
+        "Header Content Analysis",
+        "ICLR 2015 Conference Paper Publication (header)"
+      ],
+      [
+        "Krizhevsky, A.",
+        "List Content Analysis"
+      ],
+      [
+        "Krizhevsky et al. (2012)",
+        "single network"
+      ],
+      [
+        "Evaluation of Deep Convolutional Networks for Image Classification (text)",
+        "Krizhevsky"
+      ],
+      [
+        "ConvNet Configuration Analysis (text)",
+        "Sermanet"
+      ],
+      [
+        "Descriptor Aggregation",
+        "Scales"
+      ],
+      [
+        "Content Analysis",
+        "Page Number (page_number)"
+      ],
+      [
+        "Caption",
+        "Comparison of Image Classification Methods (table)"
+      ],
+      [
+        "2014 Localization Challenge",
+        "ILSVRC Challenge Analysis (text)"
+      ],
+      [
+        "Analysis of ConvNet Depth and Configuration Impact (text)",
+        "Receptive Field"
+      ],
+      [
+        "Scale Jittering",
+        "Training"
+      ],
+      [
+        "Dense Evaluation",
+        "ILSVRC Model Training Results (text)"
+      ],
+      [
+        "ConvNet Configurations Overview (table)",
+        "ReLU"
+      ],
+      [
+        "$1 \\times 1$ Convolution Layers in Neural Networks (text)",
+        "Deep Learning"
+      ],
+      [
+        "Page Number 11 (page_number)",
+        "Page_Index 10"
+      ],
+      [
+        "Content",
+        "Page Number Eight (page_number)"
+      ],
+      [
+        "Global average pooling",
+        "features"
+      ],
+      [
+        "Ensemble of 7 Models",
+        "Error Rate 7.3%"
+      ],
+      [
+        "Max-Pooling",
+        "Multi-Scale Descriptor Stacking Analysis (text)"
+      ],
+      [
+        "Analysis of a document segment",
+        "Text Content Analysis"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Fergus, R."
+      ],
+      [
+        "Content",
+        "Document"
+      ],
+      [
+        "ConvNet Training Procedure Analysis (text)",
+        "Parameter"
+      ],
+      [
+        "ConvNet Configuration Overview (text)",
+        "ConvNet Configurations"
+      ],
+      [
+        "ConvNet Model Evaluation (text)",
+        "Layer Configurations"
+      ],
+      [
+        "Bell, S.",
+        "Snavely, N."
+      ],
+      [
+        "Conference Paper",
+        "ICLR 2015 Conference Paper (header)"
+      ],
+      [
+        "ILSVRC Challenge Analysis (text)",
+        "Localization Task"
+      ],
+      [
+        "Image Representation Performance Analysis (text)",
+        "Net-E"
+      ],
+      [
+        "Comparison of Neural Network Models (text)",
+        "Table 11"
+      ],
+      [
+        "Evaluation of ConvNet Models with Scale Jittering (text)",
+        "Variable Scale S"
+      ],
+      [
+        "Pre-trained Weights",
+        "Training Approaches for Neural Networks (text)"
+      ],
+      [
+        "Advancements in ConvNet Architecture (text)",
+        "Howard"
+      ],
+      [
+        "ILSVRC-2014",
+        "VGG"
+      ],
+      [
+        "Classification System",
+        "Prediction"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "In Proc. CVPR"
+      ],
+      [
+        "Page Number Eight (page_number)",
+        "Page_Number"
+      ],
+      [
+        "Caltech-256",
+        "Chatfield et al. (2014)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Shelhamer, E."
+      ],
+      [
+        "Conclusion Section (text)",
+        "Content"
+      ],
+      [
+        "Carlsson, S.",
+        "List Content Analysis"
+      ],
+      [
+        "Image Preprocessing for ConvNet Training (text)",
+        "Rescaled Images"
+      ],
+      [
+        "ILSVRC Classification Comparison (table)",
+        "top-1 val. error (%), top-5 val. error (%), top-5 test error (%)"
+      ],
+      [
+        "Training",
+        "Weights"
+      ],
+      [
+        "Dense Evaluation",
+        "Padding"
+      ],
+      [
+        "Evaluation Criterion",
+        "Top-5 Accuracy Criterion in ILSVRC (text)"
+      ],
+      [
+        "Research Paper Outline (text)",
+        "Section 3"
+      ],
+      [
+        "Configuration E",
+        "Lowest Top-1 Error"
+      ],
+      [
+        "Convolutional Neural Network Training Process (text)",
+        "Max-Pooling"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Zemel, R. S."
+      ],
+      [
+        "ConvNet Model Evaluation (text)",
+        "Test Image Size"
+      ],
+      [
+        "Performance Comparison in ILSVRC-2014 Classification Task (text)",
+        "Table 7"
+      ],
+      [
+        "Advancements in Image Recognition Models (text)",
+        "Research Community"
+      ],
+      [
+        "Bounding Box Predictions",
+        "Greedy Merging Procedure"
+      ],
+      [
+        "$1 \\times 1$ Convolution Layers in Neural Networks (text)",
+        "Linear Projection"
+      ],
+      [
+        "Settings Comparison of Regression Methods (text)",
+        "Single-Class Regression"
+      ],
+      [
+        "ConvNet",
+        "Training Image Size in ConvNet (text)"
+      ],
+      [
+        "Key Contributions in Visual Recognition (list)",
+        "Szegedy, C."
+      ],
+      [
+        "Localisation Error Analysis Table (table)",
+        "Testing Size"
+      ],
+      [
+        "Class Score Map",
+        "Convolutional Layers"
+      ],
+      [
+        "Bounding Box",
+        "Image"
+      ],
+      [
+        "Conference Paper",
+        "ICLR"
+      ],
+      [
+        "Fully-Connected Layers",
+        "Neural Network Architecture Description (text)"
+      ],
+      [
+        "Caltech-256",
+        "Comparison of Neural Network Models (text)"
+      ],
+      [
+        "ILSVRC-2014",
+        "Methodology of ILSVRC-2014 Competing Experiments (text)"
+      ],
+      [
+        "Content",
+        "Network Configurations"
+      ],
+      [
+        "Offsets Technique",
+        "Spatial Resolution"
+      ],
+      [
+        "Multi-Crop Evaluation",
+        "Multi-Crop Evaluation Section (text)"
+      ],
+      [
+        "Configurations",
+        "Model D and E"
+      ],
+      [
+        "Analysis",
+        "Comparison of Convolutional Layer Configurations (text)"
+      ],
+      [
+        "Research Paper Overview on ILSVRC Task (text)",
+        "Sect. 4"
+      ],
+      [
+        "Method",
+        "Sect. A.1"
+      ],
+      [
+        "Models",
+        "Scales"
+      ],
+      [
+        "Images",
+        "Localisation Error Analysis Table (table)"
+      ],
+      [
+        "Hubbard, W.",
+        "List Content Analysis"
+      ],
+      [
+        "Content",
+        "Rectification Function"
+      ],
+      [
+        "Advancements in Convolutional Networks for Image Recognition (text)",
+        "Simonyan & Zisserman, 2014"
+      ],
+      [
+        "Comparison of Dense and Multi-Crop ConvNet Evaluations (text)",
+        "Dense ConvNet Evaluation"
+      ],
+      [
+        "Aggregating Image Descriptors",
+        "Method"
+      ],
+      [
+        "Image Classification Training",
+        "Research Paper Outline (text)"
+      ],
+      [
+        "Features",
+        "Multiple scales"
+      ],
+      [
+        "Header Content Analysis",
+        "discusses"
+      ],
+      [
+        "Convolutional Neural Networks",
+        "Pre-trained Models"
+      ],
+      [
+        "Neural Networks",
+        "ReLU"
+      ],
+      [
+        "CONVNET CONFIGURATIONS",
+        "ConvNet Configurations Overview (text)"
+      ],
+      [
+        "ILSVRC-2013",
+        "Sermanet et al."
+      ],
+      [
+        "ConvNet",
+        "Image"
+      ],
+      [
+        "Neural Network",
+        "Testing Protocols in Network Evaluation (text)"
+      ],
+      [
+        "ConvNet Configuration Overview (text)",
+        "Table 1"
+      ],
+      [
+        "ConvNet Configuration Analysis (text)",
+        "Convolution Layers"
+      ],
+      [
+        "GoogLeNet (Szegedy et al., 2014) (1 net)",
+        "Method"
+      ],
+      [
+        "Sermanet et al. (2014)",
+        "Settings Comparison of Regression Methods (text)"
+      ],
+      [
+        "Applications of Computer Vision (text)",
+        "Image Caption Generation"
+      ],
+      [
+        "Convolutional Layers",
+        "Weight Initialization in Neural Networks (text)"
+      ],
+      [
+        "Caltech-101",
+        "Class Recall"
+      ],
+      [
+        "Clarifai (Russakovsky et al., 2014) (multiple nets)",
+        "Method"
+      ],
+      [
+        "Goodfellow",
+        "Street Number Recognition"
+      ],
+      [
+        "Image",
+        "Neural network"
+      ],
+      [
+        "Methodology of ILSVRC-2014 Competing Experiments (text)",
+        "Test Set"
+      ],
+      [
+        "Image Classification Analysis on PASCAL VOC Benchmarks (text)",
+        "VOC-2007"
+      ],
+      [
+        "Research Funding Acknowledgment (text)",
+        "Support"
+      ],
+      [
+        "Convolutional Neural Network Training Process (text)",
+        "Filters"
+      ],
+      [
+        "Advanced Localization Testing Procedure (text)",
+        "Class Score Map"
+      ],
+      [
+        "Key Contributions in Visual Recognition (list)",
+        "Sermanet, P."
+      ],
+      [
+        "Multi-Scale Aggregation",
+        "Performance Analysis of Image Descriptor Aggregation (text)"
+      ],
+      [
+        "Evaluation of Localisation Setting in Classification Systems (text)",
+        "Table 9"
+      ],
+      [
+        "Action Classification",
+        "Net-D"
+      ],
+      [
+        "ConvNets",
+        "ILSVRC-2013"
+      ],
+      [
+        "Global average pooling",
+        "Image Feature Aggregation Methodology (text)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Masci, J."
+      ],
+      [
+        "Localisation Error",
+        "Localisation Error Analysis Table (table)"
+      ],
+      [
+        "Deep Features",
+        "datasets"
+      ],
+      [
+        "Methodology of ILSVRC-2014 Competing Experiments (text)",
+        "VGG Team"
+      ],
+      [
+        "Neural Network Architecture Analysis (text)",
+        "Spatial Resolution"
+      ],
+      [
+        "Cimpoi, M.",
+        "List Content Analysis"
+      ],
+      [
+        "Convolution Filters",
+        "Neural Network"
+      ],
+      [
+        "Hoai, 2014",
+        "Model Comparison for Action Classification on VOC-2012 (table)"
+      ],
+      [
+        "ILSVRC-2012 Challenges",
+        "ILSVRC-2012 Dataset"
+      ],
+      [
+        "Content",
+        "Krizhevsky"
+      ],
+      [
+        "Learning Rate",
+        "Training Approaches for Neural Networks (text)"
+      ],
+      [
+        "ConvNet Depth Improvement Analysis (text)",
+        "Krizhevsky"
+      ],
+      [
+        "ILSVRC Challenge Analysis (text)",
+        "Sermanet et al. (2014)"
+      ],
+      [
+        "ILSVRC Model Training Results (text)",
+        "Model Ensemble"
+      ],
+      [
+        "ILSVRC",
+        "Net-E"
+      ],
+      [
+        "Score Vector",
+        "Test Set"
+      ],
+      [
+        "Advancements in Convolutional Networks for Image Recognition (text)",
+        "Russakovsky et al., 2014"
+      ],
+      [
+        "Convolutional Layers",
+        "Convolutional Neural Network Training Process (text)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Krizhevsky, A."
+      ],
+      [
+        "Impact of Local Response Normalization on Model Performance (text)",
+        "Model A"
+      ],
+      [
+        "ConvNets",
+        "Image Dataset"
+      ],
+      [
+        "Localisation Error Analysis for Neural Network Modifications (table)",
+        "Localization Error"
+      ],
+      [
+        "2015",
+        "Publication Reference (header)"
+      ],
+      [
+        "Krizhevsky et al., 2012",
+        "ReLU"
+      ],
+      [
+        "Key Contributions in Visual Recognition (list)",
+        "Zhang, X."
+      ],
+      [
+        "Advancements in ConvNet Architecture (text)",
+        "Zeiler & Fergus"
+      ],
+      [
+        "ERC",
+        "VisRec"
+      ],
+      [
+        "List Content",
+        "Training Set Augmentation"
+      ],
+      [
+        "Evaluation of Localisation Setting in Classification Systems (text)",
+        "Segmentation"
+      ],
+      [
+        "ConvNet",
+        "Object Localization using ConvNet (text)"
+      ],
+      [
+        "Content",
+        "Page Number Indicator (page_number)"
+      ],
+      [
+        "ConvNet Performance Metrics (table)",
+        "Structure"
+      ],
+      [
+        "ConvNet Configuration Analysis (text)",
+        "Receptive Field"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Vedaldi, A."
+      ],
+      [
+        "Analysis of Neural Network Parameter Configurations (text)",
+        "Shallow Net"
+      ],
+      [
+        "Applications of Computer Vision (text)",
+        "Material Recognition"
+      ],
+      [
+        "Convolutional Neural Network Training Process (text)",
+        "RGB Image"
+      ],
+      [
+        "Machine Learning",
+        "text_969833442fca08f18fb596b30ca27c58"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Denker, J. S."
+      ],
+      [
+        "Analysis",
+        "Page Number (page_number)"
+      ],
+      [
+        "$1 \\times 1$ Convolution Layers in Neural Networks (text)",
+        "Content"
+      ],
+      [
+        "Generalisation of Deep Features (text)",
+        "Machine Learning"
+      ],
+      [
+        "Comparison of ConvNet Evaluation Techniques (table)",
+        "Top-1 Validation Error"
+      ],
+      [
+        "He et al. (2014)",
+        "Net-E"
+      ],
+      [
+        "GPU",
+        "Research Funding Acknowledgment (text)"
+      ],
+      [
+        "Model",
+        "Training Techniques"
+      ],
+      [
+        "Image Path",
+        "Localisation Error Analysis for Neural Network Modifications (table)"
+      ],
+      [
+        "Content",
+        "Table"
+      ],
+      [
+        "Analysis of Neural Network Parameter Configurations (text)",
+        "Deep Neural Network"
+      ],
+      [
+        "Overfeat",
+        "VGG"
+      ],
+      [
+        "Content",
+        "Page_Number"
+      ],
+      [
+        "Advancements in ConvNet Architectures (text)",
+        "ILSVRC"
+      ],
+      [
+        "Network Parameters Overview (table)",
+        "images/5a4db0b5032c9b65cdaa24eb6fab53c3628d85969cb3d7b54ee1956593bb201a.jpg"
+      ],
+      [
+        "Evaluation of ConvNets on ILSVRC (text)",
+        "Pre-trained Models"
+      ],
+      [
+        "Advancements in ConvNet Architecture (text)",
+        "Dense Training"
+      ],
+      [
+        "Feature Extraction",
+        "Layer"
+      ],
+      [
+        "S",
+        "Training Image Size"
+      ],
+      [
+        "LOCALISATION EXPERIMENTS",
+        "None"
+      ],
+      [
+        "Multi-Scale Descriptor Stacking Analysis (text)",
+        "Object"
+      ],
+      [
+        "Deep Learning in Smaller Datasets (text)",
+        "state-of-the-art methods"
+      ],
+      [
+        "Experiment Version",
+        "List Content"
+      ],
+      [
+        "Descriptors",
+        "Multi-Scale Descriptor Stacking Analysis (text)"
+      ],
+      [
+        "Deep ConvNets Performance Analysis (text)",
+        "Model"
+      ],
+      [
+        "Content",
+        "Evaluation"
+      ],
+      [
+        "Caltech-101",
+        "Image Classification Evaluation on Caltech Datasets (text)"
+      ],
+      [
+        "Ensemble Model Performance Analysis (text)",
+        "Error Rate 7.3%"
+      ],
+      [
+        "Deep ConvNets Performance Analysis (text)",
+        "ILSVRC-2013"
+      ],
+      [
+        "Convolutional Neural Network",
+        "Image Preprocessing for ConvNet Training (text)"
+      ],
+      [
+        "Multi-Scale Model D",
+        "Single-Scale Networks"
+      ],
+      [
+        "Features",
+        "Pooling"
+      ],
+      [
+        "List Content Analysis",
+        "Snavely, N."
+      ],
+      [
+        "Research Paper Outline (text)",
+        "Section 2"
+      ],
+      [
+        "ConvNet Image Classification Process (text)",
+        "Softmax Posteriors"
+      ],
+      [
+        "ConvNet Depth Improvement Analysis (text)",
+        "Evaluation"
+      ],
+      [
+        "Class Score Map",
+        "Classification ConvNet"
+      ],
+      [
+        "E",
+        "Networks"
+      ],
+      [
+        "Image Classification Results on ILSVRC-2012 (text)",
+        "Top-1 Error"
+      ],
+      [
+        "ConvNet Transfer Learning Methodology (text)",
+        "None"
+      ],
+      [
+        "Deep Learning in Smaller Datasets (text)",
+        "transfer learning"
+      ],
+      [
+        "3 CLASSIFICATION FRAMEWORK",
+        "Classification Framework Heading (text)"
+      ],
+      [
+        "Caltech-101",
+        "Comparison of Image Classification Methods (table)"
+      ],
+      [
+        "Evaluation of Localisation Setting in Classification Systems (text)",
+        "Sermanet et al. (2014)"
+      ],
+      [
+        "ConvNet Image Classification Process (text)",
+        "Score Vector"
+      ],
+      [
+        "Advanced Localization Testing Procedure (text)",
+        "Localization ConvNet"
+      ],
+      [
+        "Configuration D",
+        "Performance Analysis of Scale Jittering in Model Evaluation (text)"
+      ],
+      [
+        "Evaluation of Deep Convolutional Networks for Image Classification (text)",
+        "Visual Representations"
+      ],
+      [
+        "Configuration",
+        "Layer"
+      ],
+      [
+        "Greedy Merging Procedure",
+        "Sermanet et al. (2014)"
+      ],
+      [
+        "Object",
+        "Training Image Size in ConvNet (text)"
+      ],
+      [
+        "Analysis of Neural Network Parameter Configurations (text)",
+        "Convolutional Layer"
+      ],
+      [
+        "Convolution Boundary Conditions",
+        "Evaluation Techniques"
+      ],
+      [
+        "CONFIGURATIONS",
+        "Configurations Section Heading (text)"
+      ],
+      [
+        "ILSVRC Classification",
+        "Neural Network Architecture Description (text)"
+      ],
+      [
+        "Caltech-101",
+        "Caltech-256"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Sutskever, I."
+      ],
+      [
+        "3.3 IMPLEMENTATION DETAILS",
+        "Implementation Details Section (text)"
+      ],
+      [
+        "Page 10",
+        "Page Number"
+      ],
+      [
+        "A.1 LOCALISATION CONVNET",
+        "Page 9"
+      ],
+      [
+        "Performance Analysis of Image Descriptor Aggregation (text)",
+        "VOC-2007"
+      ],
+      [
+        "Advancements in Deep Convolutional Networks (text)",
+        "Neural Networks"
+      ],
+      [
+        "Multi-Scale Object Recognition Model Training (text)",
+        "Pre-Training Configuration"
+      ],
+      [
+        "Classification Experiments",
+        "Classification Experiments Overview (text)"
+      ],
+      [
+        "Deep Neural Network",
+        "VGG Net-E"
+      ],
+      [
+        "Caltech",
+        "Objects"
+      ],
+      [
+        "Averaging",
+        "Multi-Scale Descriptor Stacking Analysis (text)"
+      ],
+      [
+        "Convolutional Neural Network Training Process (text)",
+        "Padding"
+      ],
+      [
+        "Krizhevsky et al., 2012",
+        "Local Response Normalisation"
+      ],
+      [
+        "Page Number",
+        "Page Number 10 (page_number)"
+      ],
+      [
+        "ConvNet architectures",
+        "ILSVRC"
+      ],
+      [
+        "Key Contributions in Visual Recognition (list)",
+        "LeCun, Y."
+      ],
+      [
+        "Krizhevsky et al. (Krizhevsky et al., 2012) (1 net)",
+        "Method"
+      ],
+      [
+        "D",
+        "Network Parameters Overview (table)"
+      ],
+      [
+        "Convolutional Network",
+        "Research Team"
+      ],
+      [
+        "Advancements in Convolutional Networks for Image Recognition (text)",
+        "Dean et al., 2012"
+      ],
+      [
+        "Multi-Scale Training Methodology (text)",
+        "Scale S"
+      ],
+      [
+        "Image Classification Analysis on PASCAL VOC Benchmarks (text)",
+        "PASCAL VOC-2007"
+      ],
+      [
+        "Ground Truth Class",
+        "Testing Protocols in Network Evaluation (text)"
+      ],
+      [
+        "List Content Analysis",
+        "Sánchez, J."
+      ],
+      [
+        "Image Representation Performance Analysis (text)",
+        "VOC datasets"
+      ],
+      [
+        "ConvNet Transfer Learning Methodology (text)",
+        "Linear SVM"
+      ],
+      [
+        "Donahue",
+        "Razavian"
+      ],
+      [
+        "Abstract",
+        "Abstract Section (text)"
+      ],
+      [
+        "Image Representation Performance Analysis (text)",
+        "VOC-2012"
+      ],
+      [
+        "Lin et al. (2014)",
+        "Network in Network"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Jackel, L. D."
+      ],
+      [
+        "Carlsson, S.",
+        "Sullivan, J."
+      ],
+      [
+        "Convolutional Layers",
+        "Neural Network Architecture Description (text)"
+      ],
+      [
+        "Action Classification on VOC-2012 (text)",
+        "Training Images"
+      ],
+      [
+        "C",
+        "Network Parameters Overview (table)"
+      ],
+      [
+        "Comparison of Dense and Multi-Crop ConvNet Evaluations (text)",
+        "Multi-Crop Evaluation"
+      ],
+      [
+        "Key Contributions in Visual Recognition (list)",
+        "Russakovsky, O."
+      ],
+      [
+        "VOC-2007",
+        "VOC-2012"
+      ],
+      [
+        "ILSVRC",
+        "Research Paper Version History (list)"
+      ],
+      [
+        "ICLR 2015",
+        "ICLR 2015 Conference Publication (header)"
+      ],
+      [
+        "Biases",
+        "Initialisation"
+      ],
+      [
+        "ConvNet Image Classification Process (text)",
+        "Scale Q"
+      ],
+      [
+        "Random Initialization",
+        "Weight Initialization in Neural Networks (text)"
+      ],
+      [
+        "ConvNet",
+        "ConvNet Performance Metrics (table)"
+      ],
+      [
+        "Key Contributions in Visual Recognition (list)",
+        "Reed, S."
+      ],
+      [
+        "ILSVRC-2012 Dataset",
+        "Testing Set"
+      ],
+      [
+        "2015",
+        "ICLR 2015 Conference Paper (header)"
+      ],
+      [
+        "Batch Size",
+        "Convolutional Neural Network Training Process (text)"
+      ],
+      [
+        "Neural Networks",
+        "Random Initialization"
+      ],
+      [
+        "Page",
+        "Page Number"
+      ],
+      [
+        "Methodology of ILSVRC-2014 Competing Experiments (text)",
+        "Russakovsky et al., 2014"
+      ],
+      [
+        "ConvNet Training Procedure Analysis (text)",
+        "Dropout"
+      ],
+      [
+        "Localisation Error",
+        "Model Fusion"
+      ],
+      [
+        "Model",
+        "Object Recognition"
+      ],
+      [
+        "Localization",
+        "Text Content"
+      ],
+      [
+        "Dataset",
+        "Image Classification Results on ILSVRC-2012 (text)"
+      ],
+      [
+        "Cimpoi et al., 2014",
+        "Texture Recognition"
+      ],
+      [
+        "ILSVRC Challenge",
+        "Localization Task"
+      ],
+      [
+        "Analysis of Neural Network Parameter Configurations (text)",
+        "Receptive Field"
+      ],
+      [
+        "GPU",
+        "Gradient"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Everingham, M."
+      ],
+      [
+        "Image Classification Analysis on PASCAL VOC Benchmarks (text)",
+        "VOC-2012"
+      ],
+      [
+        "Header Content",
+        "ICLR 2015"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Henderson, D."
+      ],
+      [
+        "First Testing Protocol",
+        "Testing"
+      ],
+      [
+        "Evaluation of Localisation Setting in Classification Systems (text)",
+        "Performance Metrics"
+      ],
+      [
+        "Page Number 3",
+        "Page Number 3 (page_number)"
+      ],
+      [
+        "Euclidean Loss",
+        "Training of Localisation ConvNets (text)"
+      ],
+      [
+        "Model Evaluation",
+        "Multiple ConvNet Fusion Results (table)"
+      ],
+      [
+        "Extended ILSVRC",
+        "Model Comparison for Action Classification on VOC-2012 (table)"
+      ],
+      [
+        "Ciresan",
+        "Content"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Oquab, M."
+      ],
+      [
+        "ConvNet Configuration Overview (text)",
+        "Network A"
+      ],
+      [
+        "ConvNet Model Performance Improvement (text)",
+        "Soft-Max"
+      ],
+      [
+        "Convolutional Neural Network Training Process (text)",
+        "Stride"
+      ],
+      [
+        "ICLR",
+        "ICLR 2015 Conference Paper Acknowledgment (header)"
+      ],
+      [
+        "2015",
+        "Conference Paper"
+      ],
+      [
+        "2015",
+        "ICLR"
+      ],
+      [
+        "ConvNet Training Efficiency Analysis (text)",
+        "Training Duration"
+      ],
+      [
+        "Image Feature Aggregation Methodology (text)",
+        "Network"
+      ],
+      [
+        "Caltech-256",
+        "Image Classification Evaluation on Caltech Datasets (text)"
+      ],
+      [
+        "Convolution",
+        "Padding"
+      ],
+      [
+        "Krizhevsky et al.",
+        "VGG"
+      ],
+      [
+        "Neural Networks",
+        "Soft-Max Layer"
+      ],
+      [
+        "Image Feature Aggregation Methodology (text)",
+        "Multi-scale features"
+      ],
+      [
+        "Deep Convolutional Neural Network",
+        "Thorough Evaluation"
+      ],
+      [
+        "ConvNet Configuration Analysis (text)",
+        "ILSVRC-2012"
+      ],
+      [
+        "Deep Neural Network",
+        "Shallow Net"
+      ],
+      [
+        "ConvNet",
+        "Performance Evaluation"
+      ],
+      [
+        "Neural Network Architecture Analysis (text)",
+        "ReLU"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Fei-Fei, L."
+      ],
+      [
+        "Caltech-256",
+        "Comparison of Image Classification Methods (table)"
+      ],
+      [
+        "Localization Task",
+        "Settings Comparison of Regression Methods (text)"
+      ],
+      [
+        "Model Scales",
+        "Training of Localisation ConvNets (text)"
+      ],
+      [
+        "Evaluation Criterion",
+        "Model Performance"
+      ],
+      [
+        "ConvNet Image Classification Process (text)",
+        "Input Image"
+      ],
+      [
+        "Deep Learning",
+        "Neural Network Architecture"
+      ],
+      [
+        "Caffe Toolbox",
+        "Jia"
+      ],
+      [
+        "Appendix C",
+        "Research Paper Overview on ILSVRC Task (text)"
+      ],
+      [
+        "ImageNet Large Scale Visual Recognition Challenge",
+        "Top-5 Accuracy Criterion in ILSVRC (text)"
+      ],
+      [
+        "Page Number 14",
+        "Page Number Indicator (page_number)"
+      ],
+      [
+        "Advanced Localization Testing Procedure (text)",
+        "Multiple ConvNets"
+      ],
+      [
+        "Applications of Computer Vision (text)",
+        "Karpathy & Fei-Fei, 2014"
+      ],
+      [
+        "ConvNet Performance Metrics Table (table)",
+        "Performance Trend"
+      ],
+      [
+        "Cimpoi, M.",
+        "Curated List of Computer Vision and Deep Learning References (list)"
+      ],
+      [
+        "Advancements in Deep Convolutional Networks (text)",
+        "Goodfellow"
+      ],
+      [
+        "Object Recognition",
+        "VOC Action Classification Results (text)"
+      ],
+      [
+        "10 Apr 2015",
+        "1409.1556v6"
+      ],
+      [
+        "Header Content Analysis",
+        "ICLR 2015 Conference Paper Header (header)"
+      ],
+      [
+        "E",
+        "Network Parameters Overview (table)"
+      ],
+      [
+        "Key Contributions in Visual Recognition (list)",
+        "Vanhoucke, V."
+      ],
+      [
+        "Caltech-256",
+        "Griffin et al. 2007"
+      ],
+      [
+        "Comparison of Neural Network Models (text)",
+        "Net-E"
+      ],
+      [
+        "Augmentation",
+        "RGB Colour Shift"
+      ],
+      [
+        "ILSVRC",
+        "Neural Network Architecture Analysis (text)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Kiros, R."
+      ],
+      [
+        "Deep Learning",
+        "Section on ConvNet Fusion (text)"
+      ],
+      [
+        "Analysis of Neural Network Parameter Configurations (text)",
+        "Table 2"
+      ],
+      [
+        "Advancements in ConvNet Architecture (text)",
+        "Stride"
+      ],
+      [
+        "Crop",
+        "SGD"
+      ],
+      [
+        "Convolution",
+        "Stride"
+      ],
+      [
+        "ACKNOWLEDGEMENTS",
+        "Acknowledgements Section (text)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "IJCV"
+      ],
+      [
+        "Classification Experiments",
+        "Content"
+      ],
+      [
+        "Conference Paper Publication Header (header)",
+        "Publication"
+      ],
+      [
+        "Evaluation Techniques",
+        "Section 3.2"
+      ],
+      [
+        "Localization ConvNets",
+        "Training of Localisation ConvNets (text)"
+      ],
+      [
+        "Appendix A",
+        "Content"
+      ],
+      [
+        "Ciresan, D. C.",
+        "Curated List of Computer Vision and Deep Learning References (list)"
+      ],
+      [
+        "Advancements in Convolutional Networks for Image Recognition (text)",
+        "Krizhevsky et al., 2012"
+      ],
+      [
+        "Localization Heading (text)",
+        "Text Content Analysis"
+      ],
+      [
+        "Conference",
+        "Header Content Analysis"
+      ],
+      [
+        "Advancements in ConvNet Architecture (text)",
+        "Sermanet et al."
+      ],
+      [
+        "Convolution Boundary Conditions",
+        "Efficiency in Fully-Convolutional Networks (text)"
+      ],
+      [
+        "Layer Configurations",
+        "Test Image Size"
+      ],
+      [
+        "Deep ConvNets Performance Analysis (text)",
+        "LeCun et al. (1989)"
+      ],
+      [
+        "Evaluation",
+        "Evaluation of ConvNets on ILSVRC (text)"
+      ],
+      [
+        "Method",
+        "VGG (1 net, multi-crop & dense eval.)"
+      ],
+      [
+        "ILSVRC Classification Comparison (table)",
+        "Szegedy et al., 2014"
+      ],
+      [
+        "Analysis of Neural Network Parameter Configurations (text)",
+        "Parameter Count"
+      ],
+      [
+        "Training Approaches for Neural Networks (text)",
+        "Training Techniques"
+      ],
+      [
+        "Localisation Error Analysis Table (table)",
+        "Testing Error"
+      ],
+      [
+        "Multi-GPU Training",
+        "Multi-GPU Training Implementation Overview (text)"
+      ],
+      [
+        "List Content Analysis",
+        "Sivic, J."
+      ],
+      [
+        "Classification Performance",
+        "Top-5 Accuracy Criterion in ILSVRC (text)"
+      ],
+      [
+        "Caffe Toolbox",
+        "Multi-GPU Training Implementation Overview (text)"
+      ],
+      [
+        "Efficiency in Fully-Convolutional Networks (text)",
+        "Multi-Crop Evaluation"
+      ],
+      [
+        "ConvNet",
+        "Layer Configurations"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Monga, R."
+      ],
+      [
+        "Dense ConvNet Evaluation",
+        "Multi-Crop Evaluation"
+      ],
+      [
+        "Configuration",
+        "Validation Error Rate"
+      ],
+      [
+        "Top-5 Accuracy Criterion in ILSVRC (text)",
+        "Top-5 Predicted Categories"
+      ],
+      [
+        "ICLR-2015",
+        "Research Paper Version History (list)"
+      ],
+      [
+        "Advancements in ConvNet Architecture (text)",
+        "Receptive Window Size"
+      ],
+      [
+        "Page 13",
+        "Page_Number_Content_Analysis"
+      ],
+      [
+        "Evaluation Server",
+        "Image Classification Analysis on PASCAL VOC Benchmarks (text)"
+      ],
+      [
+        "ConvNet",
+        "ConvNet Model Evaluation (text)"
+      ],
+      [
+        "B Generalisation Of Very Deep Features",
+        "Generalisation of Deep Features (text)"
+      ],
+      [
+        "Page",
+        "Page Number (page_number)"
+      ],
+      [
+        "Neural Networks",
+        "Weight Initialization in Neural Networks (text)"
+      ],
+      [
+        "Localisation Error Analysis for Neural Network Modifications (table)",
+        "Table"
+      ],
+      [
+        "Deep Features",
+        "Generalisation of Deep Features (text)"
+      ],
+      [
+        "ILSVRC evaluation procedure",
+        "Image Feature Aggregation Methodology (text)"
+      ],
+      [
+        "Action Classification",
+        "VOC-2012"
+      ],
+      [
+        "Image Representation Performance Analysis (text)",
+        "Performance metrics"
+      ],
+      [
+        "Key Contributions in Visual Recognition (list)",
+        "Rabinovich, A."
+      ],
+      [
+        "Multi-Crop Evaluation Section (text)",
+        "Page 6"
+      ],
+      [
+        "Aggregation",
+        "Descriptors"
+      ],
+      [
+        "Settings Comparison of Regression Methods (text)",
+        "Table 8"
+      ],
+      [
+        "ERC",
+        "Support"
+      ],
+      [
+        "ConvNets",
+        "Deep ConvNets Performance Analysis (text)"
+      ],
+      [
+        "1st and 2nd FC Layers",
+        "PCR"
+      ],
+      [
+        "He et al., 2014",
+        "MSRA"
+      ],
+      [
+        "Test Image Sizes",
+        "Variable Scale S"
+      ],
+      [
+        "Neural Network",
+        "Neural Network Architecture Analysis (text)"
+      ],
+      [
+        "2012",
+        "Krizhevsky"
+      ],
+      [
+        "Training Image Size",
+        "Training Image Size in ConvNet (text)"
+      ],
+      [
+        "ILSVRC Model Training Results (text)",
+        "Multi-Scale Model D"
+      ],
+      [
+        "Evaluated Test Image Sizes",
+        "Evaluation of ConvNet Models with Scale Jittering (text)"
+      ],
+      [
+        "December 2013",
+        "Multi-GPU Training Implementation Overview (text)"
+      ],
+      [
+        "Deep Convolutional Features",
+        "Representation"
+      ],
+      [
+        "Analysis",
+        "Page Number 7 (page_number)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Li, L.-J."
+      ],
+      [
+        "Convolutional Networks",
+        "ImageNet"
+      ],
+      [
+        "ConvNet Performance Metrics Table (table)",
+        "Footnotes"
+      ],
+      [
+        "Analysis",
+        "ConvNet Configurations Overview (table)"
+      ],
+      [
+        "Configuration",
+        "Input"
+      ],
+      [
+        "VOC-2012",
+        "Validation Set"
+      ],
+      [
+        "Content",
+        "Model Performance"
+      ],
+      [
+        "Aggregation of Image Descriptors in VOC Dataset (text)",
+        "Object Descriptors"
+      ],
+      [
+        "Clarifai",
+        "Deep ConvNets Performance Analysis (text)"
+      ],
+      [
+        "Class Score Map",
+        "ConvNet Image Classification Process (text)"
+      ],
+      [
+        "Report",
+        "Single Scale Evaluation Section (text)"
+      ],
+      [
+        "GPU",
+        "Multi-GPU Training Implementation Overview (text)"
+      ],
+      [
+        "Donahue, J.",
+        "List Content Analysis"
+      ],
+      [
+        "Second Protocol",
+        "localisation setting"
+      ],
+      [
+        "Caption",
+        "ConvNet Performance Metrics (table)"
+      ],
+      [
+        "First Testing Protocol",
+        "Validation Set"
+      ],
+      [
+        "ILSVRC Classification Comparison (table)",
+        "VGG (ILSVRC submission, 7 nets, dense eval.)"
+      ],
+      [
+        "Multi-Scale Object Recognition Model Training (text)",
+        "Object Recognition Model"
+      ],
+      [
+        "Net B",
+        "Research Paper Version History (list)"
+      ],
+      [
+        "Image Classification Evaluation on Caltech Datasets (text)",
+        "Zeiler & Fergus 2013"
+      ],
+      [
+        "VOC Action Classification",
+        "VOC Action Classification Results (text)"
+      ],
+      [
+        "A-LRN Network",
+        "Impact of Local Response Normalization on Model Performance (text)"
+      ],
+      [
+        "Descriptors",
+        "Late fusion"
+      ],
+      [
+        "Comparison of Dense and Multi-Crop ConvNet Evaluations (text)",
+        "Convolution Boundary Conditions"
+      ],
+      [
+        "Advancements in Deep Convolutional Networks (text)",
+        "ICCVRC Dataset"
+      ],
+      [
+        "CONVNET FUSION",
+        "ConvNet"
+      ],
+      [
+        "ConvNet Configuration Analysis (text)",
+        "Stride"
+      ],
+      [
+        "Evaluation of ConvNet Models with Scale Jittering (text)",
+        "Test Image"
+      ],
+      [
+        "Convolutional Network Depth and Image Recognition Accuracy Study (text)",
+        "ImageNet Challenge 2014"
+      ],
+      [
+        "2014",
+        "Girshick"
+      ],
+      [
+        "Gkioxari et al., 2014",
+        "Model Comparison for Action Classification on VOC-2012 (table)"
+      ],
+      [
+        "Ground-Truth",
+        "Training of Localisation ConvNets (text)"
+      ],
+      [
+        "Evaluation of Localisation Setting in Classification Systems (text)",
+        "Table 8"
+      ],
+      [
+        "Content Analysis",
+        "Page_Number"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Razavian, A."
+      ],
+      [
+        "Network Parameters Overview (table)",
+        "Table"
+      ],
+      [
+        "ILSVRC-2012",
+        "Krizhevsky"
+      ],
+      [
+        "ConvNet",
+        "Multiple ConvNet Fusion Results (table)"
+      ],
+      [
+        "Girshick",
+        "Object Detection"
+      ],
+      [
+        "Analysis of Neural Network Parameter Configurations (text)",
+        "Weights"
+      ],
+      [
+        "Fei-Fei, L.",
+        "Sullivan, J."
+      ],
+      [
+        "Evaluation of Localisation Setting in Classification Systems (text)",
+        "Localization ConvNet"
+      ],
+      [
+        "Image Features",
+        "Linear SVM"
+      ],
+      [
+        "Conference Paper",
+        "Conference Paper Publication Header (header)"
+      ],
+      [
+        "Evaluation",
+        "Training"
+      ],
+      [
+        "Fei-Fei et al. 2004",
+        "Image Classification Evaluation on Caltech Datasets (text)"
+      ],
+      [
+        "ILSVRC-2014",
+        "VGG Team"
+      ],
+      [
+        "Page 3",
+        "Training Section Header (text)"
+      ],
+      [
+        "C PAPER REVISIONS",
+        "C PAPER REVISIONS (text)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Jia, Y."
+      ],
+      [
+        "Comparison of Image Classification Methods (table)",
+        "VGG Net-D"
+      ],
+      [
+        "ConvNet Training Procedure Analysis (text)",
+        "LeCun et al. (1989)"
+      ],
+      [
+        "Convolutional Layers",
+        "Filters"
+      ],
+      [
+        "Deep Learning",
+        "Very Deep Convolutional Networks for Large-Scale Image Recognition (text)"
+      ],
+      [
+        "Content",
+        "IlSVRC criterion"
+      ],
+      [
+        "IlSVRC criterion",
+        "localisation error"
+      ],
+      [
+        "Localisation Error Analysis Table (table)",
+        "Model Fusion"
+      ],
+      [
+        "Fergus, R.",
+        "Key Contributions in Visual Recognition (list)"
+      ],
+      [
+        "Comparison of Image Classification Methods (table)",
+        "Zeiler & Fergus"
+      ],
+      [
+        "ConvNet Layers",
+        "Regression Type"
+      ],
+      [
+        "Content",
+        "Multi-Crop Evaluation Section (text)"
+      ],
+      [
+        "Conference Paper",
+        "ICLR 2015"
+      ],
+      [
+        "Evaluation procedure",
+        "Image Feature Aggregation Methodology (text)"
+      ],
+      [
+        "Key Contributions in Visual Recognition (list)",
+        "Krause, J."
+      ],
+      [
+        "ICLR 2015",
+        "ICLR 2015 Conference Paper Publication (header)"
+      ],
+      [
+        "CoRR",
+        "Curated List of Computer Vision and Deep Learning References (list)"
+      ],
+      [
+        "Glorot & Bengio (2010)",
+        "Weight Initialization"
+      ],
+      [
+        "Convolutional Neural Network",
+        "Multiple ConvNet Fusion Results (table)"
+      ],
+      [
+        "ConvNet",
+        "Krizhevsky et al. (2012)"
+      ],
+      [
+        "ConvNet Performance Metrics (table)",
+        "Validation Error Rate"
+      ],
+      [
+        "Neural Network",
+        "Shallow Net"
+      ],
+      [
+        "Fully-Connected Layers",
+        "ILSVRC Classification"
+      ],
+      [
+        "Methodology of ILSVRC-2014 Competing Experiments (text)",
+        "Validation Set"
+      ],
+      [
+        "3 CLASSIFICATION FRAMEWORK",
+        "Content"
+      ],
+      [
+        "Conference Paper",
+        "ICLR 2015 Conference Paper Publication (header)"
+      ],
+      [
+        "ILSVRC submission",
+        "Multiple ConvNet Fusion Results (table)"
+      ],
+      [
+        "Advancements in Deep Convolutional Networks (text)",
+        "GoogLeNet"
+      ],
+      [
+        "Deep Neural Network",
+        "VGG Net-D"
+      ],
+      [
+        "Multiple Small Conv. Layers",
+        "Single Large Conv. Layer"
+      ],
+      [
+        "2015",
+        "ICLR 2015 Conference Publication (header)"
+      ],
+      [
+        "Training Image Size in ConvNet (text)",
+        "Whole-Image Statistics"
+      ],
+      [
+        "Generalization Experiments",
+        "List Content"
+      ],
+      [
+        "ILSVRC Classification Comparison (table)",
+        "Table 7"
+      ],
+      [
+        "Global average pooling",
+        "Image descriptor"
+      ],
+      [
+        "Global average pooling",
+        "Neural network"
+      ],
+      [
+        "ConvNets",
+        "Convolutional Layers"
+      ],
+      [
+        "ConvNet Configuration",
+        "ConvNet Configurations Overview (table)"
+      ],
+      [
+        "Denker, J. S.",
+        "List Content Analysis"
+      ],
+      [
+        "10 Apr 2015",
+        "arXiv Reference Citation (aside_text)"
+      ],
+      [
+        "Scale Jittering",
+        "Training Set Augmentation"
+      ],
+      [
+        "Advanced Localization Testing Procedure (text)",
+        "Sermanet et al. (2014)"
+      ],
+      [
+        "ConvNet",
+        "Dropout"
+      ],
+      [
+        "IlSVRC criterion",
+        "Localisation Performance Evaluation (text)"
+      ],
+      [
+        "Analysis",
+        "Major Paper Revisions Overview (text)"
+      ],
+      [
+        "ILSVRC Classification Comparison (table)",
+        "Krizhevsky et al. (Krizhevsky et al., 2012) (1 net)"
+      ],
+      [
+        "Krizhevsky et al. (Krizhevsky et al., 2012) (5 nets)",
+        "Method"
+      ],
+      [
+        "List Content Analysis",
+        "Yan, S."
+      ],
+      [
+        "B",
+        "Network Parameters Overview (table)"
+      ],
+      [
+        "Deep Features",
+        "Machine Learning"
+      ],
+      [
+        "ConvNet Transfer Learning Methodology (text)",
+        "Image Dataset"
+      ],
+      [
+        "ConvNet Training Efficiency Analysis (text)",
+        "NVIDIA Titan Black"
+      ],
+      [
+        "ConvNet Configuration",
+        "ReLU"
+      ],
+      [
+        "3x3 Convolution Filters",
+        "ConvNets"
+      ],
+      [
+        "Advancements in ConvNet Architecture (text)",
+        "Deep Neural Network"
+      ],
+      [
+        "Multi-Scale Training Methodology (text)",
+        "Range [S_min, S_max]"
+      ],
+      [
+        "Descriptor",
+        "Features"
+      ],
+      [
+        "Official Evaluation Server",
+        "VOC-2012"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Simonyan, K."
+      ],
+      [
+        "Analysis of Neural Network Parameter Configurations (text)",
+        "Sermanet et al., 2014"
+      ],
+      [
+        "Clarifai",
+        "ILSVRC"
+      ],
+      [
+        "ILSVRC-2012 Dataset",
+        "Image Classification Results on ILSVRC-2012 (text)"
+      ],
+      [
+        "Augmentation",
+        "Horizontal Flipping"
+      ],
+      [
+        "ConvNet",
+        "ILSVRC-2013"
+      ],
+      [
+        "Convolutional Neural Networks",
+        "Evaluation of ConvNets on ILSVRC (text)"
+      ],
+      [
+        "Chatfield et al. 2014",
+        "Image Classification Evaluation on Caltech Datasets (text)"
+      ],
+      [
+        "Content",
+        "localisation error measurement"
+      ],
+      [
+        "ILSVRC-2012 Dataset",
+        "Training Set"
+      ],
+      [
+        "Classification Experiments Overview (text)",
+        "Document"
+      ],
+      [
+        "Error",
+        "Error Rates"
+      ],
+      [
+        "University of Oxford",
+        "Visual Geometry Group Affiliation (text)"
+      ],
+      [
+        "Research findings",
+        "accuracy"
+      ],
+      [
+        "Image Classification Analysis on PASCAL VOC Benchmarks (text)",
+        "mean Average Precision"
+      ],
+      [
+        "Testing Protocols in Network Evaluation (text)",
+        "Validation Set"
+      ],
+      [
+        "ConvNet Performance Metrics Table (table)",
+        "Image Path"
+      ],
+      [
+        "Appendix A",
+        "Research Paper Overview on ILSVRC Task (text)"
+      ],
+      [
+        "Image Size S=256",
+        "Settings Comparison of Regression Methods (text)"
+      ],
+      [
+        "Multi-Scale Training",
+        "Scaling of Images"
+      ],
+      [
+        "Convolutional Network",
+        "Convolutional Network Depth and Image Recognition Accuracy Study (text)"
+      ],
+      [
+        "Advancements in Convolutional Networks for Image Recognition (text)",
+        "ImageNet Large-Scale Visual Recognition Challenge"
+      ],
+      [
+        "Convolutional Neural Network",
+        "Efficiency in Fully-Convolutional Networks (text)"
+      ],
+      [
+        "ILSVRC Classification Comparison (table)",
+        "Krizhevsky et al. (Krizhevsky et al., 2012)"
+      ],
+      [
+        "Applications of Computer Vision (text)",
+        "Cimpoi et al., 2014"
+      ],
+      [
+        "Euclidean Loss",
+        "Localization ConvNets"
+      ],
+      [
+        "Caltech",
+        "Descriptors"
+      ],
+      [
+        "Impact of Local Response Normalization on Model Performance (text)",
+        "Models B–E"
+      ],
+      [
+        "Henderson, D.",
+        "List Content Analysis"
+      ],
+      [
+        "Image",
+        "text_969833442fca08f18fb596b30ca27c58"
+      ],
+      [
+        "Convolutional Neural Network Training Process (text)",
+        "Receptive Field"
+      ],
+      [
+        "Computer Science",
+        "arXiv Reference Citation (aside_text)"
+      ],
+      [
+        "ILSVRC Model Training Results (text)",
+        "Model Configurations D and E"
+      ],
+      [
+        "Augmentation",
+        "Image Preprocessing for ConvNet Training (text)"
+      ],
+      [
+        "ConvNets",
+        "ILSVRC-2012"
+      ],
+      [
+        "Image Classification Results on ILSVRC-2012 (text)",
+        "Validation Set"
+      ],
+      [
+        "Object Detection",
+        "Offsets Technique"
+      ],
+      [
+        "Normal Distribution",
+        "Weight Initialization in Neural Networks (text)"
+      ],
+      [
+        "ILSVRC dataset",
+        "Wei et al. (2014)"
+      ],
+      [
+        "Aggregation of Image Descriptors in VOC Dataset (text)",
+        "Scales"
+      ],
+      [
+        "Darrell, T.",
+        "List Content Analysis"
+      ],
+      [
+        "A.1 LOCALISATION CONVNET",
+        "Content"
+      ],
+      [
+        "Object Descriptors",
+        "Scales"
+      ],
+      [
+        "Comparison of Dense and Multi-Crop ConvNet Evaluations (text)",
+        "Section 3.2"
+      ],
+      [
+        "He et al., 2014",
+        "ILSVRC Classification Comparison (table)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Mensink, T."
+      ],
+      [
+        "List Content Analysis",
+        "Salakhutdinov, R."
+      ],
+      [
+        "A-LRN Network",
+        "Model A"
+      ],
+      [
+        "Laptev, I.",
+        "List Content Analysis"
+      ],
+      [
+        "Comparison of ILSVRC Localization Methods (table)",
+        "Szegedy et al."
+      ],
+      [
+        "Fergus",
+        "Zeiler"
+      ],
+      [
+        "Features",
+        "Stacking"
+      ],
+      [
+        "Neural Network",
+        "Training Approaches for Neural Networks (text)"
+      ],
+      [
+        "Configuration A",
+        "Layers"
+      ],
+      [
+        "Datasets",
+        "Models"
+      ],
+      [
+        "ECCV",
+        "Key Contributions in Visual Recognition (list)"
+      ],
+      [
+        "$1 \\times 1$ Convolution Layers in Neural Networks (text)",
+        "Convolution Layer"
+      ],
+      [
+        "Key Contributions in Visual Recognition (list)",
+        "Liu, W."
+      ],
+      [
+        "GoogLeNet (Szegedy et al., 2014) (1 net)",
+        "ILSVRC Classification Comparison (table)"
+      ],
+      [
+        "Input Image",
+        "Scale Q"
+      ],
+      [
+        "ConvNet Configurations",
+        "Research Paper Outline (text)"
+      ],
+      [
+        "ConvNet Training Efficiency Analysis (text)",
+        "Model and Data Parallelism"
+      ],
+      [
+        "Convolution Layer",
+        "Receptive Fields"
+      ],
+      [
+        "Convolutional Neural Network Training Process (text)",
+        "Pooling Layers"
+      ],
+      [
+        "ConvNet Model Performance Improvement (text)",
+        "Zeiler"
+      ],
+      [
+        "Model",
+        "Pre-Training Configuration"
+      ],
+      [
+        "Comparison of Image Classification Methods (table)",
+        "Method"
+      ],
+      [
+        "Average Parameters",
+        "Networks"
+      ],
+      [
+        "Extended 2000-class ILSVRC dataset",
+        "Wei et al. (2014)"
+      ],
+      [
+        "Performance Analysis of Scale Jittering in Model Evaluation (text)",
+        "Table 3"
+      ],
+      [
+        "Author Affiliations and Research Link (page_footnote)",
+        "Page Footnote"
+      ],
+      [
+        "Methods",
+        "VOC-2012"
+      ],
+      [
+        "Evaluation",
+        "Single Scale Evaluation Section (text)"
+      ],
+      [
+        "Configuration E",
+        "ConvNet Performance Metrics Table (table)"
+      ],
+      [
+        "Method",
+        "OverFeat (Sermanet et al., 2014) (7 nets)"
+      ],
+      [
+        "Comparison of Localisation Results in Deep Learning (text)",
+        "ILSVRC-2014"
+      ],
+      [
+        "Image Content",
+        "Training Approaches for Neural Networks (text)"
+      ],
+      [
+        "Aggregation",
+        "Classifier Effectiveness"
+      ],
+      [
+        "Fine-Tuning",
+        "Multi-Scale Object Recognition Model Training (text)"
+      ],
+      [
+        "Local Response Normalisation",
+        "Neural Network Architecture Analysis (text)"
+      ],
+      [
+        "Image Descriptor",
+        "Linear SVM"
+      ],
+      [
+        "Key Contributions in Visual Recognition (list)",
+        "Satheesh, S."
+      ],
+      [
+        "4-GPU System",
+        "Training Duration"
+      ],
+      [
+        "Max-Pooling",
+        "Pooling Layers"
+      ],
+      [
+        "Content",
+        "Testing Protocols in Network Evaluation (text)"
+      ],
+      [
+        "Content",
+        "Convolution Layer"
+      ],
+      [
+        "Computer Science",
+        "arXiv"
+      ],
+      [
+        "Section 3.1",
+        "Training Section Header (text)"
+      ],
+      [
+        "Network Layers",
+        "Training"
+      ],
+      [
+        "Page 13",
+        "Page Number 13 (page_number)"
+      ],
+      [
+        "Content",
+        "Major Paper Revisions Overview (text)"
+      ],
+      [
+        "Comparison of Image Classification Methods (table)",
+        "He et al."
+      ],
+      [
+        "Image Classification Results on ILSVRC-2012 (text)",
+        "Top-5 Error"
+      ],
+      [
+        "3.2 TESTING",
+        "Section 3.2: Testing (text)"
+      ],
+      [
+        "Performance Analysis of Scale Jittering in Model Evaluation (text)",
+        "Scale Jittering"
+      ],
+      [
+        "Caltech-101",
+        "Fei-Fei et al. 2004"
+      ],
+      [
+        "ICLR",
+        "Publication Reference (header)"
+      ],
+      [
+        "C PAPER REVISIONS",
+        "Heading"
+      ],
+      [
+        "Image Classification Methods",
+        "Wei et al."
+      ],
+      [
+        "3.2 TESTING",
+        "Document Section"
+      ],
+      [
+        "Deep ConvNets Performance Analysis (text)",
+        "ILSVRC-2012"
+      ],
+      [
+        "Efficiency in Fully-Convolutional Networks (text)",
+        "Evaluation Strategies"
+      ],
+      [
+        "ConvNet",
+        "ConvNet Depth Improvement Analysis (text)"
+      ],
+      [
+        "Analysis",
+        "Content"
+      ],
+      [
+        "Convolutional Networks",
+        "Krizhevsky et al., 2012"
+      ],
+      [
+        "Ground-Truth Category",
+        "Top-5 Accuracy Criterion in ILSVRC (text)"
+      ],
+      [
+        "Dense Evaluation",
+        "Efficiency in Fully-Convolutional Networks (text)"
+      ],
+      [
+        "ConvNet Training Procedure Analysis (text)",
+        "Gradient Descent"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Upchurch, P."
+      ],
+      [
+        "NVIDIA Corporation",
+        "Research Funding Acknowledgment (text)"
+      ],
+      [
+        "GoogLeNet",
+        "ILSVRC"
+      ],
+      [
+        "Layers",
+        "Weight Initialization in Neural Networks (text)"
+      ],
+      [
+        "Method",
+        "Zeiler & Fergus (Zeiler & Fergus, 2013) (6 nets)"
+      ],
+      [
+        "ILSVRC-2014",
+        "Performance Comparison in ILSVRC-2014 Classification Task (text)"
+      ],
+      [
+        "Content",
+        "reader"
+      ],
+      [
+        "Comparison of Localisation Results in Deep Learning (text)",
+        "Table 10"
+      ],
+      [
+        "GPU",
+        "NVIDIA Corporation"
+      ],
+      [
+        "$1 \\times 1$ Convolution Layers in Neural Networks (text)",
+        "Receptive Fields"
+      ],
+      [
+        "Fine-tuning",
+        "Layers"
+      ],
+      [
+        "Offsets Technique",
+        "Sermanet"
+      ],
+      [
+        "Released Models",
+        "Research"
+      ],
+      [
+        "Deep Learning in Smaller Datasets (text)",
+        "datasets"
+      ],
+      [
+        "ILSVRC dataset",
+        "Neural Network Architecture Analysis (text)"
+      ],
+      [
+        "Action Classification on VOC-2012 (text)",
+        "Everingham et al., 2015"
+      ],
+      [
+        "Convolutional Network Depth and Image Recognition Accuracy Study (text)",
+        "Deep Convolutional Neural Network"
+      ],
+      [
+        "Evaluation of Deep Convolutional Networks for Image Classification (text)",
+        "Recognition Pipelines"
+      ],
+      [
+        "Configuration E",
+        "Validation Set"
+      ],
+      [
+        "Performance Analysis of Scale Jittering in Model Evaluation (text)",
+        "Table 4"
+      ],
+      [
+        "Comparison of Image Classification Methods (table)",
+        "Image Path"
+      ],
+      [
+        "First Page Indicator (page_number)",
+        "Page_Number"
+      ],
+      [
+        "Advancements in ConvNet Architectures (text)",
+        "Linear SVM"
+      ],
+      [
+        "First Testing Protocol",
+        "Testing Protocols in Network Evaluation (text)"
+      ],
+      [
+        "Research Paper Overview on ILSVRC Task (text)",
+        "Section 4"
+      ],
+      [
+        "Neural Network",
+        "Table 2"
+      ],
+      [
+        "Neural Network",
+        "Weight Layers"
+      ],
+      [
+        "Advancements in ConvNet Architecture (text)",
+        "ConvNets"
+      ],
+      [
+        "Image Feature Aggregation Methodology (text)",
+        "Image descriptor"
+      ],
+      [
+        "Page Number",
+        "Page_Number Content Analysis"
+      ],
+      [
+        "Analysis of ConvNet Depth and Configuration Impact (text)",
+        "Configuration A"
+      ],
+      [
+        "Ensemble Model Performance Analysis (text)",
+        "Ensemble of 2 Models"
+      ],
+      [
+        "Per-Class Regression",
+        "Settings Comparison of Regression Methods (text)"
+      ],
+      [
+        "Research Paper Overview on ILSVRC Task (text)",
+        "Sect. 5"
+      ],
+      [
+        "Bounding Box Prediction",
+        "Testing Protocols in Network Evaluation (text)"
+      ],
+      [
+        "Deep Learning in Smaller Datasets (text)",
+        "deep image representations"
+      ],
+      [
+        "Applications of Computer Vision (text)",
+        "Kiros et al., 2014"
+      ],
+      [
+        "ConvNet Configuration Analysis (text)",
+        "Fergus"
+      ],
+      [
+        "ILSVRC-2013",
+        "Zeiler"
+      ],
+      [
+        "Image Representation Performance Analysis (text)",
+        "Wei et al. (2014)"
+      ],
+      [
+        "ConvNet Configs",
+        "Test Scale Sizes"
+      ],
+      [
+        "Bell, S.",
+        "Upchurch, P."
+      ],
+      [
+        "2015",
+        "Conference Paper Publication Header (header)"
+      ],
+      [
+        "ILSVRC Challenge Analysis (text)",
+        "Sect. A.2"
+      ],
+      [
+        "Research URL",
+        "University of Oxford"
+      ],
+      [
+        "Comparison of Convolutional Layer Configurations (text)",
+        "Conv. Layers"
+      ],
+      [
+        "GoogLeNet",
+        "VGG"
+      ],
+      [
+        "Jackel, L. D.",
+        "List Content Analysis"
+      ],
+      [
+        "4-GPU System",
+        "ConvNet Training Efficiency Analysis (text)"
+      ],
+      [
+        "Comparison of ConvNet Evaluation Techniques (table)",
+        "Evaluation Method"
+      ],
+      [
+        "ILSVRC",
+        "Methodology of ILSVRC-2014 Competing Experiments (text)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Howard, R. E."
+      ],
+      [
+        "Descriptor Stacking",
+        "Scale Q"
+      ],
+      [
+        "ILSVRC",
+        "ImageNet"
+      ],
+      [
+        "Appendix C",
+        "Content"
+      ],
+      [
+        "ConvNet",
+        "Evaluation of ConvNet Models with Scale Jittering (text)"
+      ],
+      [
+        "Page Number 12 (page_number)",
+        "Page_Number_Content_Analysis"
+      ],
+      [
+        "Configuration C",
+        "Performance"
+      ],
+      [
+        "Multi-Scale Model",
+        "Single-Scale Model"
+      ],
+      [
+        "Image Preprocessing for ConvNet Training (text)",
+        "SGD"
+      ],
+      [
+        "REFERENCES",
+        "References Section Header (text)"
+      ],
+      [
+        "Classification Experiments Overview (text)",
+        "Content"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Meier, U."
+      ],
+      [
+        "Dense Training",
+        "Howard"
+      ],
+      [
+        "Multiple ConvNet Fusion Results (table)",
+        "Table 6"
+      ],
+      [
+        "Research Paper Version History (list)",
+        "Shallow Net"
+      ],
+      [
+        "Kiros, R.",
+        "List Content Analysis"
+      ],
+      [
+        "Multi-Scale Training Methodology (text)",
+        "Object in Images"
+      ],
+      [
+        "Convolutional Boundary Conditions",
+        "Padding"
+      ],
+      [
+        "Model Comparison for Action Classification on VOC-2012 (table)",
+        "VOC-2012"
+      ],
+      [
+        "Deep Features",
+        "Research Paper Overview on ILSVRC Task (text)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Donahue, J."
+      ],
+      [
+        "ConvNet",
+        "ConvNet Training Procedure Analysis (text)"
+      ],
+      [
+        "Image Size",
+        "Localisation Error"
+      ],
+      [
+        "Analysis of ConvNet Depth and Configuration Impact (text)",
+        "Configuration B"
+      ],
+      [
+        "Localisation Performance Evaluation (text)",
+        "Test Protocol"
+      ],
+      [
+        "2015",
+        "ICLR 2015 Conference Paper Publication (header)"
+      ],
+      [
+        "Chatfield et al. (2014)",
+        "Comparison of Neural Network Models (text)"
+      ],
+      [
+        "Localization in Convolutional Networks (text)",
+        "Page 9"
+      ],
+      [
+        "Training",
+        "Weight Initialization in Neural Networks (text)"
+      ],
+      [
+        "Computer Vision",
+        "arXiv Reference Citation (aside_text)"
+      ],
+      [
+        "Neural Network",
+        "Szegedy et al. (2014)"
+      ],
+      [
+        "ILSVRC",
+        "ILSVRC Model Training Results (text)"
+      ],
+      [
+        "List Content Analysis",
+        "Long, J."
+      ],
+      [
+        "List Content",
+        "Model Comparison"
+      ],
+      [
+        "1409.1556v6",
+        "arXiv Reference Citation (aside_text)"
+      ],
+      [
+        "Fixed Scale S",
+        "Test Image Sizes"
+      ],
+      [
+        "Network Configuration and ConvNet Training Overview (text)",
+        "Network Configurations"
+      ],
+      [
+        "GPU",
+        "Multi-GPU Training"
+      ],
+      [
+        "Rescaled Images",
+        "Training Images"
+      ],
+      [
+        "ILSVRC-2014",
+        "Training of Localisation ConvNets (text)"
+      ],
+      [
+        "ConvNet Architectures",
+        "ILSVRC Challenge Analysis (text)"
+      ],
+      [
+        "ConvNet Performance Metrics Table (table)",
+        "Table 4"
+      ],
+      [
+        "Table 7",
+        "VGG"
+      ],
+      [
+        "Action Classification",
+        "Net-E"
+      ],
+      [
+        "ICLR 2015 Conference Publication (header)",
+        "International Conference on Learning Representations"
+      ],
+      [
+        "Image Preprocessing for ConvNet Training (text)",
+        "Training Images"
+      ],
+      [
+        "Evaluation of Deep Convolutional Networks for Image Classification (text)",
+        "LeCun"
+      ],
+      [
+        "Research Paper Overview on ILSVRC Task (text)",
+        "Section 5"
+      ],
+      [
+        "Fei-Fei, L.",
+        "Fergus, R."
+      ],
+      [
+        "ICLR",
+        "ICLR 2015 Conference Paper (header)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Perona, P."
+      ],
+      [
+        "Architecture D",
+        "Classification Task"
+      ],
+      [
+        "Neural Network",
+        "Section on ConvNet Fusion (text)"
+      ],
+      [
+        "SCR",
+        "Sermanet et al., 2014"
+      ],
+      [
+        "Training Approaches for Neural Networks (text)",
+        "Training Efficiency"
+      ],
+      [
+        "List Content Analysis",
+        "Maji, S."
+      ],
+      [
+        "GPU",
+        "Training Images"
+      ],
+      [
+        "Page Number",
+        "Page Number (page_number)"
+      ],
+      [
+        "Eigen, D.",
+        "Key Contributions in Visual Recognition (list)"
+      ],
+      [
+        "Comparison of Image Classification Methods (table)",
+        "VGG Net-E"
+      ],
+      [
+        "Bala, K.",
+        "List Content Analysis"
+      ],
+      [
+        "ILSVRC Challenge Analysis (text)",
+        "Object Detection"
+      ],
+      [
+        "Convolutional Networks",
+        "Evaluation of Deep Convolutional Networks for Image Classification (text)"
+      ],
+      [
+        "Action Classification",
+        "Action Classification on VOC-2012 (text)"
+      ],
+      [
+        "Page Number 11 (page_number)",
+        "Page_Number Content Analysis"
+      ],
+      [
+        "List Content Analysis",
+        "Zisserman, A."
+      ],
+      [
+        "Image Feature Aggregation Methodology (text)",
+        "Late fusion"
+      ],
+      [
+        "ConvNet Image Classification Process (text)",
+        "Test Set"
+      ],
+      [
+        "List Content Analysis",
+        "Research Paper Version History (list)"
+      ],
+      [
+        "LeCun, Y.",
+        "List Content Analysis"
+      ],
+      [
+        "Ground-Truth Category",
+        "Top-5 Predicted Categories"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Girshick, R. B."
+      ],
+      [
+        "ConvNet Performance Metrics (table)",
+        "Layer Configuration"
+      ],
+      [
+        "ConvNet Configuration Overview (text)",
+        "Network E"
+      ],
+      [
+        "Biases",
+        "Weight Initialization in Neural Networks (text)"
+      ],
+      [
+        "Key Contributions in Visual Recognition (list)",
+        "Ma, S."
+      ],
+      [
+        "Effective Receptive Field",
+        "Stacking Layers"
+      ],
+      [
+        "Caltech-256",
+        "Curated List of Computer Vision and Deep Learning References (list)"
+      ],
+      [
+        "ConvNet Model Performance Improvement (text)",
+        "Fergus"
+      ],
+      [
+        "Method",
+        "VGG (2 nets, multi-crop & dense eval.)"
+      ],
+      [
+        "Activation",
+        "ConvNet Training Procedure Analysis (text)"
+      ],
+      [
+        "Localization",
+        "Text Content Analysis"
+      ],
+      [
+        "ConvNet Configs",
+        "Performance Metrics"
+      ],
+      [
+        "ACKNOWLEDGEMENTS",
+        "Content"
+      ],
+      [
+        "Fully-Connected Layers",
+        "Settings Comparison of Regression Methods (text)"
+      ],
+      [
+        "Jia",
+        "Multi-GPU Training Implementation Overview (text)"
+      ],
+      [
+        "Comparison of Image Classification Methods (table)",
+        "Extended ILSVRC Dataset"
+      ],
+      [
+        "Action Classification",
+        "Bounding Box"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Laptev, I."
+      ],
+      [
+        "ConvNet Layers",
+        "Localisation Error Analysis for Neural Network Modifications (table)"
+      ],
+      [
+        "Section 2.1",
+        "Section 2.2"
+      ],
+      [
+        "Experiment Techniques",
+        "List Content"
+      ],
+      [
+        "VOC-2007",
+        "Validation Set"
+      ],
+      [
+        "Scale Jittering",
+        "text_969833442fca08f18fb596b30ca27c58"
+      ],
+      [
+        "Image Classification Results on ILSVRC-2012 (text)",
+        "Testing Set"
+      ],
+      [
+        "California Institute of Technology",
+        "Curated List of Computer Vision and Deep Learning References (list)"
+      ],
+      [
+        "Representation",
+        "VOC Action Classification Results (text)"
+      ],
+      [
+        "Erhan, D.",
+        "Key Contributions in Visual Recognition (list)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Ref_text"
+      ],
+      [
+        "Model D",
+        "Model E"
+      ],
+      [
+        "ConvNet Performance Metrics Table (table)",
+        "Top-1 Validation Error"
+      ],
+      [
+        "Caltech-101",
+        "Net-E"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Perronnin, F."
+      ],
+      [
+        "architecture",
+        "normalization"
+      ],
+      [
+        "Affiliation",
+        "Author Affiliations and Research Link (page_footnote)"
+      ],
+      [
+        "Aggregation of Image Descriptors in VOC Dataset (text)",
+        "VOC Dataset"
+      ],
+      [
+        "Network",
+        "Network Parameters Overview (table)"
+      ],
+      [
+        "List Content Analysis",
+        "Shelhamer, E."
+      ],
+      [
+        "Architecture Section",
+        "Architecture Section Header (text)"
+      ],
+      [
+        "Effective Receptive Field",
+        "Stacked Convolution Layers"
+      ],
+      [
+        "Google DeepMind",
+        "Research URL"
+      ],
+      [
+        "Howard, R. E.",
+        "List Content Analysis"
+      ],
+      [
+        "Action Classification",
+        "mAP"
+      ],
+      [
+        "Object Descriptors",
+        "VOC Dataset"
+      ],
+      [
+        "List Content Analysis",
+        "Zemel, R. S."
+      ],
+      [
+        "Test Time",
+        "text_969833442fca08f18fb596b30ca27c58"
+      ],
+      [
+        "ConvNet Training Procedure Analysis (text)",
+        "Pre-initialization"
+      ],
+      [
+        "Convolutional Network Depth and Image Recognition Accuracy Study (text)",
+        "Research Team"
+      ],
+      [
+        "Content",
+        "ConvNet"
+      ],
+      [
+        "Model Performance",
+        "Scale Jittering"
+      ],
+      [
+        "ICLR 2015",
+        "ICLR 2015 Conference Paper Header (header)"
+      ],
+      [
+        "Efficiency in Fully-Convolutional Networks (text)",
+        "Receptive Field"
+      ],
+      [
+        "Channel Width",
+        "ConvNet Configuration Overview (text)"
+      ],
+      [
+        "OverFeat",
+        "Sermanet et al., 2014"
+      ],
+      [
+        "All Layers",
+        "regression type"
+      ],
+      [
+        "ConvNet Performance Metrics Table (table)",
+        "Test Scale Sizes"
+      ],
+      [
+        "Fully Connected Layers",
+        "Weight Initialization in Neural Networks (text)"
+      ],
+      [
+        "4-GPU System",
+        "NVIDIA Titan Black"
+      ],
+      [
+        "Range [S_min, S_max]",
+        "Scale S"
+      ],
+      [
+        "ConvNet Configurations Overview (table)",
+        "Structure"
+      ],
+      [
+        "Advancements in Convolutional Networks for Image Recognition (text)",
+        "Deng et al., 2009"
+      ],
+      [
+        "Analysis of Neural Network Parameter Configurations (text)",
+        "Parameter"
+      ],
+      [
+        "Crop",
+        "Image Preprocessing for ConvNet Training (text)"
+      ],
+      [
+        "Analysis of ConvNet Depth and Configuration Impact (text)",
+        "ConvNet"
+      ],
+      [
+        "ConvNet Configuration Analysis (text)",
+        "Krizhevsky"
+      ],
+      [
+        "Evaluation of Deep Convolutional Networks for Image Classification (text)",
+        "ImageNet Challenge"
+      ],
+      [
+        "Conference Paper",
+        "ICLR 2015 Conference Paper Header (header)"
+      ],
+      [
+        "Advancements in Convolutional Networks for Image Recognition (text)",
+        "Zeiler & Fergus, 2013"
+      ],
+      [
+        "Configuration",
+        "Single-Model"
+      ],
+      [
+        "Comparison Section Header (text)",
+        "State of the Art"
+      ],
+      [
+        "Multiple ConvNet Fusion Results (table)",
+        "post-submission"
+      ],
+      [
+        "Configuration E",
+        "Test Set"
+      ],
+      [
+        "Performance Metrics",
+        "Tables 8 and 9"
+      ],
+      [
+        "Content Analysis",
+        "Page Number 3"
+      ],
+      [
+        "Content",
+        "Page 6"
+      ],
+      [
+        "Conference Paper",
+        "Conference Paper Publication Information (header)"
+      ],
+      [
+        "Comparison of ConvNet Evaluation Techniques (table)",
+        "Evaluation Techniques"
+      ],
+      [
+        "Data",
+        "Fixed Smallest Side"
+      ],
+      [
+        "Localization",
+        "Localization Heading (text)"
+      ],
+      [
+        "ConvNets",
+        "LeCun et al. (1989)"
+      ],
+      [
+        "ConvNet Configs",
+        "Training Sizes"
+      ],
+      [
+        "Neural Network",
+        "Sermanet et al., 2014"
+      ],
+      [
+        "228180",
+        "ERC"
+      ],
+      [
+        "Image",
+        "Image Feature Aggregation Methodology (text)"
+      ],
+      [
+        "Long et al., 2014",
+        "Semantic Segmentation"
+      ],
+      [
+        "Fully-Connected Layers",
+        "Neural Networks"
+      ],
+      [
+        "Deep Learning in Smaller Datasets (text)",
+        "Donahue"
+      ],
+      [
+        "Convolution Filters",
+        "Neural Network Architecture Analysis (text)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Van Gool, L."
+      ],
+      [
+        "Content",
+        "Header"
+      ],
+      [
+        "Convolutional Neural Network Training Process (text)",
+        "Filter"
+      ],
+      [
+        "Classification Task",
+        "ILSVRC Challenge"
+      ],
+      [
+        "Comparison of Localisation Results in Deep Learning (text)",
+        "Sermanet et al., 2014"
+      ],
+      [
+        "Image Path",
+        "Model Comparison for Action Classification on VOC-2012 (table)"
+      ],
+      [
+        "ILSVRC-2014",
+        "Sermanet"
+      ],
+      [
+        "Deep Learning in Smaller Datasets (text)",
+        "Fergus"
+      ],
+      [
+        "Ensemble",
+        "Models"
+      ],
+      [
+        "ConvNet Image Classification Process (text)",
+        "Convolutional Layers"
+      ],
+      [
+        "Fei-Fei, L.",
+        "Key Contributions in Visual Recognition (list)"
+      ],
+      [
+        "ConvNet Model Performance Improvement (text)",
+        "ILSVRC"
+      ],
+      [
+        "ILSVRC Challenge",
+        "ILSVRC Challenge Analysis (text)"
+      ],
+      [
+        "Convolutional Neural Networks",
+        "ILSVRC"
+      ],
+      [
+        "Page_Number Content Analysis",
+        "page_number"
+      ],
+      [
+        "Action Classification on VOC-2012 (text)",
+        "Net-D"
+      ],
+      [
+        "OverFeat",
+        "Sermanet et al."
+      ],
+      [
+        "Deep ConvNets Performance Analysis (text)",
+        "GoogLeNet"
+      ],
+      [
+        "Object Localization System",
+        "Research Paper Overview on ILSVRC Task (text)"
+      ],
+      [
+        "Data Augmentation",
+        "Scale Jittering"
+      ],
+      [
+        "Image Caption Generation",
+        "Karpathy & Fei-Fei, 2014"
+      ],
+      [
+        "Configuration D",
+        "Configuration E"
+      ],
+      [
+        "Advancements in Convolutional Networks for Image Recognition (text)",
+        "GPU"
+      ],
+      [
+        "Image Descriptors",
+        "Validation Sets"
+      ],
+      [
+        "Image Path",
+        "Localisation Error Analysis Table (table)"
+      ],
+      [
+        "Classification ConvNets",
+        "Euclidean Loss"
+      ],
+      [
+        "AZ",
+        "Visual Geometry Group"
+      ],
+      [
+        "Training Time",
+        "text_969833442fca08f18fb596b30ca27c58"
+      ],
+      [
+        "Header Content Analysis",
+        "ICLR 2015 Conference Publication (header)"
+      ],
+      [
+        "CONVNET FUSION",
+        "Section on ConvNet Fusion (text)"
+      ],
+      [
+        "VOC-2012",
+        "Wei et al. (2014)"
+      ],
+      [
+        "Evaluation of ConvNet Models with Scale Jittering (text)",
+        "Scale"
+      ],
+      [
+        "Cost",
+        "Neural Network"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "IEEE CVPR Workshop of Generative Model Based Vision"
+      ],
+      [
+        "Page Number Indicator (page_number)",
+        "Page_Number"
+      ],
+      [
+        "Comparison of ILSVRC Localization Methods (table)",
+        "Krizhevsky et al."
+      ],
+      [
+        "ConvNet",
+        "Localization in Convolutional Networks (text)"
+      ],
+      [
+        "3.2 TESTING",
+        "Structured Document"
+      ],
+      [
+        "Localisation Performance Evaluation (text)",
+        "Second Protocol"
+      ],
+      [
+        "Page Number 13 (page_number)",
+        "Page_Number_Content_Analysis"
+      ],
+      [
+        "Content",
+        "Hierarchy"
+      ],
+      [
+        "Header Content Analysis",
+        "Published as a conference paper"
+      ],
+      [
+        "Performance",
+        "Range of Scales"
+      ],
+      [
+        "ERC",
+        "Research Funding Acknowledgment (text)"
+      ],
+      [
+        "Caltech-256",
+        "Net-E"
+      ],
+      [
+        "ILSVRC",
+        "Research Paper Overview on ILSVRC Task (text)"
+      ],
+      [
+        "Applications of Computer Vision (text)",
+        "Texture Recognition"
+      ],
+      [
+        "Convolutional Layers",
+        "Receptive Field"
+      ],
+      [
+        "Multiscale Image Statistics",
+        "Training Approaches for Neural Networks (text)"
+      ],
+      [
+        "ConvNet Performance Metrics Table (table)",
+        "Test Scales"
+      ],
+      [
+        "Deep Convolutional Features",
+        "VOC Action Classification Results (text)"
+      ],
+      [
+        "ConvNet Model Performance Improvement (text)",
+        "Krizhevsky"
+      ],
+      [
+        "Fully-Connected Layers",
+        "ILSVRC Model Training Results (text)"
+      ],
+      [
+        "Ciresan",
+        "ConvNet"
+      ],
+      [
+        "Key Contributions in Visual Recognition (list)",
+        "Khosla, A."
+      ],
+      [
+        "Local Response Normalisation",
+        "Neural Networks"
+      ],
+      [
+        "He et al. 2014",
+        "Image Classification Evaluation on Caltech Datasets (text)"
+      ],
+      [
+        "Logistic Regression",
+        "Training of Localisation ConvNets (text)"
+      ],
+      [
+        "Efficiency in Fully-Convolutional Networks (text)",
+        "Fully-Convolutional Network"
+      ],
+      [
+        "Content",
+        "Training Section Header (text)"
+      ],
+      [
+        "Caption",
+        "Localisation Error Analysis for Neural Network Modifications (table)"
+      ],
+      [
+        "Department of Engineering Science",
+        "University of Oxford"
+      ],
+      [
+        "List Content Analysis",
+        "Vedaldi, A."
+      ],
+      [
+        "ILSVRC Classification Comparison (table)",
+        "VGG (1 net, multi-crop & dense eval.)"
+      ],
+      [
+        "Aggregation",
+        "Image Descriptors"
+      ],
+      [
+        "Conference Paper Publication Header (header)",
+        "ICLR 2015"
+      ],
+      [
+        "Content",
+        "List Content Analysis"
+      ],
+      [
+        "Convolutional Neural Network Training Process (text)",
+        "Train"
+      ],
+      [
+        "Image Recognition",
+        "Very Deep Convolutional Networks"
+      ],
+      [
+        "Error",
+        "Fusion"
+      ],
+      [
+        "Data",
+        "Datasets"
+      ],
+      [
+        "Model",
+        "Multi-Scale Object Recognition Model Training (text)"
+      ],
+      [
+        "Performance Analysis of Image Descriptor Aggregation (text)",
+        "VOC-2012"
+      ],
+      [
+        "Applications of Computer Vision (text)",
+        "Bell et al., 2014"
+      ],
+      [
+        "ConvNet",
+        "Network Configuration and ConvNet Training Overview (text)"
+      ],
+      [
+        "Stops",
+        "Training"
+      ],
+      [
+        "Evaluation Strategies",
+        "Fully-Convolutional Network"
+      ],
+      [
+        "Evaluation of ConvNet Models with Scale Jittering (text)",
+        "Fixed Scale S"
+      ],
+      [
+        "Configuration",
+        "Pooling Layers"
+      ],
+      [
+        "3x3 Convolution Filters",
+        "Advancements in ConvNet Architecture (text)"
+      ],
+      [
+        "S",
+        "Whole-Image Statistics"
+      ],
+      [
+        "Page Number 9",
+        "Page Number Reference (page_number)"
+      ],
+      [
+        "Krizhevsky",
+        "Methods"
+      ],
+      [
+        "ConvNet Configurations",
+        "Table 1"
+      ],
+      [
+        "AZ",
+        "Visual Geometry Group Affiliation (text)"
+      ],
+      [
+        "Ensemble Model Performance Analysis (text)",
+        "Ensemble of 7 Models"
+      ],
+      [
+        "PCR",
+        "Sermanet et al. (2014)"
+      ],
+      [
+        "KAREN",
+        "Visual Geometry Group"
+      ],
+      [
+        "Neural Network Architecture Analysis (text)",
+        "Weight Layers"
+      ],
+      [
+        "Efficiency in Fully-Convolutional Networks (text)",
+        "Szegedy et al. (2014)"
+      ],
+      [
+        "Efficiency in Fully-Convolutional Networks (text)",
+        "Krizhevsky"
+      ],
+      [
+        "Experiment",
+        "Research Paper Version History (list)"
+      ],
+      [
+        "Bala, K.",
+        "Curated List of Computer Vision and Deep Learning References (list)"
+      ],
+      [
+        "Bounding Box Predictions",
+        "Localization ConvNet"
+      ],
+      [
+        "Localisation Error Analysis for Neural Network Modifications (table)",
+        "Regression Type"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "abs/1412.0623"
+      ],
+      [
+        "ConvNet",
+        "ILSVRC-2012"
+      ],
+      [
+        "Method",
+        "Sect. A.2"
+      ],
+      [
+        "Content",
+        "second protocol"
+      ],
+      [
+        "Advanced Localization Testing Procedure (text)",
+        "Greedy Merging Procedure"
+      ],
+      [
+        "Chatfield",
+        "Deep Learning in Smaller Datasets (text)"
+      ],
+      [
+        "Smallest Side",
+        "text_969833442fca08f18fb596b30ca27c58"
+      ],
+      [
+        "Deep Learning in Smaller Datasets (text)",
+        "ILSVRC"
+      ],
+      [
+        "Conference Submission",
+        "List Content"
+      ],
+      [
+        "Input Image",
+        "Rescaling Scale Q"
+      ],
+      [
+        "Aggregation",
+        "Features"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Dong, W."
+      ],
+      [
+        "ILSVRC dataset",
+        "Neural Networks"
+      ],
+      [
+        "Gradient",
+        "Weight Initialization in Neural Networks (text)"
+      ],
+      [
+        "Image Preprocessing for ConvNet Training (text)",
+        "RGB Colour Shift"
+      ],
+      [
+        "Evaluation of ConvNets on ILSVRC (text)",
+        "ILSVRC"
+      ],
+      [
+        "Models",
+        "Recognition Pipelines"
+      ],
+      [
+        "Model Scales",
+        "Training"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "In IJCAI"
+      ],
+      [
+        "ConvNet",
+        "ConvNet Configuration Analysis (text)"
+      ],
+      [
+        "ICLR",
+        "ICLR 2015 Conference Publication (header)"
+      ],
+      [
+        "Deep learning",
+        "GPU"
+      ],
+      [
+        "Key Contributions in Visual Recognition (list)",
+        "Proc. NIPS"
+      ],
+      [
+        "Kiros, R.",
+        "Salakhutdinov, R."
+      ],
+      [
+        "Localisation Error Analysis for Neural Network Modifications (table)",
+        "Neural Network"
+      ],
+      [
+        "Deep Learning in Smaller Datasets (text)",
+        "Net-D"
+      ],
+      [
+        "Header Content",
+        "ICLR"
+      ],
+      [
+        "ConvNet Performance Metrics Table (table)",
+        "Table"
+      ],
+      [
+        "Research Paper",
+        "Section 3"
+      ],
+      [
+        "ConvNet Performance Metrics Table (table)",
+        "Training Sizes"
+      ],
+      [
+        "Evaluation Server",
+        "VOC-2012"
+      ],
+      [
+        "Analysis of ConvNet Depth and Configuration Impact (text)",
+        "Configuration D"
+      ],
+      [
+        "Iterations",
+        "Learning Rate"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Zhang, N."
+      ],
+      [
+        "Horizontal flip",
+        "Image descriptor"
+      ],
+      [
+        "Huang, Z.",
+        "Key Contributions in Visual Recognition (list)"
+      ],
+      [
+        "Introduction",
+        "Introduction Section (text)"
+      ],
+      [
+        "B Generalisation Of Very Deep Features",
+        "Deep Features"
+      ],
+      [
+        "Training Data",
+        "Weight Initialization in Neural Networks (text)"
+      ],
+      [
+        "Image Recognition",
+        "Very Deep Convolutional Networks for Large-Scale Image Recognition (text)"
+      ],
+      [
+        "ConvNets",
+        "Pooling Layers"
+      ],
+      [
+        "ConvNet",
+        "Training Image Size"
+      ],
+      [
+        "Classifier",
+        "Image Feature Aggregation Methodology (text)"
+      ],
+      [
+        "Deep Visual Representations",
+        "Models"
+      ],
+      [
+        "Content",
+        "Section 2.3"
+      ],
+      [
+        "Krizhevsky",
+        "Object Detection"
+      ],
+      [
+        "Deep Convolutional Features",
+        "Model"
+      ],
+      [
+        "Configurations",
+        "Section 2.1"
+      ],
+      [
+        "Method",
+        "Model Comparison for Action Classification on VOC-2012 (table)"
+      ],
+      [
+        "ConvNet Depth Improvement Analysis (text)",
+        "Section 2.3"
+      ],
+      [
+        "Scale Q",
+        "Scale S"
+      ],
+      [
+        "Test Protocol",
+        "localisation setting"
+      ],
+      [
+        "A.1 LOCALISATION CONVNET",
+        "Localization in Convolutional Networks (text)"
+      ],
+      [
+        "Evaluation of Deep Convolutional Networks for Image Classification (text)",
+        "Model Generalization"
+      ],
+      [
+        "Model A",
+        "Models B–E"
+      ],
+      [
+        "Ciresan",
+        "ConvNet Depth Improvement Analysis (text)"
+      ],
+      [
+        "Configuration A",
+        "ConvNet"
+      ],
+      [
+        "Implementation Details Section (text)",
+        "Text Content Analysis"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Tzeng, E."
+      ],
+      [
+        "Multiple Networks",
+        "Performance"
+      ],
+      [
+        "Andrew Zisserman",
+        "Karen Simonyan"
+      ],
+      [
+        "Analysis of ConvNet Depth and Configuration Impact (text)",
+        "Configuration C"
+      ],
+      [
+        "Aggregation",
+        "Performance Analysis of Image Descriptor Aggregation (text)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Hoffman, J."
+      ],
+      [
+        "Localization ConvNets",
+        "Training"
+      ],
+      [
+        "Descriptor dimensionality",
+        "Image Feature Aggregation Methodology (text)"
+      ],
+      [
+        "Analysis of Neural Network Parameter Configurations (text)",
+        "Neural Network"
+      ],
+      [
+        "Bounding Box Predictions",
+        "Offsets Technique"
+      ],
+      [
+        "Content",
+        "Section 2.3 Discussion (text)"
+      ],
+      [
+        "Chatfield et al.",
+        "Comparison of Image Classification Methods (table)"
+      ],
+      [
+        "Convolutional Network Depth and Image Recognition Accuracy Study (text)",
+        "Deep Visual Representations"
+      ],
+      [
+        "Convolutional Layers",
+        "Neural Networks"
+      ],
+      [
+        "MSRA (He et al., 2014) (11 nets)",
+        "Method"
+      ],
+      [
+        "Boser, B.",
+        "LeCun, Y."
+      ],
+      [
+        "Advancements in ConvNet Architectures (text)",
+        "Released Models"
+      ],
+      [
+        "ILSVRC Classification Comparison (table)",
+        "Zeiler & Fergus"
+      ],
+      [
+        "Convolutional Neural Network Training Process (text)",
+        "Mean RGB Value"
+      ],
+      [
+        "Lin, M.",
+        "List Content Analysis"
+      ],
+      [
+        "Analysis",
+        "Testing Protocols in Network Evaluation (text)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Winn, J."
+      ],
+      [
+        "Author Affiliations and Research Link (page_footnote)",
+        "University of Oxford"
+      ],
+      [
+        "ILSVRC Classification Comparison (table)",
+        "MSRA (He et al., 2014) (11 nets)"
+      ],
+      [
+        "datasets",
+        "deep image representations"
+      ],
+      [
+        "List Content Analysis",
+        "Sullivan, J."
+      ],
+      [
+        "List Content Analysis",
+        "Oquab, M."
+      ],
+      [
+        "Conference Paper Publication Header (header)",
+        "International Conference on Learning Representations"
+      ],
+      [
+        "Neural Networks",
+        "Weight Initialization"
+      ],
+      [
+        "ConvNets",
+        "ILSVRC"
+      ],
+      [
+        "REFERENCES",
+        "document"
+      ],
+      [
+        "Data Augmentation",
+        "text_969833442fca08f18fb596b30ca27c58"
+      ],
+      [
+        "Testing",
+        "Testing Protocols in Network Evaluation (text)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Hubbard, W."
+      ],
+      [
+        "Configuration E",
+        "Performance Analysis of Scale Jittering in Model Evaluation (text)"
+      ],
+      [
+        "Image Classification Results on ILSVRC-2012 (text)",
+        "Training Set"
+      ],
+      [
+        "Model Comparison for Action Classification on VOC-2012 (table)",
+        "VGG Net-D & Net-E"
+      ],
+      [
+        "ConvNet Configuration Analysis (text)",
+        "Zeiler"
+      ],
+      [
+        "Parameters",
+        "Total"
+      ],
+      [
+        "Class Score Map",
+        "Score Vector"
+      ],
+      [
+        "Table 10",
+        "VGG"
+      ],
+      [
+        "ConvNet",
+        "performance"
+      ],
+      [
+        "2015",
+        "Header Content Analysis"
+      ],
+      [
+        "Comparison of Convolutional Layer Configurations (text)",
+        "Content"
+      ],
+      [
+        "PASCAL VOC",
+        "Research Paper Version History (list)"
+      ],
+      [
+        "Content",
+        "evaluation"
+      ],
+      [
+        "Appendix B",
+        "Research Paper Overview on ILSVRC Task (text)"
+      ],
+      [
+        "$1 \\times 1$ Convolution Layers in Neural Networks (text)",
+        "Network in Network"
+      ],
+      [
+        "Ensemble of 2 Models",
+        "Ensemble of 7 Models"
+      ],
+      [
+        "Classification Task",
+        "ILSVRC Challenge Analysis (text)"
+      ],
+      [
+        "ConvNet",
+        "ConvNet Training Efficiency Analysis (text)"
+      ],
+      [
+        "Localisation Error Analysis Table (table)",
+        "Training Size"
+      ],
+      [
+        "Image Representation Performance Analysis (text)",
+        "Net-D"
+      ],
+      [
+        "Krizhevsky et al., 2012",
+        "Neural Network Architecture Analysis (text)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Long, J."
+      ],
+      [
+        "ConvNet Image Classification Process (text)",
+        "Sermanet et al."
+      ],
+      [
+        "Model Evaluation",
+        "Scale Jittering"
+      ],
+      [
+        "Data",
+        "text_969833442fca08f18fb596b30ca27c58"
+      ],
+      [
+        "Advancements in Convolutional Networks for Image Recognition (text)",
+        "Convolutional Networks"
+      ],
+      [
+        "Object Localization using ConvNet (text)",
+        "Sermanet et al., 2014"
+      ],
+      [
+        "Dean et al., 2012",
+        "computing systems"
+      ],
+      [
+        "Header Content Analysis",
+        "Publication Reference (header)"
+      ],
+      [
+        "Bounding Box Predictions",
+        "Multiple ConvNets"
+      ],
+      [
+        "Deep Learning",
+        "Visual Representations"
+      ],
+      [
+        "GoogLeNet",
+        "Szegedy et al., 2014"
+      ],
+      [
+        "Scale Jittering",
+        "Test Image"
+      ],
+      [
+        "Action Classification on VOC-2012 (text)",
+        "PASCAL VOC-2012"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Socher, R."
+      ],
+      [
+        "ConvNet Training Procedure Analysis (text)",
+        "Learning Rate"
+      ],
+      [
+        "ConvNet Performance Metrics Table (table)",
+        "Model Configurations"
+      ],
+      [
+        "Evaluation Criterion",
+        "ILSVRC"
+      ],
+      [
+        "Conference",
+        "Publication"
+      ],
+      [
+        "Page 3",
+        "Section 3.1"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Snavely, N."
+      ],
+      [
+        "Page Number",
+        "Page Number 2 (page_number)"
+      ],
+      [
+        "Per-Class Regression",
+        "Single-Class Regression"
+      ],
+      [
+        "Configuration",
+        "Evaluation"
+      ],
+      [
+        "ILSVRC",
+        "Methods"
+      ],
+      [
+        "Convolutional Network Depth and Image Recognition Accuracy Study (text)",
+        "Models"
+      ],
+      [
+        "Image Classification",
+        "Image Classification Analysis on PASCAL VOC Benchmarks (text)"
+      ],
+      [
+        "Image Size",
+        "Performance"
+      ],
+      [
+        "Hinton, G. E.",
+        "Sutskever, I."
+      ],
+      [
+        "ConvNet Training Procedure Analysis (text)",
+        "Regularisation"
+      ],
+      [
+        "Advancements in ConvNet Architectures (text)",
+        "Research"
+      ],
+      [
+        "Descriptor",
+        "Horizontal flip"
+      ],
+      [
+        "Analysis",
+        "CONVNET CONFIGURATIONS"
+      ],
+      [
+        "Performance Analysis of Scale Jittering in Model Evaluation (text)",
+        "Validation Set"
+      ],
+      [
+        "3x3 Convolution Filters",
+        "Deep Neural Networks"
+      ],
+      [
+        "ConvNet Image Classification Process (text)",
+        "Training Scale S"
+      ],
+      [
+        "Comparison of ConvNet Evaluation Techniques (table)",
+        "Image"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "LeCun, Y."
+      ],
+      [
+        "Advancements in Image Recognition Models (text)",
+        "Object Detection"
+      ],
+      [
+        "ILSVRC-2012 Challenges",
+        "Image Classification Results on ILSVRC-2012 (text)"
+      ],
+      [
+        "A",
+        "E"
+      ],
+      [
+        "Model Performance",
+        "Test Sizes"
+      ],
+      [
+        "Cimpoi, M.",
+        "Maji, S."
+      ],
+      [
+        "Dense Evaluation",
+        "Multiple ConvNet Fusion Results (table)"
+      ],
+      [
+        "ConvNet",
+        "Image Classification Results on ILSVRC-2012 (text)"
+      ],
+      [
+        "ConvNet Transfer Learning Methodology (text)",
+        "Image Descriptor"
+      ],
+      [
+        "Comparison of Image Classification Methods (table)",
+        "VGG Net-D & Net-E"
+      ],
+      [
+        "Boser, B.",
+        "List Content Analysis"
+      ],
+      [
+        "Section 3.2: Testing (text)",
+        "Structured Document"
+      ],
+      [
+        "ConvNet Configuration Analysis (text)",
+        "Effective Receptive Field"
+      ],
+      [
+        "Models",
+        "Training"
+      ],
+      [
+        "Comparison of Neural Network Models (text)",
+        "He et al. (2014)"
+      ],
+      [
+        "Wei et al. (2014)",
+        "object detection-assisted classification pipeline"
+      ],
+      [
+        "Bounding Box Prediction",
+        "Ground Truth Class"
+      ],
+      [
+        "Ensemble Model Performance Analysis (text)",
+        "Error Rate 6.8%"
+      ],
+      [
+        "Research Paper",
+        "Section 2"
+      ],
+      [
+        "Department of Engineering Science",
+        "Visual Geometry Group"
+      ],
+      [
+        "Content Analysis",
+        "Page Number 12 (page_number)"
+      ],
+      [
+        "Bounding Boxes",
+        "VOC Action Classification Results (text)"
+      ],
+      [
+        "Convolutional Layers",
+        "Padding"
+      ],
+      [
+        "Anguelov, D.",
+        "Key Contributions in Visual Recognition (list)"
+      ],
+      [
+        "Research Paper",
+        "Research Paper Outline (text)"
+      ],
+      [
+        "Advancements in ConvNet Architectures (text)",
+        "Image Recognition Datasets"
+      ],
+      [
+        "Content",
+        "Section 2.2"
+      ],
+      [
+        "Network A",
+        "Network E"
+      ],
+      [
+        "Bernstein, M.",
+        "Key Contributions in Visual Recognition (list)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Sánchez, J."
+      ],
+      [
+        "Header",
+        "ICLR 2015"
+      ],
+      [
+        "Error Rate 6.8%",
+        "Error Rate 7.3%"
+      ],
+      [
+        "Clarifai (Russakovsky et al., 2014) (multiple nets)",
+        "ILSVRC Classification Comparison (table)"
+      ],
+      [
+        "Feature map",
+        "Image Feature Aggregation Methodology (text)"
+      ],
+      [
+        "Network",
+        "Sermanet et al."
+      ],
+      [
+        "ConvNet Depth Improvement Analysis (text)",
+        "Section 2.2"
+      ],
+      [
+        "ILSVRC-2012 Dataset",
+        "Validation Set"
+      ],
+      [
+        "Chen, Q.",
+        "Curated List of Computer Vision and Deep Learning References (list)"
+      ],
+      [
+        "Models",
+        "Research Team"
+      ],
+      [
+        "Comparison of Image Classification Methods (table)",
+        "VOC-2007"
+      ],
+      [
+        "Convolution Boundary Conditions",
+        "Dense ConvNet Evaluation"
+      ],
+      [
+        "Header",
+        "ICLR 2015 Conference Paper Publication (header)"
+      ],
+      [
+        "Content",
+        "Section 2.1"
+      ],
+      [
+        "ILSVRC Classification Comparison (table)",
+        "OverFeat (Sermanet et al., 2014) (7 nets)"
+      ],
+      [
+        "Image Classification Evaluation",
+        "Research Paper Outline (text)"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Dean, J."
+      ],
+      [
+        "ConvNets",
+        "Target Dataset"
+      ],
+      [
+        "Performance Analysis of Image Descriptor Aggregation (text)",
+        "Validation Sets"
+      ],
+      [
+        "Action Classification on VOC-2012 (text)",
+        "VOC-2012"
+      ],
+      [
+        "Field",
+        "VOC Action Classification Results (text)"
+      ],
+      [
+        "Comparison of ConvNet Evaluation Techniques (table)",
+        "Configuration D"
+      ],
+      [
+        "ILSVRC Classification Comparison (table)",
+        "Method"
+      ],
+      [
+        "Curated List of Computer Vision and Deep Learning References (list)",
+        "Deng, J."
+      ],
+      [
+        "Advancements in Deep Convolutional Networks (text)",
+        "Deep ConvNets"
+      ],
+      [
+        "Horizontal flip",
+        "Image Feature Aggregation Methodology (text)"
+      ],
+      [
+        "ConvNet Configuration Overview (text)",
+        "Section 2.1"
+      ],
+      [
+        "Horizontal Flipping",
+        "Image Preprocessing for ConvNet Training (text)"
+      ],
+      [
+        "ConvNet Depth Improvement Analysis (text)",
+        "Section 2.1"
+      ],
+      [
+        "GoogLeNet",
+        "Szegedy"
+      ],
+      [
+        "Authorship Citation (text)",
+        "Karen Simonyan"
+      ],
+      [
+        "ConvNet Performance Metrics (table)",
+        "Footnotes"
+      ],
+      [
+        "Object in Images",
+        "Scale S"
+      ],
+      [
+        "Content",
+        "best-performing localisation setting"
+      ],
+      [
+        "Advancements in Image Recognition Models (text)",
+        "Krizhevsky"
+      ],
+      [
+        "Configurations Section Heading (text)",
+        "Text Content Analysis"
+      ],
+      [
+        "Section 2.2",
+        "Section 2.3"
+      ],
+      [
+        "$1 \\times 1$ Convolution Layers in Neural Networks (text)",
+        "Rectification Function"
+      ],
+      [
+        "ConvNet",
+        "ConvNet Model Performance Improvement (text)"
+      ],
+      [
+        "ConvNet Model Performance Improvement (text)",
+        "Model Complementarity"
+      ],
+      [
+        "Performance Analysis of Scale Jittering in Model Evaluation (text)",
+        "Top-5 Error"
+      ],
+      [
+        "ConvNet Performance Metrics (table)",
+        "Table"
+      ],
+      [
+        "Content Analysis",
+        "Page Number 14"
+      ]
+    ],
+    "count": 1570,
+    "create_time": 1774859521,
+    "update_time": 1774859521,
+    "_id": "doc-431280a61650f8bf1d18c0e8234f5caa"
+  }
+}
