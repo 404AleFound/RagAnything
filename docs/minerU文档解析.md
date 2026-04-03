@@ -1,9 +1,38 @@
+# minerU文档解析
+- [parser 工作与 OCR/表格/布局处理](#parser-工作与-ocr表格布局处理)
+    - [解释 parser（如 MinerU、Docling）在流水线中负责的具体工作？](#解释-parser如-mineru-docling在流水线中负责的具体工作)
+    - [如何处理 OCR、表格和布局信息？](#如何处理-ocr表格和布局信息)
+    - [Docling 和 MinerU 有何优劣之分，针对你的数据采用哪种解析器？](#docling-和-mineru-有何优劣之分针对你的数据采用哪种解析器)
+- [minerU解析结果](#mineru解析结果)
+    - [解析过程](#解析过程)
+    - [解析结果](#解析结果)
 
-## 解析过程
+## parser 工作与 OCR/表格/布局处理
+### 解释 parser（如 MinerU、Docling）在流水线中负责的具体工作？
+Parser 的定位是“把文件转成统一可处理的结构化中间表示”。在本项目里，后续 processor 依赖 parser 输出的 `content_list` 来区分不同 item 类型并做类型感知处理。
+
+### 如何处理 OCR、表格和布局信息？
+对 OCR/表格/布局的一般处理逻辑（以 parser 能力为准）：
+- **OCR**：对扫描 PDF/图片先做 OCR，将识别文本映射回页面区域。
+- **表格**：识别表格区域并输出表格结构或表格文本（供后续 table processor 摘要/结构化）。
+- **布局**：输出页码、块级结构、bbox 或层级信息（供 `ContextExtractor` 做邻近上下文拼接）。
+
+### Docling 和 MinerU 有何优劣之分，针对你的数据采用哪种解析器？
+MinerU vs Docling（仓库角度）：
+- `MineruParser`（`src/parsers/mineru.py`）包含独立执行与错误类型（如 `MineruExecutionError`），更偏外部工具链集成。
+- `DoclingParser`（`src/parsers/docling.py`）同样是外部解析器封装。
+
+项目没有“强绑定哪一个更好”的硬编码结论，实际通过 `RAGAnythingConfig.parser` 选择，取决于你的 PDF 类型（扫描/原生）、表格密度、版式复杂度与稳定性。
+
+
+- `MineruParser` / `DoclingParser`（`src/parsers/`）
+- 解析器选择：`RAGAnythingConfig`（`src/config.py`）
+## minerU解析结果
+### 解析过程
 下图为使用命令行进行文件解析的控制台输出：
 ![alt text](./assets/解析的控制台输出.png)
 
-## 解析结果
+### 解析结果
 
 ![alt text](./assets/解析结果.png)
 上图为最终对pdf文件的解析结果，每个输出文件说明如下：

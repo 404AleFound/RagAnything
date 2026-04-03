@@ -20,3 +20,9 @@ venv/
 
 # Ignore data files
 data/
+
+# Ignore run files
+runs/
+
+# Ignore output files
+output/

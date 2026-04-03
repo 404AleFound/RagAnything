@@ -6,12 +6,12 @@ from lightrag.utils import EmbeddingFunc
 from lightrag.kg.shared_storage import initialize_pipeline_status
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from src import ProcessorMixin
-from src import RAGAnythingConfig
+from raganything import ProcessorMixin
+from raganything import RAGAnythingConfig
 from logging import Logger
 from lightrag import LightRAG
-from src import ImageModalProcessor, TableModalProcessor, EquationModalProcessor, GenericModalProcessor
-from src import ContextExtractor, ContextConfig
+from raganything import ImageModalProcessor, TableModalProcessor, EquationModalProcessor, GenericModalProcessor
+from raganything import ContextExtractor, ContextConfig
 
 # preparation for ligrag instance
 def get_llm_model_func(api_key: str, base_url: str, llm_model: str = "gpt-4o-mini"):

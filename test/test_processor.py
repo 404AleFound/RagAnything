@@ -11,12 +11,12 @@ from lightrag.utils import EmbeddingFunc
 from lightrag.kg.shared_storage import initialize_pipeline_status
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from src import ProcessorMixin
-from src import RAGAnythingConfig
+from raganything import ProcessorMixin
+from raganything import RAGAnythingConfig
 import logging
 from lightrag import LightRAG
-from src import ImageModalProcessor, TableModalProcessor, EquationModalProcessor, GenericModalProcessor
-from src import ContextExtractor, ContextConfig
+from raganything import ImageModalProcessor, TableModalProcessor, EquationModalProcessor, GenericModalProcessor
+from raganything import ContextExtractor, ContextConfig
 
 from utils import initialize_rag, get_llm_model_func, get_vision_model_func
 

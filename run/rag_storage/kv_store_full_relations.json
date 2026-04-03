@@ -1,0 +1,2546 @@
+{
+  "doc-7456eae662451bb9227d50b25d549442": {
+    "relation_pairs": [
+      [
+        "Finetuning without Dropout",
+        "Training Set Error Line Chart (image)"
+      ],
+      [
+        "CVPR11",
+        "F. Perronnin"
+      ],
+      [
+        "Data Augmentation Techniques",
+        "Deep Neural Networks"
+      ],
+      [
+        "Learning Rate",
+        "Mathematical Equation"
+      ],
+      [
+        "CIFAR-10",
+        "Page 12 (page_number)"
+      ],
+      [
+        "Dropout",
+        "Momentum"
+      ],
+      [
+        "Mathematical Equation Analysis",
+        "Momentum-based Stochastic Gradient Descent Update Rule (equation)"
+      ],
+      [
+        "15 Frames 3 Layers 2000 Units",
+        "Validation Set Error Line Graph (image)"
+      ],
+      [
+        "Convolution Operations",
+        "Convolutional Neural Networks Overview (page_number)"
+      ],
+      [
+        "TIMIT",
+        "Weight Vector"
+      ],
+      [
+        "Deep Neural Networks",
+        "Models for ImageNet (page_number)"
+      ],
+      [
+        "Lyrl2004 RCV1v2 README",
+        "Page Footnote"
+      ],
+      [
+        "Classification Error Rate",
+        "Deep Convolutional Neural Networks"
+      ],
+      [
+        "Epochs",
+        "Training Set Cross Entropy"
+      ],
+      [
+        "31 Frames 3 Layers 4000 Units",
+        "Training_Set_Cross_Entropy_Graph (image)"
+      ],
+      [
+        "Momentum",
+        "Momentum-based Stochastic Gradient Descent Update Rule (equation)"
+      ],
+      [
+        "Convolutional Neural Networks",
+        "Page Number 15"
+      ],
+      [
+        "Geoffrey Hinton",
+        "Page Footnote"
+      ],
+      [
+        "Dropout",
+        "Validation Set Cross Entropy"
+      ],
+      [
+        "Epochs",
+        "Validation Set Error Line Graph (image)"
+      ],
+      [
+        "Minibatching",
+        "TIMIT Speech Recognition Experiments (page_number)"
+      ],
+      [
+        "Neural Network Experiments",
+        "Page Number"
+      ],
+      [
+        "Deep Learning Performance Metrics with Dropout Techniques (page_number)",
+        "ImageNet"
+      ],
+      [
+        "Kaldi",
+        "Page Footnote"
+      ],
+      [
+        "Classification Error Rate",
+        "Fig. 2"
+      ],
+      [
+        "Dropout Techniques",
+        "TIMIT Speech Recognition Experiments (page_number)"
+      ],
+      [
+        "Finetuning with Dropout",
+        "Training Set Cross Entropy"
+      ],
+      [
+        "Hand Glass",
+        "ImageNet Classification Sample Results (image)"
+      ],
+      [
+        "Finetuning with Dropout",
+        "Training Set Error"
+      ],
+      [
+        "Neural Network Architectures",
+        "Test Error"
+      ],
+      [
+        "CIFAR-10 Bird Class Examples (image)",
+        "ImageNet Classification with Deep Convolutional Neural Networks"
+      ],
+      [
+        "Models for ImageNet (page_number)",
+        "Overfitting"
+      ],
+      [
+        "Neural Networks",
+        "TIMIT Speech Recognition Experiments (page_number)"
+      ],
+      [
+        "L. Breiman",
+        "Machine Learning 24"
+      ],
+      [
+        "Cheetah",
+        "Image Content Analysis"
+      ],
+      [
+        "Bayesian Methods",
+        "Dropout"
+      ],
+      [
+        "Empty Page (page_number)",
+        "Page Number"
+      ],
+      [
+        "ImageNet Classification Sample Results (image)",
+        "Imagenet"
+      ],
+      [
+        "Convergence Stability",
+        "Momentum Adjustment Over Training Epochs (equation)"
+      ],
+      [
+        "Green Line",
+        "Test Set Error"
+      ],
+      [
+        "Finetuning with Dropout",
+        "Training Set Error Line Chart (image)"
+      ],
+      [
+        "References and Notes (page_number)",
+        "Research Contributions"
+      ],
+      [
+        "Image Content Analysis",
+        "Reuters Dataset Classification Error Graph (image)"
+      ],
+      [
+        "Dropout Training Methods",
+        "Neural Networks"
+      ],
+      [
+        "Fig. 2",
+        "TIMIT Benchmark Test Error Rate with Dropout Comparison (image)"
+      ],
+      [
+        "References for Neural Network Research and Dropout Methods (list)",
+        "Y. B. Y. Lecun"
+      ],
+      [
+        "Gradient Stability",
+        "Weight Update Formula with Dropout and Momentum (equation)"
+      ],
+      [
+        "Image Content Analysis",
+        "Visualization of Learned Features from Neural Network Hidden Units (image)"
+      ],
+      [
+        "Page 17",
+        "Summary of Model Performance and Configuration (page_number)"
+      ],
+      [
+        "Kaldi Speech Recognition Toolkit (page_footnote)",
+        "TIMIT Dataset"
+      ],
+      [
+        "Efficacy",
+        "Empty Page (page_number)"
+      ],
+      [
+        "Exponential Decay",
+        "Learning Rate"
+      ],
+      [
+        "Line Graph",
+        "Training Set Error"
+      ],
+      [
+        "Empirical Support",
+        "Link to Deep Belief Network Code (page_footnote)"
+      ],
+      [
+        "MNIST Dataset",
+        "Weight Update Formula with Dropout and Momentum (equation)"
+      ],
+      [
+        "Proceedings of the IEEE",
+        "Y. B. Y. Lecun"
+      ],
+      [
+        "Convolutional Neural Networks (CNNs)",
+        "Pooling"
+      ],
+      [
+        "Line Graph",
+        "Network Architecture"
+      ],
+      [
+        "Dropout Training",
+        "Experimental Frameworks"
+      ],
+      [
+        "Weight Update",
+        "Weight Update Formula with Dropout and Momentum (equation)"
+      ],
+      [
+        "L. Breiman",
+        "Machine Learning 45"
+      ],
+      [
+        "Image Content Analysis",
+        "Imagenet"
+      ],
+      [
+        "Neural Network Configurations",
+        "Validation Set Cross Entropy"
+      ],
+      [
+        "Convolutional Neural Networks Overview (page_number)",
+        "Neuron Organization"
+      ],
+      [
+        "Empty Page (page_number)",
+        "Neural Networks"
+      ],
+      [
+        "Page Footnote",
+        "Page Footnote Content"
+      ],
+      [
+        "Neural Computation 3",
+        "R. J. Williams"
+      ],
+      [
+        "Image Classification",
+        "Technical Foundations of CNNs (page_number)"
+      ],
+      [
+        "Green Line",
+        "Training without Dropout"
+      ],
+      [
+        "Dropout",
+        "Error Rate Comparison Line Graph (image)"
+      ],
+      [
+        "Mathematical Equation",
+        "Weight Update"
+      ],
+      [
+        "Neural Network Training Techniques and Nonlinearities (page_number)",
+        "Neuron Nonlinearity"
+      ],
+      [
+        "Content Analysis",
+        "Page Number 10"
+      ],
+      [
+        "Finetuning Techniques and Experiments Overview (page_number)",
+        "Model Architecture"
+      ],
+      [
+        "Learning Rate",
+        "Weight Update Formula with Dropout and Momentum (equation)"
+      ],
+      [
+        "J. Deng",
+        "References for Neural Network Research and Dropout Methods (list)"
+      ],
+      [
+        "Content Analysis",
+        "Discussion"
+      ],
+      [
+        "Gradient Descent",
+        "Mathematical Equation"
+      ],
+      [
+        "G. Dahl",
+        "References for Neural Network Research and Dropout Methods (list)"
+      ],
+      [
+        "Dynamic Parameter Adjustment",
+        "Learning Rate Decay"
+      ],
+      [
+        "A. Mohamed",
+        "References for Neural Network Research and Dropout Methods (list)"
+      ],
+      [
+        "CIFAR Dataset Reference (page_footnote)",
+        "CIFAR-10 Dataset"
+      ],
+      [
+        "CVPR09",
+        "J. Deng"
+      ],
+      [
+        "31 Frames 4 Layers 4000 Units",
+        "Training_Set_Cross_Entropy_Graph (image)"
+      ],
+      [
+        "Dropout Neural Network Error Rate Comparison on MNIST (image)",
+        "Epochs"
+      ],
+      [
+        "Dropout",
+        "Dynamic Parameter Adjustment"
+      ],
+      [
+        "Model Training Strategies",
+        "Neural Network Training Techniques and Nonlinearities (page_number)"
+      ],
+      [
+        "Convolutional Neural Networks Overview (page_number)",
+        "Response Normalization"
+      ],
+      [
+        "Page 12 (page_number)",
+        "Page Number"
+      ],
+      [
+        "15 Frames 3 Layers 4000 Units",
+        "Validation Set Error"
+      ],
+      [
+        "Convolutional Layers",
+        "Models for ImageNet (page_number)"
+      ],
+      [
+        "R. J. Williams",
+        "References for Neural Network Research and Dropout Methods (list)"
+      ],
+      [
+        "Gradient",
+        "Mathematical Equation"
+      ],
+      [
+        "F. Perronnin",
+        "References for Neural Network Research and Dropout Methods (list)"
+      ],
+      [
+        "Convolutional Neural Networks",
+        "Non-Linear Activation Functions"
+      ],
+      [
+        "CIFAR-10 Bird Class Examples (image)",
+        "Visual Analysis"
+      ],
+      [
+        "Dropout Techniques",
+        "TIMIT"
+      ],
+      [
+        "Deep Belief Networks",
+        "Dropout Training"
+      ],
+      [
+        "Hyperparameter Beta",
+        "Mathematical Equation"
+      ],
+      [
+        "Momentum Adjustment Over Training Epochs (equation)",
+        "Neural Network"
+      ],
+      [
+        "Image Recognition Tasks",
+        "Models for ImageNet (page_number)"
+      ],
+      [
+        "Document Pagination",
+        "Page Number"
+      ],
+      [
+        "Page 11",
+        "Speech Recognition"
+      ],
+      [
+        "Deep Neural Networks",
+        "Globally-Connected Layers"
+      ],
+      [
+        "Page Number",
+        "TIMIT Speech Recognition Experiments (page_number)"
+      ],
+      [
+        "K. Swersky",
+        "References for Neural Network Research and Dropout Methods (list)"
+      ],
+      [
+        "Convolutional Neural Networks",
+        "standard neural networks"
+      ],
+      [
+        "Learning Rate",
+        "Weight Update Rule in Neural Networks (equation)"
+      ],
+      [
+        "Image Recognition Tasks",
+        "Page Number 17"
+      ],
+      [
+        "CIFAR-10",
+        "Convolutional Neural Networks Overview (page_number)"
+      ],
+      [
+        "Dropout in Neural Networks (page_number)",
+        "Overfitting"
+      ],
+      [
+        "Final Momentum",
+        "Momentum Adjustment Over Training Epochs (equation)"
+      ],
+      [
+        "Content Analysis",
+        "Summary of Model Performance and Configuration (page_number)"
+      ],
+      [
+        "Hyperparameter Alpha",
+        "Mathematical Equation"
+      ],
+      [
+        "Dropout Training",
+        "Page Footnote"
+      ],
+      [
+        "Dropout Neural Network Error Rate Comparison on MNIST (image)",
+        "Test Error"
+      ],
+      [
+        "Details for dropout training experiments (page_number)",
+        "Page Number 7"
+      ],
+      [
+        "Convolutional Neural Networks",
+        "Technical Foundations of CNNs (page_number)"
+      ],
+      [
+        "Bird",
+        "CIFAR-10 Bird Class Examples (image)"
+      ],
+      [
+        "31 Frames 3 Layers 4000 Units",
+        "Training Set Cross Entropy"
+      ],
+      [
+        "Stochastic Gradient Descent (SGD)",
+        "Weight Update Formula with Dropout and Momentum (equation)"
+      ],
+      [
+        "Neural Network Experiments",
+        "Reuters"
+      ],
+      [
+        "Visualization",
+        "Visualization of Learned Features from Neural Network Hidden Units (image)"
+      ],
+      [
+        "Image Classification",
+        "Page 13"
+      ],
+      [
+        "Lateral Inhibition",
+        "Local Response Normalization (equation)"
+      ],
+      [
+        "31 Frames 3 Layers 4000 Units",
+        "Validation Set Error Line Graph (image)"
+      ],
+      [
+        "Pooling Mechanisms",
+        "Technical Foundations of CNNs (page_number)"
+      ],
+      [
+        "Initial Momentum",
+        "Momentum Adjustment Over Training Epochs (equation)"
+      ],
+      [
+        "Department of Computer Science, University of Toronto",
+        "References for Neural Network Research and Dropout Methods (list)"
+      ],
+      [
+        "CIFAR Dataset Reference (page_footnote)",
+        "Content Analysis"
+      ],
+      [
+        "Epochs",
+        "Reuters Dataset Classification Error Graph (image)"
+      ],
+      [
+        "Methods",
+        "References and Notes (page_number)"
+      ],
+      [
+        "Image Path",
+        "TIMIT Benchmark Test Error Rate with Dropout Comparison (image)"
+      ],
+      [
+        "Convolutional Neural Networks Overview (page_number)",
+        "Shared Filters"
+      ],
+      [
+        "Hyperparameter Optimization",
+        "Neural Network Training Techniques and Nonlinearities (page_number)"
+      ],
+      [
+        "Kaldi",
+        "Kaldi Speech Recognition Toolkit (page_footnote)"
+      ],
+      [
+        "Dropout Techniques",
+        "Page 11"
+      ],
+      [
+        "Machine Learning Tasks",
+        "TIMIT Speech Recognition Experiments (page_number)"
+      ],
+      [
+        "Bagging",
+        "Dropout"
+      ],
+      [
+        "Convolutional Neural Networks (CNNs)",
+        "Page 15"
+      ],
+      [
+        "Dropout",
+        "Overfitting"
+      ],
+      [
+        "Page Footnote",
+        "URL"
+      ],
+      [
+        "Finetuning Pretrained Models using Dropout (page_number)",
+        "Training Methodologies"
+      ],
+      [
+        "Grid Visualization",
+        "Visualization"
+      ],
+      [
+        "Convolutional Neural Networks Overview (page_number)",
+        "Page 13"
+      ],
+      [
+        "Dropout Techniques",
+        "Neural Networks"
+      ],
+      [
+        "Binary Restricted Boltzmann Machine",
+        "Page 11"
+      ],
+      [
+        "Neural Network Training Techniques and Nonlinearities (page_number)",
+        "Weight Initialization"
+      ],
+      [
+        "Gradient Stability",
+        "Neural Network"
+      ],
+      [
+        "Models for ImageNet (page_number)",
+        "Page 17"
+      ],
+      [
+        "Hinton MATLAB Code Reference (page_footnote)",
+        "MATLAB Implementations"
+      ],
+      [
+        "Cross-Entropy",
+        "Frame Classification Error"
+      ],
+      [
+        "Feature Learning Process",
+        "ImageNet Classification"
+      ],
+      [
+        "15 Frames 3 Layers 2000 Units",
+        "Validation Set Error"
+      ],
+      [
+        "Mathematical Equation",
+        "Weight Update Formula with Dropout and Momentum (equation)"
+      ],
+      [
+        "CIFAR-10",
+        "Convolutional Neural Networks"
+      ],
+      [
+        "Convolutional Neural Networks (CNNs)",
+        "Neural Network Training Techniques and Nonlinearities (page_number)"
+      ],
+      [
+        "Loss Function",
+        "Weight Update Rule in Neural Networks (equation)"
+      ],
+      [
+        "Automatic Speech Recognition",
+        "TIMIT Speech Recognition Experiments (page_number)"
+      ],
+      [
+        "Convolutional Neural Networks (CNNs)",
+        "Response Normalization"
+      ],
+      [
+        "Department of Computer Science, University of Toronto",
+        "N. Jaitly"
+      ],
+      [
+        "Image Content Analysis",
+        "Neural Network"
+      ],
+      [
+        "R. Salakhutdinov",
+        "References for Neural Network Research and Dropout Methods (list)"
+      ],
+      [
+        "CIFAR-10",
+        "ImageNet"
+      ],
+      [
+        "Continuation of Experiments on Dropout Finetuning (page_number)",
+        "Findings"
+      ],
+      [
+        "Convolutional Neural Networks",
+        "Page 13"
+      ],
+      [
+        "Bayesian Learning for Neural Networks",
+        "R. M. Neal"
+      ],
+      [
+        "Canadian Institute for Advanced Research",
+        "G. E. Hinton"
+      ],
+      [
+        "Images Set",
+        "Ostrich"
+      ],
+      [
+        "ImageNet",
+        "Model Configurations"
+      ],
+      [
+        "Finetuning Techniques and Experiments Overview (page_number)",
+        "Hyperparameters"
+      ],
+      [
+        "Finetuning Techniques and Experiments Overview (page_number)",
+        "Page 11"
+      ],
+      [
+        "Grid Visualization",
+        "Image Content Analysis"
+      ],
+      [
+        "Image Content Analysis",
+        "ImageNet Classification Sample Results (image)"
+      ],
+      [
+        "Neural Networks",
+        "Reuters Corpus Volume I Reference (page_footnote)"
+      ],
+      [
+        "D. E. Rumelhart",
+        "References for Neural Network Research and Dropout Methods (list)"
+      ],
+      [
+        "arXiv:1207.0580v1",
+        "aside_text_45cbd54c17621460eb6ec08dbed00a84"
+      ],
+      [
+        "J. Sanchez",
+        "References for Neural Network Research and Dropout Methods (list)"
+      ],
+      [
+        "Reuters Corpus Volume I (RCV1-v2)",
+        "Reuters Corpus Volume I Reference (page_footnote)"
+      ],
+      [
+        "Learning Rate",
+        "Neural Network"
+      ],
+      [
+        "ImageNet Classification",
+        "TIMIT Benchmark Test Error Rate with Dropout Comparison (image)"
+      ],
+      [
+        "Dataset Descriptions",
+        "Page 13"
+      ],
+      [
+        "Image Classification",
+        "MNIST"
+      ],
+      [
+        "Continuation of Experiments on Dropout Finetuning (page_number)",
+        "Performance Metrics"
+      ],
+      [
+        "Geoffrey Hinton",
+        "MATLAB Implementations"
+      ],
+      [
+        "Page 12 (page_number)",
+        "Reuters"
+      ],
+      [
+        "Dropout Training",
+        "Link to Deep Belief Network Code (page_footnote)"
+      ],
+      [
+        "31 Frames 4 Layers 4000 Units",
+        "Training Set Cross Entropy"
+      ],
+      [
+        "MNIST",
+        "Weight Update Rule in Neural Networks (equation)"
+      ],
+      [
+        "Normalization of Input Data",
+        "TIMIT Speech Recognition Experiments (page_number)"
+      ],
+      [
+        "Learning Rate",
+        "Momentum-based Stochastic Gradient Descent Update Rule (equation)"
+      ],
+      [
+        "Neural Network Training",
+        "Performance Metrics"
+      ],
+      [
+        "Dropout",
+        "Neural Network Training Methodologies"
+      ],
+      [
+        "Citations",
+        "References and Notes (page_number)"
+      ],
+      [
+        "Details for dropout training experiments (page_number)",
+        "Experimental Frameworks"
+      ],
+      [
+        "Page 6",
+        "References and Notes (page_number)"
+      ],
+      [
+        "Momentum Adjustment Over Training Epochs (equation)",
+        "TIMIT"
+      ],
+      [
+        "CIFAR-10 Bird Class Examples (image)",
+        "Images Set"
+      ],
+      [
+        "Image Content Analysis",
+        "Line Graph"
+      ],
+      [
+        "Mathematical Equation",
+        "Weight Update Rule in Neural Networks (equation)"
+      ],
+      [
+        "31 Frames 4 Layers 4000 Units",
+        "Validation Set Error Line Graph (image)"
+      ],
+      [
+        "Classification Error Rate",
+        "Line Graph"
+      ],
+      [
+        "ImageNet Classification",
+        "MNIST Test Set"
+      ],
+      [
+        "CIFAR-10",
+        "Model Configurations"
+      ],
+      [
+        "J. Schmidhuber",
+        "References for Neural Network Research and Dropout Methods (list)"
+      ],
+      [
+        "ImageNet",
+        "Local Response Normalization"
+      ],
+      [
+        "Gradient of the Loss Function",
+        "Mathematical Equation"
+      ],
+      [
+        "Deep Learning Performance Metrics with Dropout Techniques (page_number)",
+        "TIMIT"
+      ],
+      [
+        "Neuron Nonlinearity",
+        "Page 15"
+      ],
+      [
+        "Epoch",
+        "Weight Update Formula with Dropout and Momentum (equation)"
+      ],
+      [
+        "P. Haffner",
+        "References for Neural Network Research and Dropout Methods (list)"
+      ],
+      [
+        "Convolutional Neural Networks",
+        "Momentum-based Stochastic Gradient Descent Update Rule (equation)"
+      ],
+      [
+        "Page 13",
+        "Tiny Images"
+      ],
+      [
+        "Bird",
+        "Images Set"
+      ],
+      [
+        "Reuters Dataset",
+        "Reuters Dataset Classification Error Graph (image)"
+      ],
+      [
+        "Link to Deep Belief Network Code (page_footnote)",
+        "Page Footnote"
+      ],
+      [
+        "Dropout Finetuning",
+        "Page Number 10"
+      ],
+      [
+        "Neural Network",
+        "Weight Update Formula with Dropout and Momentum (equation)"
+      ],
+      [
+        "Content Analysis",
+        "Deep Learning Performance Metrics with Dropout Techniques (page_number)"
+      ],
+      [
+        "Datasets and Convolutional Neural Networks Overview (page_number)",
+        "Tiny Images"
+      ],
+      [
+        "Bullet Train",
+        "Image Content Analysis"
+      ],
+      [
+        "References for Neural Network Research and Dropout Methods (list)",
+        "U. Meier"
+      ],
+      [
+        "Kaldi Speech Recognition Toolkit (page_footnote)",
+        "Page Footnote"
+      ],
+      [
+        "Hyperparameter Beta",
+        "Local Response Normalization (equation)"
+      ],
+      [
+        "Neural Network Experiments",
+        "Page 12 (page_number)"
+      ],
+      [
+        "Dropout",
+        "Neural Network Architectures"
+      ],
+      [
+        "Dropout",
+        "Finetuning Pretrained Models using Dropout (page_number)"
+      ],
+      [
+        "CIFAR-10 Bird Class Examples (image)",
+        "Toucan"
+      ],
+      [
+        "CIFAR-10",
+        "Local Response Normalization"
+      ],
+      [
+        "Dropout Techniques",
+        "Reuters"
+      ],
+      [
+        "Dropout Finetuning Techniques",
+        "Neural Network Experiments"
+      ],
+      [
+        "Images Set",
+        "Toucan"
+      ],
+      [
+        "MNIST Dataset",
+        "Visualization of Learned Features from Neural Network Hidden Units (image)"
+      ],
+      [
+        "Local Response Normalization (equation)",
+        "Neuron Activation"
+      ],
+      [
+        "Content Analysis",
+        "Models for ImageNet (page_number)"
+      ],
+      [
+        "Objective Functions",
+        "Technical Foundations of CNNs (page_number)"
+      ],
+      [
+        "Page 9",
+        "Page Footnote"
+      ],
+      [
+        "Content",
+        "URL"
+      ],
+      [
+        "Discussion",
+        "TIMIT Speech Recognition Experiments (page_number)"
+      ],
+      [
+        "Dropout",
+        "Image Content Analysis"
+      ],
+      [
+        "Convolutional Neural Networks (CNNs)",
+        "Page 13"
+      ],
+      [
+        "Image Path",
+        "Neural Network Feature Grid (image)"
+      ],
+      [
+        "Momentum-based Stochastic Gradient Descent Update Rule (equation)",
+        "Stochastic Gradient Descent"
+      ],
+      [
+        "Hyperparameter Alpha",
+        "Local Response Normalization (equation)"
+      ],
+      [
+        "Convolutional Neural Networks",
+        "Image Classification"
+      ],
+      [
+        "Reuters Dataset Classification Error Graph (image)",
+        "Test Set Error"
+      ],
+      [
+        "Learning Rate",
+        "Momentum Adjustment Over Training Epochs (equation)"
+      ],
+      [
+        "Datasets and Convolutional Neural Networks Overview (page_number)",
+        "ImageNet"
+      ],
+      [
+        "Link to Deep Belief Network Code (page_footnote)",
+        "URL"
+      ],
+      [
+        "Blue Line",
+        "Test Set Error"
+      ],
+      [
+        "Deep Belief Networks",
+        "Page Footnote"
+      ],
+      [
+        "Exponential Learning Rate Decay (equation)",
+        "Mathematical Equation"
+      ],
+      [
+        "Frame Classification Error",
+        "Validation Set Cross Entropy Chart (image)"
+      ],
+      [
+        "Kaldi",
+        "TIMIT Dataset"
+      ],
+      [
+        "Hinton MATLAB Code Reference (page_footnote)",
+        "Neural Networks"
+      ],
+      [
+        "Line Graph",
+        "TIMIT Benchmark Test Error Rate with Dropout Comparison (image)"
+      ],
+      [
+        "Dropout",
+        "Dropout Performance Analysis in Neural Networks (page_number)"
+      ],
+      [
+        "Decay Factor",
+        "Exponential Learning Rate Decay (equation)"
+      ],
+      [
+        "Dropout",
+        "Weight Update Formula with Dropout and Momentum (equation)"
+      ],
+      [
+        "Dropout Mechanism",
+        "Neural Networks"
+      ],
+      [
+        "Dropout Finetuning Techniques",
+        "Page 12 (page_number)"
+      ],
+      [
+        "Dropout Neural Network Error Rate Comparison on MNIST (image)",
+        "Neural Network Architectures"
+      ],
+      [
+        "Normalization Layers",
+        "Technical Foundations of CNNs (page_number)"
+      ],
+      [
+        "Content Analysis",
+        "TIMIT Speech Recognition Experiments (page_number)"
+      ],
+      [
+        "Local Response Normalization",
+        "Local Response Normalization (equation)"
+      ],
+      [
+        "Exponential Learning Rate Decay (equation)",
+        "Optimization Techniques"
+      ],
+      [
+        "Findings",
+        "Page Number 10"
+      ],
+      [
+        "Cross Entropy",
+        "Training_Set_Cross_Entropy_Graph (image)"
+      ],
+      [
+        "Continuation of Experiments on Dropout Finetuning (page_number)",
+        "Pretrained Models"
+      ],
+      [
+        "ImageNet Classification with Deep Convolutional Neural Networks",
+        "Training Set Error Line Chart (image)"
+      ],
+      [
+        "Dataset Processing",
+        "TIMIT Acoustic-Phonetic Continuous Speech Corpus"
+      ],
+      [
+        "Feature Learning Process",
+        "Neural Network Feature Grid (image)"
+      ],
+      [
+        "Dropout in Neural Networks (page_number)",
+        "Page Number"
+      ],
+      [
+        "CIFAR-10",
+        "ImageNet Classification with Deep Convolutional Neural Networks"
+      ],
+      [
+        "Finetuning Techniques and Experiments Overview (page_number)",
+        "Training Epochs"
+      ],
+      [
+        "Deep Learning Performance Metrics with Dropout Techniques (page_number)",
+        "Neural Networks"
+      ],
+      [
+        "Neural Network Training",
+        "Pretrained Models"
+      ],
+      [
+        "Citations",
+        "Methods"
+      ],
+      [
+        "Machine Learning Tasks",
+        "Neural Networks"
+      ],
+      [
+        "Hyperparameter Optimization",
+        "Model Training Strategies"
+      ],
+      [
+        "Empirical Evidence",
+        "References and Notes (page_number)"
+      ],
+      [
+        "Globally-Connected Layers",
+        "Models for ImageNet (page_number)"
+      ],
+      [
+        "Deep Belief Networks",
+        "URL"
+      ],
+      [
+        "References for Neural Network Research and Dropout Methods (list)",
+        "TIMIT"
+      ],
+      [
+        "Gradient of the Loss Function",
+        "Weight Update Formula with Dropout and Momentum (equation)"
+      ],
+      [
+        "Kaldi Speech Recognition Toolkit (page_footnote)",
+        "Page 9"
+      ],
+      [
+        "Deep Belief Networks",
+        "Empirical Support"
+      ],
+      [
+        "Images Set",
+        "Visual Analysis"
+      ],
+      [
+        "Page Number",
+        "TIMIT Acoustic-Phonetic Continuous Speech Corpus"
+      ],
+      [
+        "L. Breiman",
+        "References for Neural Network Research and Dropout Methods (list)"
+      ],
+      [
+        "Dropout Performance Analysis in Neural Networks (page_number)",
+        "Page Number"
+      ],
+      [
+        "R. M. Neal",
+        "References for Neural Network Research and Dropout Methods (list)"
+      ],
+      [
+        "Exponential Learning Rate Decay (equation)",
+        "Training Regime"
+      ],
+      [
+        "ImageNet Classification",
+        "Neural Network Feature Grid (image)"
+      ],
+      [
+        "Convergence Stability",
+        "Dynamic Parameter Adjustment"
+      ],
+      [
+        "Dropout",
+        "Validation Set Cross Entropy Chart (image)"
+      ],
+      [
+        "31 Frames 3 Layers 4000 Units",
+        "Validation Set Error"
+      ],
+      [
+        "Epochs",
+        "Line Graph"
+      ],
+      [
+        "Learning Rate",
+        "Weight Vector"
+      ],
+      [
+        "Finetuning Pretrained Models using Dropout (page_number)",
+        "Page 8"
+      ],
+      [
+        "Canadian Institute for Advanced Research",
+        "References for Neural Network Research and Dropout Methods (list)"
+      ],
+      [
+        "Backpropagation",
+        "Dropout Neural Network Error Rate Comparison on MNIST (image)"
+      ],
+      [
+        "Dropout Techniques",
+        "Hinton MATLAB Code Reference (page_footnote)"
+      ],
+      [
+        "Lyrl2004 RCV1v2 README",
+        "Reuters Corpus Volume I Reference (page_footnote)"
+      ],
+      [
+        "Finetuning Pretrained Models using Dropout (page_number)",
+        "Neural Networks"
+      ],
+      [
+        "Convolutional Neural Networks",
+        "Dropout"
+      ],
+      [
+        "Dropout in Neural Networks (page_number)",
+        "Neural Networks"
+      ],
+      [
+        "Continuation of Experiments on Dropout Finetuning (page_number)",
+        "Dropout Finetuning"
+      ],
+      [
+        "Reuters Corpus Volume I Reference (page_footnote)",
+        "URL Link"
+      ],
+      [
+        "Training Neural Networks",
+        "Weight Update Rule in Neural Networks (equation)"
+      ],
+      [
+        "N. Jaitly",
+        "References for Neural Network Research and Dropout Methods (list)"
+      ],
+      [
+        "Convolutional Neural Networks (CNNs)",
+        "Model Training Strategies"
+      ],
+      [
+        "Training Set Error",
+        "Training Set Error Line Chart (image)"
+      ],
+      [
+        "Deep Learning Performance Metrics with Dropout Techniques (page_number)",
+        "Page_Number"
+      ],
+      [
+        "CIFAR Dataset",
+        "CIFAR-10 Dataset"
+      ],
+      [
+        "CIFAR Dataset Reference (page_footnote)",
+        "Page Footnote"
+      ],
+      [
+        "Dropout",
+        "Training Set Error"
+      ],
+      [
+        "Input Feature Extraction",
+        "Minibatching"
+      ],
+      [
+        "ImageNet",
+        "Summary of Model Performance and Configuration (page_number)"
+      ],
+      [
+        "CVPR11",
+        "J. Sanchez"
+      ],
+      [
+        "Page Number 15",
+        "Technical Foundations of CNNs (page_number)"
+      ],
+      [
+        "Learning Rate Decay",
+        "Momentum Adjustment Over Training Epochs (equation)"
+      ],
+      [
+        "Deep Convolutional Neural Networks",
+        "Neural Network Filters"
+      ],
+      [
+        "Deep Convolutional Neural Networks",
+        "Reuters Dataset Classification Error Graph (image)"
+      ],
+      [
+        "ImageNet Classification Sample Results (image)",
+        "Morel"
+      ],
+      [
+        "Reuters Dataset Classification Error Graph (image)",
+        "Training with Dropout"
+      ],
+      [
+        "Dropout",
+        "Validation Set Error Line Graph (image)"
+      ],
+      [
+        "Dropout Effects",
+        "Dropout Finetuning"
+      ],
+      [
+        "Classification Error Rate",
+        "TIMIT Benchmark Test Error Rate with Dropout Comparison (image)"
+      ],
+      [
+        "Blue Line",
+        "Training with Dropout"
+      ],
+      [
+        "Convolutional Neural Networks",
+        "Pooling Mechanisms"
+      ],
+      [
+        "Algorithm Performance Metrics",
+        "Content Analysis"
+      ],
+      [
+        "Gaussian Restricted Boltzmann Machine",
+        "Hyperparameters"
+      ],
+      [
+        "Bayesian Methods",
+        "Dropout in Neural Networks (page_number)"
+      ],
+      [
+        "Classification Error %",
+        "Validation Set Error Line Graph (image)"
+      ],
+      [
+        "Dropout Finetuning",
+        "Neural Network Training"
+      ],
+      [
+        "CIFAR-10",
+        "Dropout Techniques"
+      ],
+      [
+        "Finetuning Pretrained Models using Dropout (page_number)",
+        "MNIST Dataset"
+      ],
+      [
+        "Decay Factor",
+        "Learning Rate"
+      ],
+      [
+        "Learning Rate",
+        "Stochastic Gradient Descent"
+      ],
+      [
+        "Analysis",
+        "page_number_2f04c1538de09178bca4e21ea42a8c70"
+      ],
+      [
+        "Deep Belief Networks",
+        "Link to Deep Belief Network Code (page_footnote)"
+      ],
+      [
+        "Model Architecture",
+        "Page 11"
+      ],
+      [
+        "Deep Belief Networks",
+        "Page 8"
+      ],
+      [
+        "Classification Tasks",
+        "Weight Update Formula with Dropout and Momentum (equation)"
+      ],
+      [
+        "CIFAR-10",
+        "Summary of Model Performance and Configuration (page_number)"
+      ],
+      [
+        "CIFAR Dataset Reference (page_footnote)",
+        "URL"
+      ],
+      [
+        "Line Chart",
+        "Training Set Error"
+      ],
+      [
+        "Image Content Analysis",
+        "Morel"
+      ],
+      [
+        "Dropout",
+        "Dropout in Neural Networks (page_number)"
+      ],
+      [
+        "CIFAR-10 Dataset",
+        "neural networks"
+      ],
+      [
+        "Green Line",
+        "Reuters Dataset Classification Error Graph (image)"
+      ],
+      [
+        "Dropout",
+        "Neural Networks"
+      ],
+      [
+        "Momentum Adjustment Over Training Epochs (equation)",
+        "Parameter"
+      ],
+      [
+        "ImageNet",
+        "Page 17"
+      ],
+      [
+        "Hinton MATLAB Code Reference (page_footnote)",
+        "Page Footnote Content"
+      ],
+      [
+        "ImageNet",
+        "Technical Foundations of CNNs (page_number)"
+      ],
+      [
+        "Momentum",
+        "Weight Update Rule in Neural Networks (equation)"
+      ],
+      [
+        "Dropout Training",
+        "Weight Vector"
+      ],
+      [
+        "Mathematical Equation",
+        "Stochastic Gradient Descent (SGD)"
+      ],
+      [
+        "H. Larochelle",
+        "References for Neural Network Research and Dropout Methods (list)"
+      ],
+      [
+        "Finetuning Techniques and Experiments Overview (page_number)",
+        "Speech Recognition"
+      ],
+      [
+        "Deep Neural Networks",
+        "Max-Pooling"
+      ],
+      [
+        "Dropout Techniques",
+        "Finetuning Techniques and Experiments Overview (page_number)"
+      ],
+      [
+        "CIFAR-10",
+        "Dropout Performance Analysis in Neural Networks (page_number)"
+      ],
+      [
+        "CIFAR-10",
+        "CIFAR-10 Bird Class Examples (image)"
+      ],
+      [
+        "Local Response Normalization",
+        "Neuron Activation"
+      ],
+      [
+        "C.K.I. Williams",
+        "References for Neural Network Research and Dropout Methods (list)"
+      ],
+      [
+        "Dropout Training",
+        "Weight Update Rule in Neural Networks (equation)"
+      ],
+      [
+        "Stochastic Gradient Descent (SGD)",
+        "Weight Update Rule in Neural Networks (equation)"
+      ],
+      [
+        "Automatic Speech Recognition",
+        "TIMIT Acoustic-Phonetic Continuous Speech Corpus"
+      ],
+      [
+        "Line Chart",
+        "Training Set Error Line Chart (image)"
+      ],
+      [
+        "Deep Learning Performance Metrics with Dropout Techniques (page_number)",
+        "Reuters"
+      ],
+      [
+        "Epoch Threshold",
+        "Momentum Adjustment Over Training Epochs (equation)"
+      ],
+      [
+        "Cross-Entropy",
+        "Validation Set Cross Entropy Chart (image)"
+      ],
+      [
+        "Neural Network",
+        "Optimization Techniques"
+      ],
+      [
+        "Dropout Training Methods",
+        "Finetuning Pretrained Models using Dropout (page_number)"
+      ],
+      [
+        "G. E. Hinton",
+        "References for Neural Network Research and Dropout Methods (list)"
+      ],
+      [
+        "Loss Function",
+        "Weight Vector"
+      ],
+      [
+        "Line Graph",
+        "Training_Set_Cross_Entropy_Graph (image)"
+      ],
+      [
+        "Model Configurations",
+        "Summary of Model Performance and Configuration (page_number)"
+      ],
+      [
+        "Image Path",
+        "Training Set Error Line Chart (image)"
+      ],
+      [
+        "Details for dropout training experiments (page_number)",
+        "MNIST Dataset"
+      ],
+      [
+        "Iterative Update Rule",
+        "Weight Update Rule in Neural Networks (equation)"
+      ],
+      [
+        "Classification Error",
+        "Error Rate Comparison Line Graph (image)"
+      ],
+      [
+        "Cheetah",
+        "ImageNet Classification Sample Results (image)"
+      ],
+      [
+        "Content Analysis",
+        "Neural Network Experiments"
+      ],
+      [
+        "CIFAR-10",
+        "Page 17"
+      ],
+      [
+        "CIFAR-10",
+        "Technical Foundations of CNNs (page_number)"
+      ],
+      [
+        "31 Frames 4 Layers 4000 Units",
+        "Validation Set Error"
+      ],
+      [
+        "Deep Learning Optimization Techniques",
+        "Training Dynamics"
+      ],
+      [
+        "Dropout Neural Network Error Rate Comparison on MNIST (image)",
+        "MNIST Test Set"
+      ],
+      [
+        "Methods",
+        "Research Contributions"
+      ],
+      [
+        "Regularization Techniques",
+        "Weight Update Formula with Dropout and Momentum (equation)"
+      ],
+      [
+        "Page Number",
+        "References and Notes (page_number)"
+      ],
+      [
+        "Neural Network",
+        "Training Regime"
+      ],
+      [
+        "Grid Visualization",
+        "Visualization of Learned Features from Neural Network Hidden Units (image)"
+      ],
+      [
+        "TIMIT Acoustic-Phonetic Continuous Speech Corpus",
+        "TIMIT Speech Recognition Experiments (page_number)"
+      ],
+      [
+        "Epochs",
+        "Error Rate Comparison Line Graph (image)"
+      ],
+      [
+        "Cross Entropy",
+        "Training Set Cross Entropy"
+      ],
+      [
+        "MNIST",
+        "Weight Vector"
+      ],
+      [
+        "Document Pagination",
+        "Empty Page (page_number)"
+      ],
+      [
+        "Dropout Techniques",
+        "Page_Number"
+      ],
+      [
+        "Convolutional Neural Network (CNN)",
+        "Local Response Normalization"
+      ],
+      [
+        "Deep Neural Networks",
+        "Image Recognition Tasks"
+      ],
+      [
+        "Deep Convolutional Neural Networks",
+        "ImageNet Classification"
+      ],
+      [
+        "ImageNet Dataset",
+        "Models for ImageNet (page_number)"
+      ],
+      [
+        "Deep Neural Networks",
+        "Overfitting"
+      ],
+      [
+        "Model Configurations",
+        "Page 17"
+      ],
+      [
+        "Deep Convolutional Neural Networks",
+        "TIMIT Benchmark Test Error Rate with Dropout Comparison (image)"
+      ],
+      [
+        "Dropout Training",
+        "Neural Networks"
+      ],
+      [
+        "100 Random Features",
+        "Neural Network Filters"
+      ],
+      [
+        "Dynamic Parameter Adjustment",
+        "Momentum Adjustment Over Training Epochs (equation)"
+      ],
+      [
+        "Error Rate Comparison Line Graph (image)",
+        "Vibrant Colors"
+      ],
+      [
+        "Technical Foundations of CNNs (page_number)",
+        "Weight Initialization Strategies"
+      ],
+      [
+        "Dropout Performance Analysis in Neural Networks (page_number)",
+        "Neural Network Architectures"
+      ],
+      [
+        "Page Footnote",
+        "Reuters Corpus Volume I (RCV1-v2)"
+      ],
+      [
+        "Exponential Decay",
+        "Exponential Learning Rate Decay (equation)"
+      ],
+      [
+        "Neural Network",
+        "Stochastic Gradient Descent (SGD)"
+      ],
+      [
+        "Gradient of the Loss Function",
+        "Momentum-based Stochastic Gradient Descent Update Rule (equation)"
+      ],
+      [
+        "Neural Network",
+        "Visualization of Learned Features from Neural Network Hidden Units (image)"
+      ],
+      [
+        "Input Feature Extraction",
+        "Normalization of Input Data"
+      ],
+      [
+        "Dropout",
+        "Dropout Training Methods"
+      ],
+      [
+        "Dropout Techniques",
+        "Empty Page (page_number)"
+      ],
+      [
+        "Deep Neural Networks",
+        "ImageNet Dataset"
+      ],
+      [
+        "15 Frames 3 Layers 4000 Units",
+        "Training_Set_Cross_Entropy_Graph (image)"
+      ],
+      [
+        "Image Content Analysis",
+        "Training_Set_Cross_Entropy_Graph (image)"
+      ],
+      [
+        "Max-Pooling",
+        "Models for ImageNet (page_number)"
+      ],
+      [
+        "Grayscale Visual Patterns",
+        "Neural Network Feature Grid (image)"
+      ],
+      [
+        "CIFAR Dataset",
+        "CIFAR Dataset Reference (page_footnote)"
+      ],
+      [
+        "CIFAR-10",
+        "Datasets and Convolutional Neural Networks Overview (page_number)"
+      ],
+      [
+        "Deep Belief Networks",
+        "Finetuning Pretrained Models using Dropout (page_number)"
+      ],
+      [
+        "Page Footnote",
+        "Reuters Corpus Volume I Reference (page_footnote)"
+      ],
+      [
+        "Learning Rate",
+        "Momentum"
+      ],
+      [
+        "Dropout",
+        "Dropout Neural Network Error Rate Comparison on MNIST (image)"
+      ],
+      [
+        "TIMIT",
+        "Weight Update Rule in Neural Networks (equation)"
+      ],
+      [
+        "CIFAR-10",
+        "Page 13"
+      ],
+      [
+        "Geoffrey Hinton",
+        "Hinton MATLAB Code Reference (page_footnote)"
+      ],
+      [
+        "Content Analysis",
+        "Page_Number"
+      ],
+      [
+        "Dropout Neural Network Error Rate Comparison on MNIST (image)",
+        "Line Graph"
+      ],
+      [
+        "Bagging",
+        "Dropout in Neural Networks (page_number)"
+      ],
+      [
+        "Content",
+        "page_number_2f04c1538de09178bca4e21ea42a8c70"
+      ],
+      [
+        "Dropout",
+        "Momentum Adjustment Over Training Epochs (equation)"
+      ],
+      [
+        "Content Analysis",
+        "Page Number 17"
+      ],
+      [
+        "ImageNet Classification Sample Results (image)",
+        "Probabilistic Model Output"
+      ],
+      [
+        "Epoch",
+        "Validation Set Cross Entropy Chart (image)"
+      ],
+      [
+        "ImageNet",
+        "Momentum-based Stochastic Gradient Descent Update Rule (equation)"
+      ],
+      [
+        "Classification Tasks",
+        "MNIST Dataset"
+      ],
+      [
+        "Dropout",
+        "Visualization of Learned Features from Neural Network Hidden Units (image)"
+      ],
+      [
+        "Exponential Learning Rate Decay (equation)",
+        "Neural Network"
+      ],
+      [
+        "Local Response Normalization (equation)",
+        "Mathematical Equation"
+      ],
+      [
+        "Dropout Performance Analysis in Neural Networks (page_number)",
+        "TIMIT"
+      ],
+      [
+        "CIFAR-10",
+        "Deep Learning Performance Metrics with Dropout Techniques (page_number)"
+      ],
+      [
+        "Neural Network Designs",
+        "Summary of Model Performance and Configuration (page_number)"
+      ],
+      [
+        "Iterative Update Rule",
+        "Mathematical Equation"
+      ],
+      [
+        "Epochs",
+        "Test Set Error"
+      ],
+      [
+        "Page 6",
+        "Page Number"
+      ],
+      [
+        "Models for ImageNet (page_number)",
+        "Page Number 17"
+      ],
+      [
+        "Learning Progress",
+        "Validation Set Cross Entropy Chart (image)"
+      ],
+      [
+        "Deep Convolutional Neural Networks",
+        "TIMIT Benchmark"
+      ],
+      [
+        "Continuation of Experiments on Dropout Finetuning (page_number)",
+        "Page Number 10"
+      ],
+      [
+        "Dropout Training Methods",
+        "Page 8"
+      ],
+      [
+        "Content Analysis",
+        "Continuation of Experiments on Dropout Finetuning (page_number)"
+      ],
+      [
+        "Momentum-based Stochastic Gradient Descent Update Rule (equation)",
+        "Weight Update Equation"
+      ],
+      [
+        "Classification Error Rate",
+        "Dropout"
+      ],
+      [
+        "Aside Text",
+        "arXiv:1207.0580v1"
+      ],
+      [
+        "Content",
+        "Page Number"
+      ],
+      [
+        "Deep Neural Networks",
+        "Dropout Regularization"
+      ],
+      [
+        "Image Content Analysis",
+        "Probabilistic Model Output"
+      ],
+      [
+        "Error Rate Comparison Line Graph (image)",
+        "Training Set Error"
+      ],
+      [
+        "ImageNet Classification Sample Results (image)",
+        "Top 5 Predicted Labels"
+      ],
+      [
+        "Deep Learning Optimization Techniques",
+        "Momentum Adjustment Over Training Epochs (equation)"
+      ],
+      [
+        "CIFAR-10",
+        "Momentum-based Stochastic Gradient Descent Update Rule (equation)"
+      ],
+      [
+        "Line Graph",
+        "Training Set Cross Entropy"
+      ],
+      [
+        "Exponential Learning Rate Decay (equation)",
+        "Learning Rate"
+      ],
+      [
+        "Error Rate Comparison Line Graph (image)",
+        "Network Architecture"
+      ],
+      [
+        "Deep Convolutional Neural Networks",
+        "Line Graph"
+      ],
+      [
+        "Dropout",
+        "TIMIT"
+      ],
+      [
+        "Convolutional Neural Networks",
+        "Objective Functions"
+      ],
+      [
+        "Reuters Dataset Classification Error Graph (image)",
+        "Training without Dropout"
+      ],
+      [
+        "Deep Boltzmann Machines",
+        "Finetuning Pretrained Models using Dropout (page_number)"
+      ],
+      [
+        "Mathematical Equation",
+        "Neural Network"
+      ],
+      [
+        "Exponential Learning Rate Decay (equation)",
+        "MNIST"
+      ],
+      [
+        "3 Jul 2012",
+        "arXiv:1207.0580v1"
+      ],
+      [
+        "Deep Learning Applications",
+        "Deep Learning Performance Metrics with Dropout Techniques (page_number)"
+      ],
+      [
+        "Epoch",
+        "Exponential Learning Rate Decay (equation)"
+      ],
+      [
+        "Line Graph",
+        "Validation Set Error Line Graph (image)"
+      ],
+      [
+        "Aside Text",
+        "aside_text_45cbd54c17621460eb6ec08dbed00a84"
+      ],
+      [
+        "Exponential Learning Rate Decay (equation)",
+        "Image Classification"
+      ],
+      [
+        "D. E. Rumelhart",
+        "Neural Computation 3"
+      ],
+      [
+        "Finetuning without Dropout",
+        "Training_Set_Cross_Entropy_Graph (image)"
+      ],
+      [
+        "Momentum Adjustment Over Training Epochs (equation)",
+        "Piecewise Function"
+      ],
+      [
+        "Momentum",
+        "Momentum Adjustment Over Training Epochs (equation)"
+      ],
+      [
+        "Content",
+        "Link to Deep Belief Network Code (page_footnote)"
+      ],
+      [
+        "Empty Page (page_number)",
+        "Overfitting"
+      ],
+      [
+        "Momentum Adjustment Over Training Epochs (equation)",
+        "Training Dynamics"
+      ],
+      [
+        "15 Frames 3 Layers 2000 Units",
+        "Training_Set_Cross_Entropy_Graph (image)"
+      ],
+      [
+        "Classification Error %",
+        "Validation Set Error"
+      ],
+      [
+        "Dropout Training Methods",
+        "MNIST Dataset"
+      ],
+      [
+        "3 Jul 2012",
+        "aside_text_45cbd54c17621460eb6ec08dbed00a84"
+      ],
+      [
+        "Training Neural Networks",
+        "Weight Vector"
+      ],
+      [
+        "Frame Classification Error",
+        "Stochastic Nets"
+      ],
+      [
+        "Deep Convolutional Neural Networks",
+        "Neural Network Feature Grid (image)"
+      ],
+      [
+        "Hand Glass",
+        "Image Content Analysis"
+      ],
+      [
+        "Neural Networks",
+        "Page Footnote"
+      ],
+      [
+        "Max-With-Zero Nonlinearity",
+        "Neural Network Training Techniques and Nonlinearities (page_number)"
+      ],
+      [
+        "Finetuning Techniques and Experiments Overview (page_number)",
+        "Gaussian Restricted Boltzmann Machine"
+      ],
+      [
+        "Datasets and Convolutional Neural Networks Overview (page_number)",
+        "Page 13"
+      ],
+      [
+        "N. Jaitly",
+        "TIMIT"
+      ],
+      [
+        "Epochs",
+        "Neural Network Training Methodologies"
+      ],
+      [
+        "Epochs",
+        "Training_Set_Cross_Entropy_Graph (image)"
+      ],
+      [
+        "L. M. G. D. C. Ciresan",
+        "Neural Computation 22"
+      ],
+      [
+        "Data Augmentation Techniques",
+        "Models for ImageNet (page_number)"
+      ],
+      [
+        "Dropout Training Methods",
+        "Training Methodologies"
+      ],
+      [
+        "Dataset Processing",
+        "TIMIT Speech Recognition Experiments (page_number)"
+      ],
+      [
+        "Details for dropout training experiments (page_number)",
+        "Stochastic Gradient Descent"
+      ],
+      [
+        "Empirical Evidence",
+        "Research Contributions"
+      ],
+      [
+        "CIFAR-10 Bird Class Examples (image)",
+        "Image Path"
+      ],
+      [
+        "Citations",
+        "Page 6"
+      ],
+      [
+        "Artificial Intelligence and Statistics",
+        "R. Salakhutdinov"
+      ],
+      [
+        "Stochastic Gradient Descent",
+        "Weight Update Equation"
+      ],
+      [
+        "D:\\DataFiles\\01_Dynamic_Repo_Github\\RagAnything\\run\\output\\[2012]_ImageNet_Classification_with_Deep_Convolutional_Neural_Networks\\hybrid_auto\\images\\4f110fcf5de03858c4d496d0c5136abb1a019a9be05806386d44e58ac16fa411.jpg",
+        "Visualization of Learned Features from Neural Network Hidden Units (image)"
+      ],
+      [
+        "Image Content Analysis",
+        "Reuters Dataset"
+      ],
+      [
+        "Neural Network Training Techniques and Nonlinearities (page_number)",
+        "Objective Function"
+      ],
+      [
+        "Mathematical Equation",
+        "Momentum"
+      ],
+      [
+        "Dropout",
+        "TIMIT Benchmark Test Error Rate with Dropout Comparison (image)"
+      ],
+      [
+        "Details for dropout training experiments (page_number)",
+        "Dropout Training"
+      ],
+      [
+        "Dropout Techniques",
+        "ImageNet"
+      ],
+      [
+        "Convolutional Neural Networks Overview (page_number)",
+        "ImageNet"
+      ],
+      [
+        "Gaussian Restricted Boltzmann Machine",
+        "Page 11"
+      ],
+      [
+        "15 Frames 3 Layers 4000 Units",
+        "Training Set Cross Entropy"
+      ],
+      [
+        "Dropout Performance Analysis in Neural Networks (page_number)",
+        "Performance Metrics"
+      ],
+      [
+        "Epoch",
+        "Neural Network"
+      ],
+      [
+        "Page 15",
+        "Weight Initialization"
+      ],
+      [
+        "TIMIT Benchmark",
+        "TIMIT Benchmark Test Error Rate with Dropout Comparison (image)"
+      ],
+      [
+        "Reuters Corpus Volume I (RCV1-v2)",
+        "URL Link"
+      ],
+      [
+        "Final Momentum",
+        "Initial Momentum"
+      ],
+      [
+        "Finetuning with Dropout",
+        "Training_Set_Cross_Entropy_Graph (image)"
+      ],
+      [
+        "MNIST",
+        "Momentum Adjustment Over Training Epochs (equation)"
+      ],
+      [
+        "Model Efficiency",
+        "Neural Networks"
+      ],
+      [
+        "MNIST Dataset",
+        "Page Number 7"
+      ],
+      [
+        "ImageNet Classification",
+        "Reuters Dataset Classification Error Graph (image)"
+      ],
+      [
+        "Image Path",
+        "Validation Set Cross Entropy Chart (image)"
+      ],
+      [
+        "Validation Set Cross Entropy",
+        "Validation Set Cross Entropy Chart (image)"
+      ],
+      [
+        "Details for dropout training experiments (page_number)",
+        "Neural Networks"
+      ],
+      [
+        "CIFAR-10",
+        "Convolutional Neural Networks (CNNs)"
+      ],
+      [
+        "Weight Update Rule in Neural Networks (equation)",
+        "Weight Vector"
+      ],
+      [
+        "15 Frames 3 Layers 4000 Units",
+        "Validation Set Error Line Graph (image)"
+      ],
+      [
+        "Backpropagation",
+        "Dropout"
+      ],
+      [
+        "Image Content Analysis",
+        "Validation Set Error Line Graph (image)"
+      ],
+      [
+        "Validation Set Error",
+        "Validation Set Error Line Graph (image)"
+      ],
+      [
+        "CIFAR Dataset",
+        "Page Footnote"
+      ],
+      [
+        "Mathematical Equation",
+        "Momentum Adjustment Over Training Epochs (equation)"
+      ],
+      [
+        "Convolutional Neural Networks",
+        "ImageNet"
+      ],
+      [
+        "Neural Network Configurations",
+        "Validation Set Cross Entropy Chart (image)"
+      ],
+      [
+        "Convolutional Neural Networks",
+        "Normalization Layers"
+      ],
+      [
+        "Convolutional Neural Networks (CNNs)",
+        "Convolutional Neural Networks Overview (page_number)"
+      ],
+      [
+        "Page 11",
+        "Training Process"
+      ],
+      [
+        "Dropout Neural Network Error Rate Comparison on MNIST (image)",
+        "ImageNet Classification"
+      ],
+      [
+        "Epoch",
+        "Learning Rate"
+      ],
+      [
+        "Dropout",
+        "Performance Metrics"
+      ],
+      [
+        "Dropout",
+        "improved model performance"
+      ],
+      [
+        "G. Dahl",
+        "IEEE Transactions on Audio, Speech, and Language Processing"
+      ],
+      [
+        "Analysis",
+        "Page Number"
+      ],
+      [
+        "Details for dropout training experiments (page_number)",
+        "Dropout Mechanism"
+      ],
+      [
+        "Neural Network Configurations",
+        "Training Set Error"
+      ],
+      [
+        "Stochastic Nets",
+        "Validation Set Cross Entropy Chart (image)"
+      ],
+      [
+        "Local Response Normalization",
+        "Mathematical Equation"
+      ],
+      [
+        "CIFAR-10",
+        "Dropout"
+      ],
+      [
+        "Binary Restricted Boltzmann Machine",
+        "Finetuning Techniques and Experiments Overview (page_number)"
+      ],
+      [
+        "Blue Line",
+        "Reuters Dataset Classification Error Graph (image)"
+      ],
+      [
+        "Convolutional Neural Network (CNN)",
+        "Local Response Normalization (equation)"
+      ],
+      [
+        "Non-Linear Activation Functions",
+        "Technical Foundations of CNNs (page_number)"
+      ],
+      [
+        "Continuation of Experiments on Dropout Finetuning (page_number)",
+        "Dropout Effects"
+      ],
+      [
+        "Neural Network Training Methodologies",
+        "Validation Set Error Line Graph (image)"
+      ],
+      [
+        "Error Rate Comparison Line Graph (image)",
+        "Line Graph"
+      ],
+      [
+        "Training Set Cross Entropy",
+        "Training_Set_Cross_Entropy_Graph (image)"
+      ],
+      [
+        "Continuation of Experiments on Dropout Finetuning (page_number)",
+        "Neural Network Training"
+      ],
+      [
+        "Bullet Train",
+        "ImageNet Classification Sample Results (image)"
+      ],
+      [
+        "Neural Network Configurations",
+        "Training Set Error Line Chart (image)"
+      ],
+      [
+        "Momentum",
+        "Stochastic Gradient Descent"
+      ],
+      [
+        "Dropout Performance Analysis in Neural Networks (page_number)",
+        "Page 3"
+      ],
+      [
+        "Momentum Adjustment Over Training Epochs (equation)",
+        "Training Epochs"
+      ],
+      [
+        "Dropout in Neural Networks (page_number)",
+        "Model Efficiency"
+      ],
+      [
+        "Dropout",
+        "Neural Network"
+      ],
+      [
+        "Dropout Training",
+        "Stochastic Gradient Descent"
+      ],
+      [
+        "Lateral Inhibition",
+        "Local Response Normalization"
+      ],
+      [
+        "ImageNet",
+        "Local Response Normalization (equation)"
+      ],
+      [
+        "Content Analysis",
+        "Deep Learning Applications"
+      ],
+      [
+        "Model Training",
+        "Neural Network Designs"
+      ],
+      [
+        "Dropout",
+        "Momentum-based Stochastic Gradient Descent Update Rule (equation)"
+      ],
+      [
+        "Datasets and Convolutional Neural Networks Overview (page_number)",
+        "Image Classification"
+      ],
+      [
+        "Binary Restricted Boltzmann Machine",
+        "Hyperparameters"
+      ],
+      [
+        "Deep Boltzmann Machines",
+        "Page 8"
+      ],
+      [
+        "Convolutional Neural Networks",
+        "Weight Initialization Strategies"
+      ],
+      [
+        "Epoch",
+        "Validation Set Cross Entropy"
+      ],
+      [
+        "Citations",
+        "Empirical Evidence"
+      ],
+      [
+        "100 Random Features",
+        "Neural Network Feature Grid (image)"
+      ],
+      [
+        "Convolutional Neural Networks Overview (page_number)",
+        "Pooling"
+      ],
+      [
+        "Gradient",
+        "Weight Update Formula with Dropout and Momentum (equation)"
+      ],
+      [
+        "Neural Network Feature Grid (image)",
+        "Neural Network Filters"
+      ],
+      [
+        "Neural Networks",
+        "Reuters Corpus Volume I (RCV1-v2)"
+      ],
+      [
+        "G. E. Hinton",
+        "Neural Computation 14"
+      ],
+      [
+        "Dropout Regularization",
+        "Models for ImageNet (page_number)"
+      ],
+      [
+        "Image Content Analysis",
+        "MNIST Dataset"
+      ],
+      [
+        "Neural Networks",
+        "Overfitting"
+      ],
+      [
+        "Content Analysis",
+        "Page 12 (page_number)"
+      ],
+      [
+        "CIFAR-10",
+        "Neural Network Experiments"
+      ],
+      [
+        "Line Graph",
+        "Neural Network Architectures"
+      ],
+      [
+        "80%",
+        "Validation Set Error Line Graph (image)"
+      ],
+      [
+        "Dropout",
+        "Page 3"
+      ],
+      [
+        "Convolutional Neural Networks",
+        "Datasets and Convolutional Neural Networks Overview (page_number)"
+      ],
+      [
+        "Finetuning Techniques and Experiments Overview (page_number)",
+        "Training Process"
+      ],
+      [
+        "Learning Progress",
+        "Validation Set Cross Entropy"
+      ],
+      [
+        "Deep Learning Performance Metrics with Dropout Techniques (page_number)",
+        "Dropout Techniques"
+      ],
+      [
+        "Input Feature Extraction",
+        "TIMIT Speech Recognition Experiments (page_number)"
+      ],
+      [
+        "ImageNet",
+        "Page 13"
+      ],
+      [
+        "Finetuning without Dropout",
+        "Training Set Cross Entropy"
+      ],
+      [
+        "CIFAR-10 Bird Class Examples (image)",
+        "Ostrich"
+      ],
+      [
+        "Hinton MATLAB Code Reference (page_footnote)",
+        "Page Footnote"
+      ],
+      [
+        "Neural Network Training Techniques and Nonlinearities (page_number)",
+        "Page 15"
+      ],
+      [
+        "Finetuning without Dropout",
+        "Training Set Error"
+      ],
+      [
+        "Dropout",
+        "Line Graph"
+      ],
+      [
+        "Model Training",
+        "Summary of Model Performance and Configuration (page_number)"
+      ],
+      [
+        "Feature Learning Process",
+        "Grayscale Visual Patterns"
+      ],
+      [
+        "CIFAR-10",
+        "Local Response Normalization (equation)"
+      ],
+      [
+        "Algorithm Performance Metrics",
+        "Deep Learning Performance Metrics with Dropout Techniques (page_number)"
+      ],
+      [
+        "15 Frames 3 Layers 2000 Units",
+        "Training Set Cross Entropy"
+      ],
+      [
+        "Dataset Descriptions",
+        "Datasets and Convolutional Neural Networks Overview (page_number)"
+      ],
+      [
+        "Gradient Descent",
+        "Weight Update Rule in Neural Networks (equation)"
+      ],
+      [
+        "Page Number",
+        "page_number_2f04c1538de09178bca4e21ea42a8c70"
+      ],
+      [
+        "Convolutional Layers",
+        "Deep Neural Networks"
+      ],
+      [
+        "Convolutional Neural Networks (CNNs)",
+        "ImageNet"
+      ],
+      [
+        "L. M. G. D. C. Ciresan",
+        "References for Neural Network Research and Dropout Methods (list)"
+      ]
+    ],
+    "count": 634,
+    "create_time": 1775047697,
+    "update_time": 1775047697,
+    "_id": "doc-7456eae662451bb9227d50b25d549442"
+  }
+}
